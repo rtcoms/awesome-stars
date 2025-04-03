@@ -2330,6 +2330,7 @@
 - [fossunited/joy](https://github.com/fossunited/joy) - Joy is a tiny creative coding library in Python.
 - [onnx/models](https://github.com/onnx/models) - A collection of pre-trained, state-of-the-art models in the ONNX format
 - [CompVis/taming-transformers](https://github.com/CompVis/taming-transformers) - Taming Transformers for High-Resolution Image Synthesis
+- [wilsonfreitas/awesome-quant](https://github.com/wilsonfreitas/awesome-quant) - A curated list of insanely awesome libraries, packages and resources for Quants (Quantitative Finance)
 - [vijishmadhavan/ArtLine](https://github.com/vijishmadhavan/ArtLine) - A Deep Learning based project for creating line art portraits.
 - [swechhasingh/Handwriting-synthesis](https://github.com/swechhasingh/Handwriting-synthesis) - Implementation of "Generating Sequences With Recurrent Neural Networks" https://arxiv.org/abs/1308.0850
 - [eka-foundation/numerical-computing-is-fun](https://github.com/eka-foundation/numerical-computing-is-fun) - Learning numerical computing with notebooks for all ages.
@@ -2759,7 +2760,6 @@
 - [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python) - All Algorithms implemented in Python
 - [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - Hunt down social media accounts by username across social networks
 - [dividuum/xkcd-1110](https://github.com/dividuum/xkcd-1110) - Code for xkcd-map.rent-a-geek.de
-- [wilsonfreitas/awesome-quant](https://github.com/wilsonfreitas/awesome-quant) - A curated list of insanely awesome libraries, packages and resources for Quants (Quantitative Finance)
 - [tradytics/eiten](https://github.com/tradytics/eiten) - Statistical and Algorithmic Investing Strategies for Everyone
 - [vinissimus/jobs](https://github.com/vinissimus/jobs) - A PL/PGSQL based work queue, with an asyncio asyncpg python API
 - [aws/chalice](https://github.com/aws/chalice) - Python Serverless Microframework for AWS
@@ -3894,7 +3894,7 @@
 - [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE) - There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and r
 - [bitmakerla/estela](https://github.com/bitmakerla/estela) - estela, an elastic web scraping cluster 🕸
 - [total-typescript/beginners-typescript-tutorial](https://github.com/total-typescript/beginners-typescript-tutorial) - An interactive TypeScript tutorial for beginners
-- [novuhq/novu](https://github.com/novuhq/novu) - Open-Source Notification Platform. Embeddable Notification Center, E-mail, Push and Slack Integrations.
+- [novuhq/novu](https://github.com/novuhq/novu) - The open-source notification Inbox infrastructure. E-mail, SMS, Push and Slack Integrations.
 - [felixrieseberg/slack-archive](https://github.com/felixrieseberg/slack-archive) - Generate static HTML archives of Slack workspaces
 - [n6ai/minze](https://github.com/n6ai/minze) - Dead-simple JS framework for native web components.
 - [trufflesuite/ganache](https://github.com/trufflesuite/ganache) - :warning: The Truffle Suite is being sunset. For information on ongoing support, migration options and FAQs, visit the Consensys blog. Thank you for all the support over the years.
