@@ -1748,7 +1748,7 @@
 - [CartoDB/odyssey.js](https://github.com/CartoDB/odyssey.js) - Making it easy to merge map and narrative
 - [TTLabs/EvaporateJS](https://github.com/TTLabs/EvaporateJS) - Javascript library for browser to S3 multipart resumable uploads
 - [jdorn/json-editor](https://github.com/jdorn/json-editor) - JSON Schema Based Editor
-- [jcubic/sysend.js](https://github.com/jcubic/sysend.js) - Web application synchronization between different tabs
+- [jcubic/sysend](https://github.com/jcubic/sysend) - Web application synchronization between different tabs
 - [MrRio/vtop](https://github.com/MrRio/vtop) - Wow such top. So stats. More better than regular top.
 - [space150/boba.js](https://github.com/space150/boba.js) - Need those links tracked? "As you wish."
 - [jillesme/AdBlockCheck](https://github.com/jillesme/AdBlockCheck) - Check if your visitors have AdBlock enabled
