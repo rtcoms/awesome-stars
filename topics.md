@@ -251,6 +251,7 @@
 - [twitter](#twitter)
 - [typescript](#typescript)
 - [ubuntu](#ubuntu)
+- [ui-design](#ui-design)
 - [unity](#unity)
 - [vagrant](#vagrant)
 - [vim](#vim)
@@ -4223,7 +4224,6 @@
 - [hsnaydd/moveTo](https://github.com/hsnaydd/moveTo) - A lightweight scroll animation javascript library without any dependency
 - [metafizzy/flickity](https://github.com/metafizzy/flickity) - :leaves: Touch, responsive, flickable carousels
 - [bmorelli25/Become-A-Full-Stack-Web-Developer](https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer) - Free resources for learning Full Stack Web Development
-- [nordtheme/nord](https://github.com/nordtheme/nord) - An arctic, north-bluish color palette.
 - [mkrogemann/couchdb_connector](https://github.com/mkrogemann/couchdb_connector) - A couchdb connector for Elixir
 - [quentint/long-press](https://github.com/quentint/long-press) - jQuery plugin to ease the writing of accented or rare characters.
 - [rubentd/radios-to-slider](https://github.com/rubentd/radios-to-slider) - jquery plugin to create a slider using a list of radio buttons
@@ -4736,8 +4736,8 @@
 - [Codeinwp/Ideal-Image-Slider-JS](https://github.com/Codeinwp/Ideal-Image-Slider-JS) - Quite simply the ideal Image Slider in vanilla JS.
 - [jaysalvat/jquery.facedetection](https://github.com/jaysalvat/jquery.facedetection) - A jQuery plugin to detect faces on images, videos and canvases.
 - [zendesk/cross-storage](https://github.com/zendesk/cross-storage) - Cross domain local storage, with permissions
-- [tkazec/final--jquery-keystop](https://github.com/tkazec/final--jquery-keystop) - jQuery keystop event plugin.
-- [tkazec/morphine](https://github.com/tkazec/morphine) - “Regulated distraction.” Productivity for Chrome.
+- [tddyco/final--jquery-keystop](https://github.com/tddyco/final--jquery-keystop) - jQuery keystop event plugin.
+- [tddyco/morphine](https://github.com/tddyco/morphine) - “Regulated distraction.” Productivity for Chrome.
 - [chromawoods/instaFilta](https://github.com/chromawoods/instaFilta) - jQuery plugin for performing in-page filtering
 - [gazay/gon](https://github.com/gazay/gon) - Your Rails variables in your JS
 - [raphaelfabeni/flags-css3](https://github.com/raphaelfabeni/flags-css3) - Countries flags developed using only CSS3
@@ -7563,6 +7563,13 @@
 - [angristan/openvpn-install](https://github.com/angristan/openvpn-install) - Set up your own OpenVPN server on Debian, Ubuntu, Fedora, CentOS, Arch Linux and more
 - [piku/piku](https://github.com/piku/piku) - The tiniest PaaS you've ever seen. Piku allows you to do git push deployments to your own servers.
 - [anmoljagetia/Flatabulous](https://github.com/anmoljagetia/Flatabulous) - This is a Flat theme for Ubuntu and other Gnome based Linux Systems.
+
+## ui-design 
+
+- [goabstract/Awesome-Design-Tools](https://github.com/goabstract/Awesome-Design-Tools) - The best design tools and plugins for everything 👉
+- [nordtheme/nord](https://github.com/nordtheme/nord) - An arctic, north-bluish color palette.
+- [ganapativs/bttn.css](https://github.com/ganapativs/bttn.css) - Awesome buttons for awesome projects!
+- [vuetifyjs/vuetify](https://github.com/vuetifyjs/vuetify) - 🐉 Vue Component Framework
 
 ## unity 
 
