@@ -1681,8 +1681,8 @@
 - [Codeinwp/Ideal-Image-Slider-JS](https://github.com/Codeinwp/Ideal-Image-Slider-JS) - Quite simply the ideal Image Slider in vanilla JS.
 - [jaysalvat/jquery.facedetection](https://github.com/jaysalvat/jquery.facedetection) - A jQuery plugin to detect faces on images, videos and canvases.
 - [zendesk/cross-storage](https://github.com/zendesk/cross-storage) - Cross domain local storage, with permissions
-- [tkazec/final--jquery-keystop](https://github.com/tkazec/final--jquery-keystop) - jQuery keystop event plugin.
-- [tkazec/morphine](https://github.com/tkazec/morphine) - “Regulated distraction.” Productivity for Chrome.
+- [tddyco/final--jquery-keystop](https://github.com/tddyco/final--jquery-keystop) - jQuery keystop event plugin.
+- [tddyco/morphine](https://github.com/tddyco/morphine) - “Regulated distraction.” Productivity for Chrome.
 - [fouber/page-monitor](https://github.com/fouber/page-monitor) - capture webpage and diff the dom change with phantomjs  ♨
 - [jonom/jquery-focuspoint](https://github.com/jonom/jquery-focuspoint) - jQuery plugin for 'responsive cropping'. Dynamically crop images to fill available space without cutting out the image's subject. Great for full-screen images.
 - [skatejs/skatejs](https://github.com/skatejs/skatejs) - Effortless custom elements powered by modern view libraries.
