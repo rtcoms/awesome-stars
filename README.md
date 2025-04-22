@@ -605,7 +605,7 @@
 - [themesberg/flowbite-admin-dashboard](https://github.com/themesberg/flowbite-admin-dashboard) - Free and open-source admin dashboard template built with Tailwind CSS and Flowbite
 - [hopsoft/turbo_boost-commands](https://github.com/hopsoft/turbo_boost-commands) - Commands to help you build robust reactive applications with Rails & Hotwire.
 - [ChartsCSS/charts.css](https://github.com/ChartsCSS/charts.css) - Open source CSS framework for data visualization.
-- [markmead/hyperui](https://github.com/markmead/hyperui) - Free Tailwind CSS components for application UI, ecommerce and marketing with support for dark mode, RTL and Alpine JS 🚀
+- [markmead/hyperui](https://github.com/markmead/hyperui) - Free Tailwind CSS v4 components for your next project, designed to enhance your web development with the latest features and styles 🚀
 - [aadityatamrakar/option_chain_analysis](https://github.com/aadityatamrakar/option_chain_analysis) - NSE Nifty Option chain analysis on the web page.
 - [propublica/daybreak](https://github.com/propublica/daybreak) - A simple-dimple key value store for ruby.
 - [vighneshwho/clones](https://github.com/vighneshwho/clones) - UI Clones from dribble created using pure HTML & CSS
@@ -1293,7 +1293,7 @@
 - [acode/cli](https://github.com/acode/cli) - Autocode CLI and standard library tooling
 - [amazon-archives/aws-mobile-react-native-starter](https://github.com/amazon-archives/aws-mobile-react-native-starter) - AWS Mobile React Native Starter App     https://aws.amazon.com/mobile
 - [charlestati/amplify](https://github.com/charlestati/amplify) - A tiny script allowing inline image zoom
-- [kubetail-org/sentineljs](https://github.com/kubetail-org/sentineljs) - Detect new DOM nodes using CSS selectors (650 bytes)
+- [amorey/sentineljs](https://github.com/amorey/sentineljs) - Detect new DOM nodes using CSS selectors (650 bytes)
 - [spencermountain/compromise](https://github.com/spencermountain/compromise) - modest natural-language processing
 - [vitogit/sorter](https://github.com/vitogit/sorter) - Sorter is a webapp to organize ideas, tasks and information using bullet points and hashtags.
 - [DextApp/dext](https://github.com/DextApp/dext) - 🔍 A smart launcher. Powered by JavaScript.
@@ -1346,7 +1346,7 @@
 - [amark/gun](https://github.com/amark/gun) - An open source cybersecurity protocol for syncing decentralized graph data.
 - [cloudfour/hideShowPassword](https://github.com/cloudfour/hideShowPassword) - Because life's too short to waste time re-typing passwords.
 - [video-react/video-react](https://github.com/video-react/video-react) - A web video player built for the HTML5 world using React library.
-- [kubetail-org/loadjs](https://github.com/kubetail-org/loadjs) - A tiny async loader / dependency manager for modern browsers (961 bytes)
+- [amorey/loadjs](https://github.com/amorey/loadjs) - A tiny async loader / dependency manager for modern browsers (961 bytes)
 - [digitalbreed/jquery.fbmessenger](https://github.com/digitalbreed/jquery.fbmessenger) - Fake Facebook Messenger interactions on an iPhone with a simple jQuery plugin!
 - [usablica/kissui.position](https://github.com/usablica/kissui.position) - Track element(s) on the page like a boss.
 - [pawelgrzybek/siema](https://github.com/pawelgrzybek/siema) - Siema - Lightweight and simple carousel in pure JavaScript
@@ -3944,7 +3944,7 @@
 - [anil1kuppa/kha-ching](https://github.com/anil1kuppa/kha-ching) - Algotrading strategies for Indian Stock Markets
 - [heroui-inc/heroui](https://github.com/heroui-inc/heroui) - 🚀 Beautiful, fast and modern React UI library. (Previously NextUI)
 - [romac/react-if](https://github.com/romac/react-if) - 🌗 Render React components conditionally
-- [tinyplex/tinybase](https://github.com/tinyplex/tinybase) - The reactive data store for local‑first apps.
+- [tinyplex/tinybase](https://github.com/tinyplex/tinybase) - A reactive data store & sync engine.
 - [wellyshen/react-cool-portal](https://github.com/wellyshen/react-cool-portal) - 😎 🍒 React hook for Portals, which renders modals, dropdowns, tooltips etc. to &lt;body&gt; or else.
 - [dai-shi/use-atom](https://github.com/dai-shi/use-atom) - Yet another implementation for Jotai atoms without side effects
 - [dai-shi/react-hooks-worker](https://github.com/dai-shi/react-hooks-worker) - React custom hooks for web workers
