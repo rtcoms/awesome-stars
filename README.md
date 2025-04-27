@@ -565,7 +565,7 @@
 - [aykamko/tag](https://github.com/aykamko/tag) - Instantly jump to your ag or ripgrep matches.
 - [ory/hydra](https://github.com/ory/hydra) - The only web-scale, fully customizable OpenID Certified™ OpenID Connect and OAuth2 Provider in the world. Become an OpenID Connect and OAuth2 Provider over night. Written in Go, cloud native, headless
 - [tsenart/vegeta](https://github.com/tsenart/vegeta) - HTTP load testing tool and library. It's over 9000!
-- [micro/micro](https://github.com/micro/micro) - A Go microservices platform
+- [micro/micro](https://github.com/micro/micro) - A Go microservices toolkit
 - [sasha-s/go-inline](https://github.com/sasha-s/go-inline) - Generic Data Structures/Algorithms in golang.
 - [justinas/alice](https://github.com/justinas/alice) - Painless middleware chaining for Go
 - [mislav/anyenv](https://github.com/mislav/anyenv) - rbenv-inspired version manager that can be configured to manage versions of ANYTHING
@@ -1423,7 +1423,7 @@
 - [judgegem/judge](https://github.com/judgegem/judge) - Client-side form validation for Rails
 - [juliangarnier/anime](https://github.com/juliangarnier/anime) - JavaScript animation engine
 - [shekhargulati/52-technologies-in-2016](https://github.com/shekhargulati/52-technologies-in-2016) - Let's learn a new technology every week. A new technology blog every Sunday in 2016.
-- [Fauntleroy/GIFit](https://github.com/Fauntleroy/GIFit) - Make GIFs from &lt;video&gt; on the web with this extension for Google Chrome and Firefox.
+- [takempf/GIFit](https://github.com/takempf/GIFit) - Make GIFs from &lt;video&gt; on the web with this extension for Google Chrome and Firefox.
 - [watson-developer-cloud/speech-to-text-nodejs](https://github.com/watson-developer-cloud/speech-to-text-nodejs) - :microphone: Sample Node.js Application for the IBM Watson Speech to Text Service
 - [ritz078/embed-js](https://github.com/ritz078/embed-js) - 🌻  A lightweight plugin to embed emojis, media, maps, tweets, code and more. ✨
 - [dvlden/vidage](https://github.com/dvlden/vidage) - Your solution to full-screen background video & image combined.
@@ -2361,7 +2361,7 @@
 
 ## MDX 
 
-- [nikitavoloboev/nikiv.dev](https://github.com/nikitavoloboev/nikiv.dev) - Personal website, docs
+- [nikitavoloboev/nikiv](https://github.com/nikitavoloboev/nikiv) - Personal website, docs
 - [yangshun/front-end-interview-handbook](https://github.com/yangshun/front-end-interview-handbook) - 🌐 Front End interview preparation materials for busy engineers (updated for 2025)
 - [uidotdev/usehooks](https://github.com/uidotdev/usehooks) - A collection of modern, server-safe React hooks – from the ui.dev team
 - [wix/react-native-navigation](https://github.com/wix/react-native-navigation) - A complete native navigation solution for React Native
@@ -2611,7 +2611,6 @@
 - [timoxley/best-practices](https://github.com/timoxley/best-practices) - Tidbits of developer best practices from around the web
 - [ashedryden/freelance-contract](https://github.com/ashedryden/freelance-contract) - My freelance/contractor contract. You can read more about it here: http://ashedryden.com/blog/contract
 - [technomancy/emacs-starter-kit](https://github.com/technomancy/emacs-starter-kit) - [ARCHIVED] this is ancient history
-- [paulmillr/firefox-jsterm](https://github.com/paulmillr/firefox-jsterm) - {Java,Coffee,Live}Script terminal For Firefox
 - [cdnjs/cdnjs](https://github.com/cdnjs/cdnjs) - 🤖 CDN assets - The #1 free and open source CDN built to make life easier for developers.
 - [stephenway/browserstack-bookmarklets](https://github.com/stephenway/browserstack-bookmarklets) - :bookmark: A collection of bookmarklets for in-context browser testing with BrowserStack.com
 - [Victa/path-menu](https://github.com/Victa/path-menu) - Path menu in pure CSS3
