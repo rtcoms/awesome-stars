@@ -1438,7 +1438,6 @@
 - [Nickersoft/push.js](https://github.com/Nickersoft/push.js) - The world's most versatile desktop notifications framework :earth_americas:
 - [riccardoscalco/textures](https://github.com/riccardoscalco/textures) - Textures.js is a JavaScript library for creating SVG patterns
 - [hkelly93/d3-relationshipgraph](https://github.com/hkelly93/d3-relationshipgraph) - A framework for visualizing parent-child relationships with d3js
-- [algorithm-visualizer/algorithm-visualizer](https://github.com/algorithm-visualizer/algorithm-visualizer) - :fireworks:Interactive Online Platform that Visualizes Algorithms from Code
 - [MarkoCen/trial-js](https://github.com/MarkoCen/trial-js) - Mouse position monitoring and user input prediction
 - [humaan/Modaal](https://github.com/humaan/Modaal) - An accessible dialog window library for all humans.
 - [JoelOtter/kajero](https://github.com/JoelOtter/kajero) - Interactive JavaScript notebooks with clever graphing
@@ -2081,7 +2080,6 @@
 - [chrisle/seer.js](https://github.com/chrisle/seer.js) - An all-in-one toolbox made for SEOs
 - [imakewebthings/deck.js](https://github.com/imakewebthings/deck.js) - Modern HTML Presentations
 - [carhartl/jquery-cookie](https://github.com/carhartl/jquery-cookie) - No longer maintained, superseded by JS Cookie:
-- [PrismJS/prism](https://github.com/PrismJS/prism) - Lightweight, robust, elegant syntax highlighting.
 - [nuxodin/svgEditable](https://github.com/nuxodin/svgEditable) - 
 - [kenwenzel/svg-edit](https://github.com/kenwenzel/svg-edit) - Mirror of svg-edit Subversion repository: https://svg-edit.googlecode.com/svn/trunk/
 - [vesan/jquery-inline-footnotes](https://github.com/vesan/jquery-inline-footnotes) - Allows footnotes to be viewed inline by hovering them
@@ -2361,7 +2359,7 @@
 
 ## MDX 
 
-- [nikitavoloboev/nikiv](https://github.com/nikitavoloboev/nikiv) - Personal website, docs
+- [nikitavoloboev/nikiv](https://github.com/nikitavoloboev/nikiv) - Personal website, docs, tools
 - [yangshun/front-end-interview-handbook](https://github.com/yangshun/front-end-interview-handbook) - 🌐 Front End interview preparation materials for busy engineers (updated for 2025)
 - [uidotdev/usehooks](https://github.com/uidotdev/usehooks) - A collection of modern, server-safe React hooks – from the ui.dev team
 - [wix/react-native-navigation](https://github.com/wix/react-native-navigation) - A complete native navigation solution for React Native
@@ -3465,7 +3463,7 @@
 - [james2m/seedbank](https://github.com/james2m/seedbank) - Seedbank gives your seed data a little structure. Create seeds for each environment, share seeds between environments and specify dependencies to load your seeds in order. All nicely integrated with s
 - [square/maximum-awesome](https://github.com/square/maximum-awesome) - Config files for vim and tmux.
 - [feedbin/feedbin](https://github.com/feedbin/feedbin) - A nice place to read on the web.
-- [rroblak/seed_dump](https://github.com/rroblak/seed_dump) - Rails 4/5 task to dump your data to db/seeds.rb
+- [rroblak/seed_dump](https://github.com/rroblak/seed_dump) - Rails task to dump your data to db/seeds.rb
 - [puma/puma](https://github.com/puma/puma) - A Ruby/Rack web server built for parallelism
 - [wuputah/sidekiq-encryptor](https://github.com/wuputah/sidekiq-encryptor) - Sidekiq middleware that encrypts your job data into and out of Redis.
 - [carrierwaveuploader/carrierwave](https://github.com/carrierwaveuploader/carrierwave) - Classier solution for file uploads for Rails, Sinatra and other Ruby web frameworks
@@ -4248,6 +4246,7 @@
 - [usablica/intro.js](https://github.com/usablica/intro.js) - Lightweight, user-friendly onboarding tour library
 - [derbyjs/derby](https://github.com/derbyjs/derby) - MVC framework making it easy to write realtime, collaborative applications that run in both Node.js and browsers
 - [ether/etherpad-lite](https://github.com/ether/etherpad-lite) - Etherpad: A modern really-real-time collaborative document editor.
+- [PrismJS/prism](https://github.com/PrismJS/prism) - Lightweight, robust, elegant syntax highlighting.
 - [peers/peerjs](https://github.com/peers/peerjs) - Simple peer-to-peer with WebRTC.
 - [stutrek/scrollmonitor](https://github.com/stutrek/scrollmonitor) - A simple and fast API to monitor elements as you scroll
 - [fabricjs/fabric.js](https://github.com/fabricjs/fabric.js) - Javascript Canvas Library, SVG-to-Canvas (& canvas-to-SVG) Parser
