@@ -565,7 +565,7 @@
 - [aykamko/tag](https://github.com/aykamko/tag) - Instantly jump to your ag or ripgrep matches.
 - [ory/hydra](https://github.com/ory/hydra) - The only web-scale, fully customizable OpenID Certified™ OpenID Connect and OAuth2 Provider in the world. Become an OpenID Connect and OAuth2 Provider over night. Written in Go, cloud native, headless
 - [tsenart/vegeta](https://github.com/tsenart/vegeta) - HTTP load testing tool and library. It's over 9000!
-- [micro/micro](https://github.com/micro/micro) - A Go microservices toolkit
+- [micro/micro](https://github.com/micro/micro) - A microservices toolkit
 - [sasha-s/go-inline](https://github.com/sasha-s/go-inline) - Generic Data Structures/Algorithms in golang.
 - [justinas/alice](https://github.com/justinas/alice) - Painless middleware chaining for Go
 - [mislav/anyenv](https://github.com/mislav/anyenv) - rbenv-inspired version manager that can be configured to manage versions of ANYTHING
@@ -1147,6 +1147,7 @@
 - [timqian/resumd](https://github.com/timqian/resumd) - Write resume with markdown
 - [davidtheclark/react-aria-tabpanel](https://github.com/davidtheclark/react-aria-tabpanel) - A fully accessible, extravagantly flexible, React-powered Tab Panel component
 - [gokulkrishh/demo-progressive-web-app](https://github.com/gokulkrishh/demo-progressive-web-app) - 🎉 Demo for Progressive Web Application and its features.
+- [GetStream/stream-chat-react](https://github.com/GetStream/stream-chat-react) - React Chat SDK ➜ Stream Chat 💬
 - [donavon/use-prev-prop](https://github.com/donavon/use-prev-prop) - A custom React Hook that maintains a previous value for a prop (or any other value).
 - [jspreadsheet/ce](https://github.com/jspreadsheet/ce) - Jspreadsheet is a lightweight JavaScript data grid component for creating interactive data grids with advanced spreadsheet controls.
 - [axios/axios](https://github.com/axios/axios) - Promise based HTTP client for the browser and node.js
@@ -4102,7 +4103,6 @@
 - [TanStack/query](https://github.com/TanStack/query) - 🤖 Powerful asynchronous state management, server-state utilities and data fetching for the web. TS/JS, React Query, Solid Query, Svelte Query and Vue Query.
 - [mikro-orm/mikro-orm](https://github.com/mikro-orm/mikro-orm) - TypeScript ORM for Node.js based on Data Mapper, Unit of Work and Identity Map patterns. Supports MongoDB, MySQL, MariaDB, MS SQL Server, PostgreSQL and SQLite/libSQL databases.
 - [yangshun/tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook) - 💯 Curated coding interview preparation materials for busy software engineers
-- [GetStream/stream-chat-react](https://github.com/GetStream/stream-chat-react) - React Chat SDK ➜ Stream Chat 💬
 - [feathersjs/feathers](https://github.com/feathersjs/feathers) - The API and real-time application framework
 - [sveltejs/sapper](https://github.com/sveltejs/sapper) - The next small thing in web development, powered by Svelte
 - [chibat/chrome-extension-typescript-starter](https://github.com/chibat/chrome-extension-typescript-starter) - Chrome Extension TypeScript Starter
