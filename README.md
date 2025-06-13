@@ -281,6 +281,7 @@
 - [m10l/FloatLabel.js](https://github.com/m10l/FloatLabel.js) - A jQuery plugin for floating form labels
 - [hsk81/notex-v2.0](https://github.com/hsk81/notex-v2.0) - A text editor for reStructuredText, Markdown, LaTex and more!
 - [orlandotm/payment-webfont](https://github.com/orlandotm/payment-webfont) - An SVG webfont full of main payment system icons
+- [rust-lang/rust-by-example](https://github.com/rust-lang/rust-by-example) - Learn Rust with examples (Live code editor included)
 - [Grafikart/CSS3-Loaders](https://github.com/Grafikart/CSS3-Loaders) - 
 - [mojotech/jeet](https://github.com/mojotech/jeet) - The most advanced, yet intuitive, grid system available for Sass or Stylus
 - [fntneves/jquery-labelauty](https://github.com/fntneves/jquery-labelauty) - A lightweight and beautiful jQuery plugin for radio and checkbox inputs.
@@ -707,7 +708,7 @@
 - [creativetimofficial/material-kit](https://github.com/creativetimofficial/material-kit) - Free and Open Source UI Kit for Bootstrap 5, React, Vue.js, React Native and Sketch based on Google's Material Design
 - [joshnh/head](https://github.com/joshnh/head) - A list of what should be in the head of a HTML document
 - [mixmark-io/turndown](https://github.com/mixmark-io/turndown) - 🛏 An HTML to Markdown converter written in JavaScript
-- [ColorlibHQ/gentelella](https://github.com/ColorlibHQ/gentelella) - Free Bootstrap 4 Admin Dashboard Template
+- [ColorlibHQ/gentelella](https://github.com/ColorlibHQ/gentelella) - Free Bootstrap 5 Admin Dashboard Template
 - [OctoLinker/OctoLinker](https://github.com/OctoLinker/OctoLinker) - OctoLinker — Links together, what belongs together
 - [mishushakov/Polymer-Web-App-Template](https://github.com/mishushakov/Polymer-Web-App-Template) - Free HTML5 mobile-friendly Polymer Web App template, easy&quick installation
 - [ciar4n/imagehover.css](https://github.com/ciar4n/imagehover.css) - Pure CSS Image Hover Effect Library
@@ -1805,7 +1806,6 @@
 - [fooplugins/FooTable](https://github.com/fooplugins/FooTable) - jQuery plugin to make HTML tables responsive
 - [ryngonzalez/Text.js](https://github.com/ryngonzalez/Text.js) - :computer: A collection of utilities for manipulating and editing text, with no dependencies.
 - [jdan/isomer](https://github.com/jdan/isomer) - Simple isometric graphics library for HTML5 canvas
-- [rust-lang/rust-by-example](https://github.com/rust-lang/rust-by-example) - Learn Rust with examples (Live code editor included)
 - [indutny/bn.js](https://github.com/indutny/bn.js) - BigNum in pure javascript
 - [indutny/hash.js](https://github.com/indutny/hash.js) - Hash functions in pure javascript
 - [filepreviews/filepreviews.js](https://github.com/filepreviews/filepreviews.js) - Deprecated: JavaScript client library for the FilePreviews.io service
@@ -3024,7 +3024,7 @@
 - [danbooru/danbooru](https://github.com/danbooru/danbooru) - A taggable image board written in Rails.
 - [elastic/elasticsearch-rails](https://github.com/elastic/elasticsearch-rails) - Elasticsearch integrations for ActiveModel/Record and Ruby on Rails
 - [collectiveidea/buildlight](https://github.com/collectiveidea/buildlight) - Aggregating webhooks from multiple build services (Travis, Circle, Heroku) to power the stoplight in our office.
-- [dogweather/asset_ram](https://github.com/dogweather/asset_ram) - Reduce Rails allocations by 35%+ and gain a speed boost. Memoizes asset links.
+- [public-law/asset_ram](https://github.com/public-law/asset_ram) - Reduce Rails allocations by 35%+ and gain a speed boost. Memoizes asset links.
 - [github/secure_headers](https://github.com/github/secure_headers) - Manages application of security headers with many safe defaults
 - [heartcombo/mail_form](https://github.com/heartcombo/mail_form) - Send e-mail straight from forms in Rails with I18n, validations, attachments and request information.
 - [socketry/async](https://github.com/socketry/async) - An awesome asynchronous event-driven reactor for Ruby.
