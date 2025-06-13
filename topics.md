@@ -133,6 +133,7 @@
 - [javascript](#javascript)
 - [jekyll](#jekyll)
 - [jekyll-theme](#jekyll-theme)
+- [jenkins](#jenkins)
 - [jquery](#jquery)
 - [js](#js)
 - [json](#json)
@@ -708,7 +709,7 @@
 - [mdbootstrap/material-design-for-bootstrap](https://github.com/mdbootstrap/material-design-for-bootstrap) - Important! A new UI Kit version for Bootstrap 5 is available. Access the latest free version via the link below.
 - [coreui/coreui-free-bootstrap-admin-template](https://github.com/coreui/coreui-free-bootstrap-admin-template) - Free Bootstrap Admin & Dashboard Template
 - [creativetimofficial/material-kit](https://github.com/creativetimofficial/material-kit) - Free and Open Source UI Kit for Bootstrap 5, React, Vue.js, React Native and Sketch based on Google's Material Design
-- [ColorlibHQ/gentelella](https://github.com/ColorlibHQ/gentelella) - Free Bootstrap 4 Admin Dashboard Template
+- [ColorlibHQ/gentelella](https://github.com/ColorlibHQ/gentelella) - Free Bootstrap 5 Admin Dashboard Template
 - [jasny/bootstrap](https://github.com/jasny/bootstrap) - The missing components for your favorite front-end framework.
 - [vsn4ik/bootstrap-checkbox](https://github.com/vsn4ik/bootstrap-checkbox) - A checkbox component based on Bootstrap framework.
 - [dannynimmo/strapPoint](https://github.com/dannynimmo/strapPoint) - strapPoint is a small jQuery utility plugin to make working with Bootstrap breakpoints easier
@@ -2173,7 +2174,7 @@
 - [maxbeier/tawian-frontend](https://github.com/maxbeier/tawian-frontend) - A markdowny CSS framework
 - [jgthms/marksheet](https://github.com/jgthms/marksheet) - Free tutorial to learn HTML and CSS
 - [mixmark-io/turndown](https://github.com/mixmark-io/turndown) - 🛏 An HTML to Markdown converter written in JavaScript
-- [ColorlibHQ/gentelella](https://github.com/ColorlibHQ/gentelella) - Free Bootstrap 4 Admin Dashboard Template
+- [ColorlibHQ/gentelella](https://github.com/ColorlibHQ/gentelella) - Free Bootstrap 5 Admin Dashboard Template
 - [StefanKovac/flex-layout-attribute](https://github.com/StefanKovac/flex-layout-attribute) - HTML layout helper based on CSS flexbox specification  —
 - [tachyons-css/tachyons](https://github.com/tachyons-css/tachyons) - Functional css for humans
 - [jgthms/bulma](https://github.com/jgthms/bulma) - Modern CSS framework based on Flexbox
@@ -2780,6 +2781,10 @@
 
 - [github/pages-gem](https://github.com/github/pages-gem) - A simple Ruby Gem to bootstrap dependencies for setting up and maintaining a local Jekyll environment in sync with GitHub Pages
 - [just-the-docs/just-the-docs](https://github.com/just-the-docs/just-the-docs) - A modern, high customizable, responsive Jekyll theme for documentation with built-in search.
+
+## jenkins 
+
+- [Blazemeter/taurus](https://github.com/Blazemeter/taurus) - Automation-friendly framework for Continuous Testing by
 
 ## jquery 
 
@@ -6174,7 +6179,7 @@
 - [devise-passwordless/devise-passwordless](https://github.com/devise-passwordless/devise-passwordless) - Devise passwordless logins using emailed magic links
 - [danbooru/danbooru](https://github.com/danbooru/danbooru) - A taggable image board written in Rails.
 - [elastic/elasticsearch-rails](https://github.com/elastic/elasticsearch-rails) - Elasticsearch integrations for ActiveModel/Record and Ruby on Rails
-- [dogweather/asset_ram](https://github.com/dogweather/asset_ram) - Reduce Rails allocations by 35%+ and gain a speed boost. Memoizes asset links.
+- [public-law/asset_ram](https://github.com/public-law/asset_ram) - Reduce Rails allocations by 35%+ and gain a speed boost. Memoizes asset links.
 - [JackHowa/react-actioncable-provider](https://github.com/JackHowa/react-actioncable-provider) - Connect React and Action Cable, with React 16 support
 - [shakacode/react_on_rails_demo_ssr_hmr](https://github.com/shakacode/react_on_rails_demo_ssr_hmr) - react_on_rails tutorial demonstrating SSR, HMR fast refresh, and Typescript based on the rails/webpacker webpack setup
 - [avmnu-sng/rspec-tracer](https://github.com/avmnu-sng/rspec-tracer) - RSpec Tracer is a specs dependency analyzer, flaky tests detector, tests accelerator, and coverage reporter tool.
@@ -6835,7 +6840,7 @@
 - [ElMassimo/vite_ruby](https://github.com/ElMassimo/vite_ruby) - ⚡️ Vite.js in Ruby, bringing joy to your JavaScript experience
 - [danbooru/danbooru](https://github.com/danbooru/danbooru) - A taggable image board written in Rails.
 - [elastic/elasticsearch-rails](https://github.com/elastic/elasticsearch-rails) - Elasticsearch integrations for ActiveModel/Record and Ruby on Rails
-- [dogweather/asset_ram](https://github.com/dogweather/asset_ram) - Reduce Rails allocations by 35%+ and gain a speed boost. Memoizes asset links.
+- [public-law/asset_ram](https://github.com/public-law/asset_ram) - Reduce Rails allocations by 35%+ and gain a speed boost. Memoizes asset links.
 - [github/secure_headers](https://github.com/github/secure_headers) - Manages application of security headers with many safe defaults
 - [socketry/async](https://github.com/socketry/async) - An awesome asynchronous event-driven reactor for Ruby.
 - [shakacode/react_on_rails_demo_ssr_hmr](https://github.com/shakacode/react_on_rails_demo_ssr_hmr) - react_on_rails tutorial demonstrating SSR, HMR fast refresh, and Typescript based on the rails/webpacker webpack setup
