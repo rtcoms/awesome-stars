@@ -1240,7 +1240,7 @@
 - [alexcambose/motus](https://github.com/alexcambose/motus) - Animation library that mimics CSS keyframes when scrolling.
 - [webkul/vivid](https://github.com/webkul/vivid) - a JavaScript library which is built to easily customize and use the SVG Icons with a blaze.
 - [BoxFactura/pulltorefresh.js](https://github.com/BoxFactura/pulltorefresh.js) - A quick and powerful plugin for your pull-to-refresh needs in your webapp.
-- [css-doodle/css-doodle](https://github.com/css-doodle/css-doodle) - 🎨  A web component for drawing patterns with CSS.
+- [css-doodle/css-doodle](https://github.com/css-doodle/css-doodle) - A web component for visual art and creative coding with CSS
 - [kamranahmedse/brusher](https://github.com/kamranahmedse/brusher) - Create beautiful webpage backgrounds
 - [tipsy/bubbly-bg](https://github.com/tipsy/bubbly-bg) - Beautiful bubbly backgrounds in less than 1kB (750 bytes gzipped)
 - [layerJS/layerJS](https://github.com/layerJS/layerJS) - layerJS: Javascript UI composition framework
@@ -4020,7 +4020,7 @@
 - [Steveeeie/react-page-transition](https://github.com/Steveeeie/react-page-transition) - A React component that makes it easy to use the page transitions from the Codedrops page transitions demo with React
 - [dai-shi/use-context-selector](https://github.com/dai-shi/use-context-selector) - React useContextSelector hook in userland
 - [mantinedev/mantine](https://github.com/mantinedev/mantine) - A fully featured React components library
-- [supabase/supabase](https://github.com/supabase/supabase) - The open source Firebase alternative. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.
+- [supabase/supabase](https://github.com/supabase/supabase) - The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.
 - [zerodha/kiteconnectjs](https://github.com/zerodha/kiteconnectjs) - The official typescript client library for the Kite Connect trading APIs
 - [avkonst/hookstate](https://github.com/avkonst/hookstate) - The simple but very powerful and incredibly fast state management for React that is based on hooks
 - [effector/effector](https://github.com/effector/effector) - Business logic with ease ☄️
