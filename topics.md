@@ -195,6 +195,7 @@
 - [postgresql](#postgresql)
 - [powershell](#powershell)
 - [privacy](#privacy)
+- [productivity](#productivity)
 - [programming](#programming)
 - [project-management](#project-management)
 - [publishing](#publishing)
@@ -288,7 +289,7 @@
 - [yjacquin/fast-mcp](https://github.com/yjacquin/fast-mcp) - A Ruby Implementation of the Model Context Protocol
 - [OvidijusParsiunas/deep-chat](https://github.com/OvidijusParsiunas/deep-chat) - Fully customizable AI chatbot component for your website
 - [dagger/dagger](https://github.com/dagger/dagger) - An open-source runtime for composable workflows. Great for AI agents and CI/CD.
-- [supabase/supabase](https://github.com/supabase/supabase) - The open source Firebase alternative. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.
+- [supabase/supabase](https://github.com/supabase/supabase) - The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.
 - [alexrudall/ruby-openai](https://github.com/alexrudall/ruby-openai) - OpenAI API + Ruby! 🤖❤️ Now with Responses API + DeepSeek!
 - [botpress/botpress](https://github.com/botpress/botpress) - The open-source hub to build & deploy GPT/LLM Agents ⚡️
 - [vijishmadhavan/ArtLine](https://github.com/vijishmadhavan/ArtLine) - A Deep Learning based project for creating line art portraits.
@@ -1028,7 +1029,7 @@
 - [madeas/box-shadows.css](https://github.com/madeas/box-shadows.css) - :pisces: A cross-browser collection of CSS box-shadows
 - [zzarcon/react-scroll-shadow](https://github.com/zzarcon/react-scroll-shadow) - Pure CSS shadow to indicate more content in scrollable area
 - [alexcambose/motus](https://github.com/alexcambose/motus) - Animation library that mimics CSS keyframes when scrolling.
-- [css-doodle/css-doodle](https://github.com/css-doodle/css-doodle) - 🎨  A web component for drawing patterns with CSS.
+- [css-doodle/css-doodle](https://github.com/css-doodle/css-doodle) - A web component for visual art and creative coding with CSS
 - [kristofferandreasen/wickedCSS](https://github.com/kristofferandreasen/wickedCSS) - A library for CSS3 animations. The animations are more vibrant than most simple animations.
 - [webkul/micron](https://github.com/webkul/micron) - a [μ] microInteraction library built with CSS Animations and controlled by JavaScript Power
 - [parcel-bundler/parcel](https://github.com/parcel-bundler/parcel) - The zero configuration build tool for the web. 📦🚀
@@ -1246,7 +1247,7 @@
 - [nhost/nhost](https://github.com/nhost/nhost) - The Open Source Firebase Alternative with GraphQL.
 - [rqlite/rqlite](https://github.com/rqlite/rqlite) - The lightweight, user-friendly, distributed relational database built on SQLite.
 - [archit-p/editable-react-table](https://github.com/archit-p/editable-react-table) - React table built to resemble a database.
-- [supabase/supabase](https://github.com/supabase/supabase) - The open source Firebase alternative. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.
+- [supabase/supabase](https://github.com/supabase/supabase) - The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.
 - [tonsky/datascript](https://github.com/tonsky/datascript) - Immutable database and Datalog query engine for Clojure, ClojureScript and JS
 - [HypoPG/hypopg](https://github.com/HypoPG/hypopg) - Hypothetical Indexes for PostgreSQL
 - [orbitdb/orbitdb](https://github.com/orbitdb/orbitdb) - Peer-to-Peer Databases for the Decentralized Web
@@ -1302,7 +1303,7 @@
 
 - [AsyncBanana/microdiff](https://github.com/AsyncBanana/microdiff) - A fast, zero dependency object and array comparison library. Significantly faster than most other deep comparison libraries and has full TypeScript support.
 - [Ff00ff/mammoth](https://github.com/Ff00ff/mammoth) - A type-safe Postgres query builder for TypeScript.
-- [supabase/supabase](https://github.com/supabase/supabase) - The open source Firebase alternative. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.
+- [supabase/supabase](https://github.com/supabase/supabase) - The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.
 - [kreteshq/kretes](https://github.com/kreteshq/kretes) - A Programming Environment for TypeScript & Deno
 
 ## deployment 
@@ -1624,7 +1625,7 @@
 - [pubkey/client-side-databases](https://github.com/pubkey/client-side-databases) - An implementation of the exact same app in Firestore, AWS Datastore, PouchDB, RxDB and WatermelonDB
 - [rowyio/rowy](https://github.com/rowyio/rowy) - Low-code backend platform. Manage database on spreadsheet-like UI and build cloud functions workflows in JS/TS, all in your browser.
 - [nhost/nhost](https://github.com/nhost/nhost) - The Open Source Firebase Alternative with GraphQL.
-- [supabase/supabase](https://github.com/supabase/supabase) - The open source Firebase alternative. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.
+- [supabase/supabase](https://github.com/supabase/supabase) - The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.
 - [hypertrack/ridesharing-android](https://github.com/hypertrack/ridesharing-android) - Ridesharing driver & rider sample apps using HyperTrack SDK
 - [pubkey/rxdb](https://github.com/pubkey/rxdb) - A fast, local first, reactive Database for JavaScript Applications https://rxdb.info/
 - [proshoumma/Mister-Poster](https://github.com/proshoumma/Mister-Poster) - A very basic single feed social media application. Built on top of React-Native and Firebase real-time database with persistent data storage for user's device.
@@ -3249,7 +3250,6 @@
 - [motor-admin/motor-admin](https://github.com/motor-admin/motor-admin) - Deploy a no-code admin panel for any application in less than a minute. Search, create, update, and delete data entries, create custom actions, and build reports.
 - [launchbadge/sqlx](https://github.com/launchbadge/sqlx) - 🧰 The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without a DSL. Supports PostgreSQL, MySQL, and SQLite.
 - [akoidan/pychat](https://github.com/akoidan/pychat) - webchat via WebSockets/WebRTC that allows messaging/video call/screen sharing
-- [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative
 - [strapi/strapi](https://github.com/strapi/strapi) - 🚀 Strapi is the leading open-source headless CMS. It’s 100% JavaScript/TypeScript, fully customizable, and developer-first.
 - [mikro-orm/mikro-orm](https://github.com/mikro-orm/mikro-orm) - TypeScript ORM for Node.js based on Data Mapper, Unit of Work and Identity Map patterns. Supports MongoDB, MySQL, MariaDB, MS SQL Server, PostgreSQL and SQLite/libSQL databases.
 - [atulmy/fullstack-graphql](https://github.com/atulmy/fullstack-graphql) - 🌈  Simple Fullstack GraphQL Application. API built with Express + GraphQL + Sequelize (supports MySQL, Postgres, Sqlite and MSSQL). WebApp built with React + Redux to access the API. Written in ES6 us
@@ -3311,7 +3311,7 @@
 - [Swizec/useAuth](https://github.com/Swizec/useAuth) - The simplest way to add authentication to your React app. Supports various providers.
 - [nhost/nhost](https://github.com/nhost/nhost) - The Open Source Firebase Alternative with GraphQL.
 - [plasmicapp/plasmic](https://github.com/plasmicapp/plasmic) - Visual builder for React. Build apps, websites, and content. Integrate with your codebase.
-- [supabase/supabase](https://github.com/supabase/supabase) - The open source Firebase alternative. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.
+- [supabase/supabase](https://github.com/supabase/supabase) - The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.
 - [blitz-js/blitz](https://github.com/blitz-js/blitz) - ⚡️ The Missing Fullstack Toolkit for Next.js
 - [dinubs/coolqlcool](https://github.com/dinubs/coolqlcool) - Nextjs server to query websites with GraphQL
 - [clintonwoo/hackernews-react-graphql](https://github.com/clintonwoo/hackernews-react-graphql) - Hacker News clone rewritten with universal JavaScript, using React and GraphQL.
@@ -5919,7 +5919,7 @@
 - [launchbadge/sqlx](https://github.com/launchbadge/sqlx) - 🧰 The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without a DSL. Supports PostgreSQL, MySQL, and SQLite.
 - [Ff00ff/mammoth](https://github.com/Ff00ff/mammoth) - A type-safe Postgres query builder for TypeScript.
 - [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative
-- [supabase/supabase](https://github.com/supabase/supabase) - The open source Firebase alternative. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.
+- [supabase/supabase](https://github.com/supabase/supabase) - The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.
 - [supabase/realtime](https://github.com/supabase/realtime) - Broadcast, Presence, and Postgres Changes via WebSockets
 - [palkan/logidze](https://github.com/palkan/logidze) - Database changes log for Rails
 - [HypoPG/hypopg](https://github.com/HypoPG/hypopg) - Hypothetical Indexes for PostgreSQL
@@ -5961,6 +5961,22 @@
 - [TankerHQ/sdk-js](https://github.com/TankerHQ/sdk-js) - Tanker client-side encryption SDK for JavaScript
 - [StevenBlack/hosts](https://github.com/StevenBlack/hosts) - 🔒 Consolidating and extending hosts files from several well-curated sources. Optionally pick extensions for porn, social media, and other categories.
 - [matomo-org/matomo](https://github.com/matomo-org/matomo) - Empowering People Ethically 🚀 — Matomo is hiring! Join us → https://matomo.org/jobs Matomo is the leading open-source alternative to Google Analytics, giving you complete control and built-in privacy.
+
+## productivity 
+
+- [tanin47/tip](https://github.com/tanin47/tip) - Programmable tooltip that can be used with any Mac OS app
+- [batnoter/batnoter](https://github.com/batnoter/batnoter) - An open source, markdown-based, self-hosted note taking webapp.
+- [alyssaxuu/screenity](https://github.com/alyssaxuu/screenity) - The free and privacy-friendly screen recorder with no limits 🎥
+- [alyssaxuu/omni](https://github.com/alyssaxuu/omni) - The all-in-one tool to supercharge your productivity ⌨️
+- [makaroni4/focused_youtube](https://github.com/makaroni4/focused_youtube) - Browser extension to be more focused on Youtube. 10000+ users. Supports Chrome, Firefox, Brave and Edge.
+- [iridakos/stup](https://github.com/iridakos/stup) - Daily notes in the terminal :penguin:
+- [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams
+- [wulkano/Kap](https://github.com/wulkano/Kap) - An open-source screen recorder built with web technology
+- [OctoLinker/OctoLinker](https://github.com/OctoLinker/OctoLinker) - OctoLinker — Links together, what belongs together
+- [iridakos/duckrails](https://github.com/iridakos/duckrails) - Development tool to mock API endpoints quickly and easily (docker image available)
+- [jrnl-org/jrnl](https://github.com/jrnl-org/jrnl) - Collect your thoughts and notes without leaving the command line.
+- [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,400+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
+- [Bash-it/bash-it](https://github.com/Bash-it/bash-it) - A community Bash framework.
 
 ## programming 
 
