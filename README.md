@@ -281,7 +281,6 @@
 - [m10l/FloatLabel.js](https://github.com/m10l/FloatLabel.js) - A jQuery plugin for floating form labels
 - [hsk81/notex-v2.0](https://github.com/hsk81/notex-v2.0) - A text editor for reStructuredText, Markdown, LaTex and more!
 - [orlandotm/payment-webfont](https://github.com/orlandotm/payment-webfont) - An SVG webfont full of main payment system icons
-- [rust-lang/rust-by-example](https://github.com/rust-lang/rust-by-example) - Learn Rust with examples (Live code editor included)
 - [Grafikart/CSS3-Loaders](https://github.com/Grafikart/CSS3-Loaders) - 
 - [mojotech/jeet](https://github.com/mojotech/jeet) - The most advanced, yet intuitive, grid system available for Sass or Stylus
 - [fntneves/jquery-labelauty](https://github.com/fntneves/jquery-labelauty) - A lightweight and beautiful jQuery plugin for radio and checkbox inputs.
@@ -1806,6 +1805,7 @@
 - [fooplugins/FooTable](https://github.com/fooplugins/FooTable) - jQuery plugin to make HTML tables responsive
 - [ryngonzalez/Text.js](https://github.com/ryngonzalez/Text.js) - :computer: A collection of utilities for manipulating and editing text, with no dependencies.
 - [jdan/isomer](https://github.com/jdan/isomer) - Simple isometric graphics library for HTML5 canvas
+- [rust-lang/rust-by-example](https://github.com/rust-lang/rust-by-example) - Learn Rust with examples (Live code editor included)
 - [indutny/bn.js](https://github.com/indutny/bn.js) - BigNum in pure javascript
 - [indutny/hash.js](https://github.com/indutny/hash.js) - Hash functions in pure javascript
 - [filepreviews/filepreviews.js](https://github.com/filepreviews/filepreviews.js) - Deprecated: JavaScript client library for the FilePreviews.io service
