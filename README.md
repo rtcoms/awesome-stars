@@ -2018,7 +2018,7 @@
 - [darwin/cmx.js](https://github.com/darwin/cmx.js) - [prototype] A library/markup for building xkcd-style comic strips
 - [square/cube](https://github.com/square/cube) - Cube: A system for time series visualization.
 - [comoyo/ffos-list-detail](https://github.com/comoyo/ffos-list-detail) - A list/detail/view template for an Open Web App
-- [jonobr1/two.js](https://github.com/jonobr1/two.js) - A renderer agnostic two-dimensional drawing api for the web.
+- [jonobr1/two.js](https://github.com/jonobr1/two.js) - A renderer agnostic two-dimensional drawing api for the web
 - [EloquentStudio/StreamTable.js](https://github.com/EloquentStudio/StreamTable.js) - StreamTable.js streams data for tables in the background, updates and renders them using templating frameworks like Mustache.js, HandleBars.js
 - [zikes/circle-menu](https://github.com/zikes/circle-menu) - A circular menu jQuery plugin, inspired by the Path application for Android and iOS
 - [codrops/YouTubeLeftSideMenu](https://github.com/codrops/YouTubeLeftSideMenu) - A tutorial on how to recreate the effect of YouTube's little left side menu. The idea is to slide a little menu icon to the right side while revealing some menu item list beneath.
@@ -4199,7 +4199,7 @@
 - [sindresorhus/fast-cli](https://github.com/sindresorhus/fast-cli) - Test your download and upload speed using fast.com
 - [GeekyAnts/NativeBase](https://github.com/GeekyAnts/NativeBase) - Mobile-first, accessible components for React Native & Web to build consistent UI across Android, iOS and Web.
 - [idiotWu/smooth-scrollbar](https://github.com/idiotWu/smooth-scrollbar) - Customizable, Extendable, and High-Performance JavaScript-Based Scrollbar Solution.
-- [kriasoft/react-starter-kit](https://github.com/kriasoft/react-starter-kit) - The web's most popular Jamstack front-end template (boilerplate) for building web applications with React
+- [kriasoft/react-starter-kit](https://github.com/kriasoft/react-starter-kit) - Modern React starter kit with Bun, TypeScript, Tailwind CSS, tRPC, and Cloudflare Workers. Production-ready monorepo for building fast web apps.
 - [davidedc/Algebrite](https://github.com/davidedc/Algebrite) - Computer Algebra System in Javascript (Typescript)
 - [SBoudrias/Inquirer.js](https://github.com/SBoudrias/Inquirer.js) - A collection of common interactive command line user interfaces.
 - [floating-ui/floating-ui](https://github.com/floating-ui/floating-ui) - A JavaScript library to position floating elements and create interactions for them.
