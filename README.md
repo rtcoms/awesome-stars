@@ -808,7 +808,6 @@
 - [paulrouget/dzslides](https://github.com/paulrouget/dzslides) - DZSlides is a one-file HTML template to build slides in HTML5 and CSS3.
 - [trentrichardson/jQuery-Impromptu](https://github.com/trentrichardson/jQuery-Impromptu) - An extention to help provide a more pleasant way to spontaneously prompt a user for input.
 - [monkeecreate/jquery.simpleWeather](https://github.com/monkeecreate/jquery.simpleWeather) - A simple jQuery plugin to display current weather data for any location and doesn't get in your way. Now supports HTML5 GeoLocation!
-- [toptal/webdevchecklist.com](https://github.com/toptal/webdevchecklist.com) - Web Developer Checklist
 - [dbushell/Responsive-Off-Canvas-Menu](https://github.com/dbushell/Responsive-Off-Canvas-Menu) - A responsive off-canvas menu using CSS transforms and transitions. This repository contains several demos to support a Smashing Magazine article.
 - [iandevlin/html5bones](https://github.com/iandevlin/html5bones) - The HTML5 template that goes back to basics
 - [mourner/dead-simple-grid](https://github.com/mourner/dead-simple-grid) - Dead Simple Grid is a responsive CSS grid micro framework that is just that. Dead simple.
@@ -2430,7 +2429,7 @@
 - [Developer-Y/cs-video-courses](https://github.com/Developer-Y/cs-video-courses) - List of Computer Science courses with video lectures.
 - [twf-nikhila/Awesome-Black-Friday-Cyber-Monday-deals](https://github.com/twf-nikhila/Awesome-Black-Friday-Cyber-Monday-deals) - 🟢 2024 Deals Live - Black Friday & Cyber Monday, Christmas & Holidays Deals for Developers, Techies, & Entrepreneurs,
 - [smartcontractkit/full-blockchain-solidity-course-py](https://github.com/smartcontractkit/full-blockchain-solidity-course-py) - Ultimate Solidity, Blockchain, and Smart Contract - Beginner to Expert Full Course | Python Edition
-- [smirnov-am/awesome-saas-boilerplates](https://github.com/smirnov-am/awesome-saas-boilerplates) - 
+- [xcomptek/awesome-saas-boilerplates](https://github.com/xcomptek/awesome-saas-boilerplates) - List of SaaS boilerplates (starter kits)
 - [Divide-By-0/ideas-for-projects-people-would-use](https://github.com/Divide-By-0/ideas-for-projects-people-would-use) - Every time I have an idea, I write it down. These are a collection of my top software ideas -- problems I think enough people have that don't have solutions. I expect you can reach a decent userbase i
 - [componently-com/awesome-building-blocks-for-web-apps](https://github.com/componently-com/awesome-building-blocks-for-web-apps) - Standalone features to be integrated into web applications
 - [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics
@@ -3920,7 +3919,7 @@
 - [SAP/ui5-webcomponents](https://github.com/SAP/ui5-webcomponents) - UI5 Web Components - the enterprise-flavored sugar on top of native APIs! Build SAP Fiori user interfaces with the technology of your choice.
 - [rootstrap/react-native-base](https://github.com/rootstrap/react-native-base) - React Native-Redux Boilerplate
 - [sst/sst](https://github.com/sst/sst) - Build full-stack apps on your own infrastructure.
-- [shoelace-style/shoelace](https://github.com/shoelace-style/shoelace) - A collection of professionally designed, every day UI components built on Web standards. SHOELACE IS BECOMING WEB AWESOME 👇👇👇
+- [shoelace-style/shoelace](https://github.com/shoelace-style/shoelace) - Web Awesome ("Shoelace 3") has been released! Get it here 👇👇👇
 - [baptisteArno/typebot.io](https://github.com/baptisteArno/typebot.io) - 💬 Typebot is a powerful chatbot builder that you can self-host.
 - [typestyle/typestyle](https://github.com/typestyle/typestyle) - Making CSS Typesafe 🌹
 - [appwrite/appwrite](https://github.com/appwrite/appwrite) - Build like a team of hundreds_
@@ -3965,7 +3964,6 @@
 - [laststance/use-app-state](https://github.com/laststance/use-app-state) - 🌏 useAppState() hook. that global version of setState() built on Context.
 - [vercel/swr](https://github.com/vercel/swr) - React Hooks for Data Fetching
 - [gmpetrov/ultimate-saas-ts](https://github.com/gmpetrov/ultimate-saas-ts) - Template to quickstart a SAAS business
-- [reacttips-dev/codebases](https://github.com/reacttips-dev/codebases) - This project is collection of large projects's source code (codebases), built with Reactjs. Eg: Bestbuy, Postman, Trello, Udacity, Coursera, Skillshare, Invision, Intercom, Pipedrive, ... and more.
 - [theatre-js/theatre](https://github.com/theatre-js/theatre) - Motion design editor for the web
 - [statelyai/xstate](https://github.com/statelyai/xstate) - Actor-based state management & orchestration for complex app logic.
 - [vuejs/petite-vue](https://github.com/vuejs/petite-vue) - 6kb subset of Vue optimized for progressive enhancement
