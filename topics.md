@@ -278,6 +278,7 @@
 - [windows](#windows)
 - [wordpress](#wordpress)
 - [xml](#xml)
+- [zsh](#zsh)
 
 ## 3d 
 
@@ -725,7 +726,7 @@
 - [Bttstrp/bootstrap-switch](https://github.com/Bttstrp/bootstrap-switch) - Turn checkboxes and radio buttons in toggle switches.
 - [wilwaldon/flatstrap](https://github.com/wilwaldon/flatstrap) - Bootstrap without all the extra stuff
 - [aozora/bootmetro](https://github.com/aozora/bootmetro) - Simple and complete web UI framework to create web apps with Windows 8 Metro user interface, based on Bootstrap 2.
-- [olton/metroui](https://github.com/olton/metroui) - A progressive front-end framework for creating high-performance responsive web applications!
+- [olton/metroui](https://github.com/olton/metroui) - A progressive front-end framework for creating high-performance responsive reactive web applications!
 - [twbs/bootstrap](https://github.com/twbs/bootstrap) - The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.
 
 ## bot 
@@ -1023,7 +1024,7 @@
 - [jh3y/driveway](https://github.com/jh3y/driveway) - pure CSS masonry layouts
 - [dohliam/dropin-minimal-css](https://github.com/dohliam/dropin-minimal-css) - Drop-in switcher for previewing minimal CSS frameworks
 - [tabler/tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 5800 free MIT-licensed high-quality SVG icons for you to use in your web projects.
-- [Iconscout/unicons](https://github.com/Iconscout/unicons) - Unicons by IconScout offers 7,000+ free 3D and animated icons plus icon fonts in line, monochrome, solid and thin line styles. Use them in your web, iOS or Android design projects.
+- [Iconscout/unicons](https://github.com/Iconscout/unicons) - Discover Unicons, a free collection of beautifully crafted 7000+ SVG icons, 3D icons, animated icons and icon fonts. Perfect for websites, apps, and creative projects. Start designing with Unicons tod
 - [mavoweb/mavo](https://github.com/mavoweb/mavo) - Create web applications entirely by writing HTML and CSS!
 - [astrit/css.gg](https://github.com/astrit/css.gg) - 700+ Pure CSS, SVG & Figma UI Icons, 6000+ glyphs, patterns, colors and layouts.
 - [swyxio/spark-joy](https://github.com/swyxio/spark-joy) - ✨😂 2000+ ways to add design flair, user delight, and whimsy to your product.
@@ -1151,7 +1152,7 @@
 - [thoughtbot/neat](https://github.com/thoughtbot/neat) - A fluid and flexible grid Sass framework
 - [HabitRPG/habitica](https://github.com/HabitRPG/habitica) - A habit tracker app which treats your goals like a Role Playing Game.
 - [aozora/bootmetro](https://github.com/aozora/bootmetro) - Simple and complete web UI framework to create web apps with Windows 8 Metro user interface, based on Bootstrap 2.
-- [olton/metroui](https://github.com/olton/metroui) - A progressive front-end framework for creating high-performance responsive web applications!
+- [olton/metroui](https://github.com/olton/metroui) - A progressive front-end framework for creating high-performance responsive reactive web applications!
 - [FortAwesome/Font-Awesome](https://github.com/FortAwesome/Font-Awesome) - The iconic SVG, font, and CSS toolkit
 - [animate-css/animate.css](https://github.com/animate-css/animate.css) - 🍿 A cross-browser library of CSS animations. As easy to use as an easy thing.
 - [twbs/bootstrap](https://github.com/twbs/bootstrap) - The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.
@@ -1703,7 +1704,7 @@
 ## font 
 
 - [gztchan/awesome-design](https://github.com/gztchan/awesome-design) - 🌟 Curated design resources from all over the world.
-- [Iconscout/unicons](https://github.com/Iconscout/unicons) - Unicons by IconScout offers 7,000+ free 3D and animated icons plus icon fonts in line, monochrome, solid and thin line styles. Use them in your web, iOS or Android design projects.
+- [Iconscout/unicons](https://github.com/Iconscout/unicons) - Discover Unicons, a free collection of beautifully crafted 7000+ SVG icons, 3D icons, animated icons and icon fonts. Perfect for websites, apps, and creative projects. Start designing with Unicons tod
 - [neutraltone/awesome-stock-resources](https://github.com/neutraltone/awesome-stock-resources) - :city_sunrise: A collection of links for free stock photography, video and Illustration websites
 - [coreui/coreui-icons](https://github.com/coreui/coreui-icons) - CoreUI Free Icons -  Premium designed free icon set with marks in SVG, Webfont and raster formats
 - [rsms/inter](https://github.com/rsms/inter) - The Inter font family
@@ -2114,7 +2115,7 @@
 - [freeCodeCamp/devdocs](https://github.com/freeCodeCamp/devdocs) - API Documentation Browser
 - [react-native-elements/react-native-elements](https://github.com/react-native-elements/react-native-elements) - Cross-Platform React Native UI Toolkit
 - [shipshapecode/tether](https://github.com/shipshapecode/tether) - A positioning engine to make overlays, tooltips and dropdowns better
-- [dvlden/vidage](https://github.com/dvlden/vidage) - Your solution to full-screen background video & image combined.
+- [nonwip/vidage](https://github.com/nonwip/vidage) - Your solution to full-screen background video & image combined.
 - [ory/hydra](https://github.com/ory/hydra) - The only web-scale, fully customizable OpenID Certified™ OpenID Connect and OAuth2 Provider in the world. Become an OpenID Connect and OAuth2 Provider over night. Written in Go, cloud native, headless
 - [GeekyAnts/NativeBase](https://github.com/GeekyAnts/NativeBase) - Mobile-first, accessible components for React Native & Web to build consistent UI across Android, iOS and Web.
 - [floating-ui/floating-ui](https://github.com/floating-ui/floating-ui) - A JavaScript library to position floating elements and create interactions for them.
@@ -2247,7 +2248,7 @@
 - [pure-css/pure](https://github.com/pure-css/pure) - A set of small, responsive CSS modules that you can use in every web project.
 - [literallycanvas/literallycanvas](https://github.com/literallycanvas/literallycanvas) - A canvas in your browser. Literally.
 - [HabitRPG/habitica](https://github.com/HabitRPG/habitica) - A habit tracker app which treats your goals like a Role Playing Game.
-- [olton/metroui](https://github.com/olton/metroui) - A progressive front-end framework for creating high-performance responsive web applications!
+- [olton/metroui](https://github.com/olton/metroui) - A progressive front-end framework for creating high-performance responsive reactive web applications!
 - [twbs/bootstrap](https://github.com/twbs/bootstrap) - The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.
 - [videojs/video.js](https://github.com/videojs/video.js) - Video.js - open source HTML5 video player
 - [h5bp/html5-boilerplate](https://github.com/h5bp/html5-boilerplate) - A professional front-end template for building fast, robust, and adaptable web apps or sites.
@@ -2277,7 +2278,7 @@
 - [jonobr1/two.js](https://github.com/jonobr1/two.js) - A renderer agnostic two-dimensional drawing api for the web
 - [clientIO/joint](https://github.com/clientIO/joint) - A proven SVG-based JavaScript diagramming library powering exceptional UIs
 - [literallycanvas/literallycanvas](https://github.com/literallycanvas/literallycanvas) - A canvas in your browser. Literally.
-- [olton/metroui](https://github.com/olton/metroui) - A progressive front-end framework for creating high-performance responsive web applications!
+- [olton/metroui](https://github.com/olton/metroui) - A progressive front-end framework for creating high-performance responsive reactive web applications!
 - [jsplumb/jsplumb](https://github.com/jsplumb/jsplumb) - Visual connectivity for webapps
 - [videojs/video.js](https://github.com/videojs/video.js) - Video.js - open source HTML5 video player
 - [mrdoob/three.js](https://github.com/mrdoob/three.js) - JavaScript 3D Library.
@@ -2789,7 +2790,7 @@
 - [Indamix/real-shadow](https://github.com/Indamix/real-shadow) - Module that casts photorealistic shadows
 - [zeroclipboard/zeroclipboard](https://github.com/zeroclipboard/zeroclipboard) - The ZeroClipboard library provides an easy way to copy text to the clipboard using an invisible Adobe Flash movie and a JavaScript interface.
 - [ccampbell/rainbow](https://github.com/ccampbell/rainbow) - Simple syntax highlighting library written in javascript
-- [olton/metroui](https://github.com/olton/metroui) - A progressive front-end framework for creating high-performance responsive web applications!
+- [olton/metroui](https://github.com/olton/metroui) - A progressive front-end framework for creating high-performance responsive reactive web applications!
 - [select2/select2](https://github.com/select2/select2) - Select2 is a jQuery based replacement for select boxes. It supports searching, remote data sets, and infinite scrolling of results.
 - [oskarkrawczyk/heyoffline](https://github.com/oskarkrawczyk/heyoffline) - Warn your users when their network goes down. Make sure they don't lose anything.
 - [dropzone/dropzone](https://github.com/dropzone/dropzone) - Dropzone is an easy to use drag'n'drop library. It supports image previews and shows nice progress bars.
@@ -7205,7 +7206,6 @@
 - [acode/cli](https://github.com/acode/cli) - Autocode CLI and standard library tooling
 - [amazon-archives/aws-mobile-react-native-starter](https://github.com/amazon-archives/aws-mobile-react-native-starter) - AWS Mobile React Native Starter App     https://aws.amazon.com/mobile
 - [schickling/chromeless](https://github.com/schickling/chromeless) - 🖥  Chrome automation made simple. Runs locally or headless on AWS Lambda.
-- [kriasoft/react-starter-kit](https://github.com/kriasoft/react-starter-kit) - Modern React starter kit with Bun, TypeScript, Tailwind CSS, tRPC, and Cloudflare Workers. Production-ready monorepo for building fast web apps.
 - [donnemartin/awesome-aws](https://github.com/donnemartin/awesome-aws) - A curated list of awesome Amazon Web Services (AWS) libraries, open source repos, guides, blogs, and other resources.  Featuring the Fiery Meter of AWSome.
 
 ## shell 
@@ -7938,6 +7938,14 @@
 ## xml 
 
 - [substance/substance](https://github.com/substance/substance) - A JavaScript library for web-based content editing.
+
+## zsh 
+
+- [bibendi/dip](https://github.com/bibendi/dip) - The dip is a CLI dev–tool that provides native-like interaction with a Dockerized application.
+- [zsh-users/zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions) - Fish-like autosuggestions for zsh
+- [asdf-vm/asdf](https://github.com/asdf-vm/asdf) - Extendable version manager with support for Ruby, Node.js, Elixir, Erlang & more
+- [powerline/powerline](https://github.com/powerline/powerline) - Powerline is a statusline plugin for vim, and provides statuslines and prompts for several other applications, including zsh, bash, tmux, IPython, Awesome and Qtile.
+- [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,400+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
 
 
 ## License
