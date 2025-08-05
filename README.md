@@ -647,7 +647,7 @@
 - [vladocar/Basic.css](https://github.com/vladocar/Basic.css) - Basic.css - Classless CSS Starter File
 - [xz/new.css](https://github.com/xz/new.css) - A classless CSS framework to write modern websites using only HTML.
 - [jh3y/driveway](https://github.com/jh3y/driveway) - pure CSS masonry layouts
-- [Iconscout/unicons](https://github.com/Iconscout/unicons) - Unicons by IconScout offers 7,000+ free 3D and animated icons plus icon fonts in line, monochrome, solid and thin line styles. Use them in your web, iOS or Android design projects.
+- [Iconscout/unicons](https://github.com/Iconscout/unicons) - Discover Unicons, a free collection of beautifully crafted 7000+ SVG icons, 3D icons, animated icons and icon fonts. Perfect for websites, apps, and creative projects. Start designing with Unicons tod
 - [excid3/gorails-app-template](https://github.com/excid3/gorails-app-template) - Easily jumpstart a new Rails application with a bunch of great features by default
 - [teivah/algodeck](https://github.com/teivah/algodeck) - An Open-Source Collection of Flash Cards to Help You Preparing Your Algorithms & Data Structures and System Design Interviews 💯
 - [reveal-plantuml/reveal-plantuml.github.io](https://github.com/reveal-plantuml/reveal-plantuml.github.io) - A reveal.js plugin that allow using PlantUML diagrams on slides
@@ -1336,7 +1336,6 @@
 - [rubentd/radios-to-slider](https://github.com/rubentd/radios-to-slider) - jquery plugin to create a slider using a list of radio buttons
 - [kciter/qart.js](https://github.com/kciter/qart.js) - Generate artistic QR code. 🎨
 - [react-everywhere/re-start](https://github.com/react-everywhere/re-start) - react-native template to target multiple platforms :globe_with_meridians: :iphone: :computer: with single codebase.
-- [dexie/Dexie.js](https://github.com/dexie/Dexie.js) - A Minimalistic Wrapper for IndexedDB
 - [whizzzkid/flipkart-affiliate-override](https://github.com/whizzzkid/flipkart-affiliate-override) - Affiliate overriding for Flipkart
 - [webslides/WebSlides](https://github.com/webslides/WebSlides) - Create HTML presentations in seconds —
 - [amark/gun](https://github.com/amark/gun) - An open source cybersecurity protocol for syncing decentralized graph data.
@@ -1421,7 +1420,7 @@
 - [shekhargulati/52-technologies-in-2016](https://github.com/shekhargulati/52-technologies-in-2016) - Let's learn a new technology every week. A new technology blog every Sunday in 2016.
 - [watson-developer-cloud/speech-to-text-nodejs](https://github.com/watson-developer-cloud/speech-to-text-nodejs) - :microphone: Sample Node.js Application for the IBM Watson Speech to Text Service
 - [ritz078/embed-js](https://github.com/ritz078/embed-js) - 🌻  A lightweight plugin to embed emojis, media, maps, tweets, code and more. ✨
-- [dvlden/vidage](https://github.com/dvlden/vidage) - Your solution to full-screen background video & image combined.
+- [nonwip/vidage](https://github.com/nonwip/vidage) - Your solution to full-screen background video & image combined.
 - [julkue/mark.js](https://github.com/julkue/mark.js) - JavaScript keyword highlighting. Mark text with options that fit every application. Also available as jQuery plugin.
 - [segmentio/daydream](https://github.com/segmentio/daydream) - A chrome extension to record your actions into a nightmare or puppeteer script
 - [AlloyTeam/AlloyFinger](https://github.com/AlloyTeam/AlloyFinger) - Super tiny size multi-touch gestures library for the web. 　　　You can touch this →
@@ -2210,7 +2209,7 @@
 - [willemmulder/Presenteer.js](https://github.com/willemmulder/Presenteer.js) - Flexible HTML5 Presentation Tool
 - [adamdbradley/foresight.js](https://github.com/adamdbradley/foresight.js) - DEPRECATED: Prior to recent developments with the picture element, Foresight.js gaves webpages the ability to tell if the user's device is capable of viewing high-resolution images before the image is
 - [mailcheck/mailcheck](https://github.com/mailcheck/mailcheck) - Reduce misspelled email addresses in your web apps.
-- [olton/metroui](https://github.com/olton/metroui) - A progressive front-end framework for creating high-performance responsive web applications!
+- [olton/metroui](https://github.com/olton/metroui) - A progressive front-end framework for creating high-performance responsive reactive web applications!
 - [github-tools/github](https://github.com/github-tools/github) - A higher-level wrapper around the Github API. Intended for the browser.
 - [cloudfuji/kandan](https://github.com/cloudfuji/kandan) - A Cloudfuji chat application
 - [NUKnightLab/TimelineJS](https://github.com/NUKnightLab/TimelineJS) - TimelineJS: A Storytelling Timeline built in JavaScript.
@@ -4171,6 +4170,7 @@
 - [ramonszo/zuck.js](https://github.com/ramonszo/zuck.js) - A javascript library that lets you add stories EVERYWHERE.
 - [microsoft/reactxp](https://github.com/microsoft/reactxp) - Library for cross-platform app development.
 - [jkbrzt/rrule](https://github.com/jkbrzt/rrule) - JavaScript library for working with recurrence rules for calendar dates as defined in the iCalendar RFC and more.
+- [dexie/Dexie.js](https://github.com/dexie/Dexie.js) - A Minimalistic Wrapper for IndexedDB
 - [jvilk/BrowserFS](https://github.com/jvilk/BrowserFS) - BrowserFS is an in-browser filesystem that emulates the Node JS filesystem API and supports storing and retrieving files from various backends.
 - [vuetifyjs/vuetify](https://github.com/vuetifyjs/vuetify) - 🐉 Vue Component Framework
 - [mlaursen/react-md](https://github.com/mlaursen/react-md) - React material design - An accessible React component library built from the Material Design guidelines in Sass
