@@ -520,7 +520,7 @@
 - [speakeasy-api/rest-template-go](https://github.com/speakeasy-api/rest-template-go) - Template go lang service to showcase REST best practices. Built by the Speakeasy team.
 - [imskr/readme-update-actions](https://github.com/imskr/readme-update-actions) - Fetch latest blog posts and add it to GitHub profile's README dynamically
 - [hashicorp/nomad](https://github.com/hashicorp/nomad) - Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications. Nomad is easy to operate and sc
-- [livekit/livekit](https://github.com/livekit/livekit) - End-to-end stack for WebRTC. SFU media server and SDKs.
+- [livekit/livekit](https://github.com/livekit/livekit) - End-to-end realtime stack for connecting humans and AI
 - [jfyne/live](https://github.com/jfyne/live) - Live views and components for golang
 - [zerodha/gokiteconnect](https://github.com/zerodha/gokiteconnect) - Official Go client for Kite Connect API's
 - [trustwallet/assets](https://github.com/trustwallet/assets) - A comprehensive, up-to-date collection of information about several thousands (!) of crypto tokens.
@@ -614,6 +614,7 @@
 - [casualwriter/casual-markdown-page](https://github.com/casualwriter/casual-markdown-page) - Markdown as Web Page/Site
 - [htmlstreamofficial/preline](https://github.com/htmlstreamofficial/preline) - Preline UI is an open-source set of prebuilt UI components based on the utility-first Tailwind CSS framework.
 - [benpickles/peity](https://github.com/benpickles/peity) - Progressive &lt;svg&gt; pie, donut, bar and line charts
+- [formkit/auto-animate](https://github.com/formkit/auto-animate) - A zero-config, drop-in animation utility that adds smooth transitions to your web app. You can use it with React, Vue, or any other JavaScript application.
 - [ted-piotrowski/webcam-passport-photo](https://github.com/ted-piotrowski/webcam-passport-photo) - Take your own passport photo using your webcam
 - [jarib/webidl](https://github.com/jarib/webidl) - WebIDL parser/generator for ruby
 - [Acmion/HyperNav](https://github.com/Acmion/HyperNav) - HyperNav is an advanced and interactive CSS navigation menu framework. No JavaScript.
@@ -956,7 +957,7 @@
 - [alyssaxuu/omni](https://github.com/alyssaxuu/omni) - The all-in-one tool to supercharge your productivity ⌨️
 - [ooade/use-fetch-hook](https://github.com/ooade/use-fetch-hook) - A custom hook to fetch and cache data
 - [Kholid060/portofolio](https://github.com/Kholid060/portofolio) - My portfolio
-- [cheatcode/joystick](https://github.com/cheatcode/joystick) - A full-stack JavaScript framework for building stable, easy-to-maintain apps and websites.
+- [cheatcode/joystick](https://github.com/cheatcode/joystick) - The full-stack JavaScript framework for SaaS apps.
 - [AsyncBanana/microdiff](https://github.com/AsyncBanana/microdiff) - A fast, zero dependency object and array comparison library. Significantly faster than most other deep comparison libraries and has full TypeScript support.
 - [roadmanfong/zustand-persist](https://github.com/roadmanfong/zustand-persist) - Persist and rehydrate state
 - [aisingapore/TagUI-Bricks](https://github.com/aisingapore/TagUI-Bricks) - Collection of RPA workflows for TagUI
@@ -1174,7 +1175,6 @@
 - [Inscryb/inscryb-markdown-editor](https://github.com/Inscryb/inscryb-markdown-editor) - A simple, beautiful, and embeddable JavaScript Markdown editor. Based off SimpleMDE by Sparksuite.
 - [typemill/typemill](https://github.com/typemill/typemill) - Typemill is a flat-file CMS based on Markdown and designed for informational websites like documentation, manuals, and handbooks.
 - [jsonform/jsonform](https://github.com/jsonform/jsonform) - Build forms from JSON Schema. Easily template-able. Compatible with Bootstrap 3 out of the box.
-- [galio-org/galio](https://github.com/galio-org/galio) - Galio is a beautifully designed, Free and Open Source React Native Framework
 - [meenaviyal/comicmachine](https://github.com/meenaviyal/comicmachine) - Online Meme / Chali Editor with Character Collection and Malayalam Font Support.
 - [gramener/comicgen](https://github.com/gramener/comicgen) - Add comics to your website or app with an API
 - [dkdevru/nicebord](https://github.com/dkdevru/nicebord) - Animate border in div
@@ -1935,7 +1935,7 @@
 - [kevinburke/doony](https://github.com/kevinburke/doony) - UI Improvements for Jenkins
 - [peachananr/onepage-scroll](https://github.com/peachananr/onepage-scroll) - Create an Apple-like one page scroller website (iPhone 5S website) with One Page Scroll plugin
 - [Takazudo/jQuery.touchdragh](https://github.com/Takazudo/jQuery.touchdragh) - This makes elements draggable horizontally by touch.
-- [e-sites/perimeter.js](https://github.com/e-sites/perimeter.js) - Creates an invisible perimeter around a target element and monitors mouse breaches.
+- [goodnewsnl/perimeter.js](https://github.com/goodnewsnl/perimeter.js) - Creates an invisible perimeter around a target element and monitors mouse breaches.
 - [auchenberg/slotCount.js](https://github.com/auchenberg/slotCount.js) - Simple slot machine-like counter, inspired by Google Plus.
 - [angular-app/angular-app](https://github.com/angular-app/angular-app) - Reference application for AngularJS
 - [kennethcachia/background-check](https://github.com/kennethcachia/background-check) - Automatically switch to a darker or a lighter version of an element depending on the brightness of images behind it.
@@ -2074,6 +2074,7 @@
 - [chrisle/seer.js](https://github.com/chrisle/seer.js) - An all-in-one toolbox made for SEOs
 - [imakewebthings/deck.js](https://github.com/imakewebthings/deck.js) - Modern HTML Presentations
 - [carhartl/jquery-cookie](https://github.com/carhartl/jquery-cookie) - No longer maintained, superseded by JS Cookie:
+- [PrismJS/prism](https://github.com/PrismJS/prism) - Lightweight, robust, elegant syntax highlighting.
 - [nuxodin/svgEditable](https://github.com/nuxodin/svgEditable) - 
 - [kenwenzel/svg-edit](https://github.com/kenwenzel/svg-edit) - Mirror of svg-edit Subversion repository: https://svg-edit.googlecode.com/svn/trunk/
 - [vesan/jquery-inline-footnotes](https://github.com/vesan/jquery-inline-footnotes) - Allows footnotes to be viewed inline by hovering them
@@ -3100,7 +3101,7 @@
 - [mohitjain/api_layers](https://github.com/mohitjain/api_layers) - This gem is inspired by Use Case Driven and Layered Architecture
 - [mohammed-io/factory_bakery](https://github.com/mohammed-io/factory_bakery) - 
 - [mohitjain/leetcode_solutions](https://github.com/mohitjain/leetcode_solutions) - 
-- [alexrudall/ruby-openai](https://github.com/alexrudall/ruby-openai) - OpenAI API + Ruby! 🤖❤️ Now with Responses API + DeepSeek!
+- [alexrudall/ruby-openai](https://github.com/alexrudall/ruby-openai) - OpenAI API + Ruby! 🤖❤️ GPT-5 & Realtime WebRTC compatible!
 - [pawurb/rails-pg-extras](https://github.com/pawurb/rails-pg-extras) - Rails PostgreSQL database performance insights. Locks, index usage, buffer cache hit ratios, vacuum stats and more.
 - [code-and-effect/effective_logging](https://github.com/code-and-effect/effective_logging) - Automatically log all sent emails, user logins, and page views. This also will log custom events from Ruby and JavaScript.
 - [teespring-labs/active_record_replica](https://github.com/teespring-labs/active_record_replica) - Redirect ActiveRecord (Rails) reads to replica databases while ensuring all writes go to the primary database.
@@ -3195,7 +3196,7 @@
 - [amatsuda/still_life](https://github.com/amatsuda/still_life) - Rails upgrade's best friend
 - [MiniProfiler/rack-mini-profiler](https://github.com/MiniProfiler/rack-mini-profiler) - Profiler for your development and production Ruby rack apps.
 - [brianhempel/active_record_union](https://github.com/brianhempel/active_record_union) - UNIONs in ActiveRecord! Adds proper union and union_all methods to ActiveRecord::Relation.
-- [tcrayford/Values](https://github.com/tcrayford/Values) - Simple immutable value objects for ruby (the readme is longer than the code)
+- [tom-pang/Values](https://github.com/tom-pang/Values) - Simple immutable value objects for ruby (the readme is longer than the code)
 - [opf/openproject](https://github.com/opf/openproject) - OpenProject is the leading open source project management software.
 - [redis-store/redis-store](https://github.com/redis-store/redis-store) - Namespaced Rack::Session, Rack::Cache, I18n and cache Redis stores for Ruby web frameworks
 - [tombenner/reports_kit](https://github.com/tombenner/reports_kit) - Beautiful, interactive charts and tables for Ruby on Rails
@@ -3905,7 +3906,6 @@
 - [PlasmoHQ/plasmo](https://github.com/PlasmoHQ/plasmo) - 🧩 The Browser Extension Framework
 - [saas-js/saas-ui](https://github.com/saas-js/saas-ui) - The React component library for startups, built with Chakra UI.
 - [batnoter/batnoter](https://github.com/batnoter/batnoter) - An open source, markdown-based, self-hosted note taking webapp.
-- [formkit/auto-animate](https://github.com/formkit/auto-animate) - A zero-config, drop-in animation utility that adds smooth transitions to your web app. You can use it with React, Vue, or any other JavaScript application.
 - [malerba118/scrollex](https://github.com/malerba118/scrollex) - Build beautiful scroll experiences using minimal code
 - [markdoc/markdoc](https://github.com/markdoc/markdoc) - A powerful, flexible, Markdown-based authoring framework.
 - [mui/mui-x](https://github.com/mui/mui-x) - MUI X: Build complex and data-rich applications using a growing list of advanced React components, like the Data Grid, Date and Time Pickers, Charts, and more!
@@ -4117,6 +4117,7 @@
 - [daybrush/moveable](https://github.com/daybrush/moveable) - Moveable! Draggable! Resizable! Scalable! Rotatable! Warpable! Pinchable! Groupable! Snappable!
 - [kaorun343/vue-property-decorator](https://github.com/kaorun343/vue-property-decorator) - Vue.js and Property Decorator
 - [oknoorap/mobx-react-lite-context](https://github.com/oknoorap/mobx-react-lite-context) - Simple MobX React Lite with Context + Hooks
+- [galio-org/galio](https://github.com/galio-org/galio) - Galio is a beautifully designed, Free and Open Source React Native Framework
 - [system-ui/theme-ui](https://github.com/system-ui/theme-ui) - Build consistent, themeable React apps based on constraint-based design principles
 - [penrose/penrose](https://github.com/penrose/penrose) - Create beautiful diagrams just by typing notation in plain text.
 - [TankerHQ/sdk-js](https://github.com/TankerHQ/sdk-js) - Tanker client-side encryption SDK for JavaScript
@@ -4246,7 +4247,6 @@
 - [usablica/intro.js](https://github.com/usablica/intro.js) - Lightweight, user-friendly onboarding tour library
 - [derbyjs/derby](https://github.com/derbyjs/derby) - MVC framework making it easy to write realtime, collaborative applications that run in both Node.js and browsers
 - [ether/etherpad-lite](https://github.com/ether/etherpad-lite) - Etherpad: A modern really-real-time collaborative document editor.
-- [PrismJS/prism](https://github.com/PrismJS/prism) - Lightweight, robust, elegant syntax highlighting.
 - [peers/peerjs](https://github.com/peers/peerjs) - Simple peer-to-peer with WebRTC.
 - [stutrek/scrollmonitor](https://github.com/stutrek/scrollmonitor) - A simple and fast API to monitor elements as you scroll
 - [fabricjs/fabric.js](https://github.com/fabricjs/fabric.js) - Javascript Canvas Library, SVG-to-Canvas (& canvas-to-SVG) Parser
