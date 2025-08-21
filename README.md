@@ -1458,6 +1458,7 @@
 - [marmelab/EventDrops](https://github.com/marmelab/EventDrops) - A time based / event series interactive visualization using d3.js
 - [fdansv/marginotes](https://github.com/fdansv/marginotes) - Quick, cool margin notes with jQuery
 - [uber/react-vis](https://github.com/uber/react-vis) - Data Visualization Components
+- [amperser/proselint](https://github.com/amperser/proselint) - A linter for prose.
 - [UDST/vizicities](https://github.com/UDST/vizicities) - A framework for 3D geospatial visualization in the browser
 - [uidotdev/react-course](https://github.com/uidotdev/react-course) - Code for ui.dev's "Classic React" course
 - [raphamorim/origami.js](https://github.com/raphamorim/origami.js) - Powerful and Lightweight Library to create using HTML5 Canvas
@@ -2797,7 +2798,6 @@
 - [pedrokost/STProjectPlanner](https://github.com/pedrokost/STProjectPlanner) - An opinionated project planning plugin for Sublime Text 3
 - [HashNuke/ansible-elixir-stack](https://github.com/HashNuke/ansible-elixir-stack) - Ansible role to setup server with Elixir & Postgres to deploy apps
 - [alexjc/neural-doodle](https://github.com/alexjc/neural-doodle) - Turn your two-bit doodles into fine artworks with deep neural networks, generate seamless textures from photos, transfer style from one image to another, perform example-based upscaling, but wait... t
-- [amperser/proselint](https://github.com/amperser/proselint) - A linter for prose.
 - [syrusakbary/gdom](https://github.com/syrusakbary/gdom) - DOM Traversing and Scraping using GraphQL
 - [StevenBlack/hosts](https://github.com/StevenBlack/hosts) - 🔒 Consolidating and extending hosts files from several well-curated sources. Optionally pick extensions for porn, social media, and other categories.
 - [msiemens/tinydb](https://github.com/msiemens/tinydb) - TinyDB is a lightweight document oriented database optimized for your happiness :)
@@ -2817,7 +2817,6 @@
 - [odoo/odoo](https://github.com/odoo/odoo) - Odoo. Open Source Apps To Grow Your Business.
 - [openedx/XBlock](https://github.com/openedx/XBlock) - Framework for building custom learning components that run in the Open edX LMS!
 - [jrnl-org/jrnl](https://github.com/jrnl-org/jrnl) - Collect your thoughts and notes without leaving the command line.
-- [MobileChromeApps/mobile-chrome-apps](https://github.com/MobileChromeApps/mobile-chrome-apps) - Chrome apps on Android and iOS
 - [captn3m0/hackertray](https://github.com/captn3m0/hackertray) - :information_source: HackerTray is a minimalist Hacker News app for Linux
 - [xiaoxu193/PyTeaser](https://github.com/xiaoxu193/PyTeaser) - Summarizes news articles
 - [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
@@ -3111,7 +3110,7 @@
 - [clio/ten_years_rails](https://github.com/clio/ten_years_rails) - A companion gem for the "Ten Years of Rails Upgrades" talk
 - [iostat/eav_hashes](https://github.com/iostat/eav_hashes) - EAV on Rails done right.
 - [dfurber/ar_doc_store](https://github.com/dfurber/ar_doc_store) - ActiveRecord document storage using postgres JSON column - persistent, schemaless virtual attributes, embedded models, oh my!
-- [merit-gem/merit](https://github.com/merit-gem/merit) - Reputation engine for Rails apps
+- [tute/merit](https://github.com/tute/merit) - Reputation engine for Rails apps
 - [rails/rails-perftest](https://github.com/rails/rails-perftest) - Benchmark and profile your Rails apps
 - [igorkasyanchuk/rails_performance](https://github.com/igorkasyanchuk/rails_performance) - Monitor performance of you Rails applications (self-hosted and free)
 - [palkan/anyway_config](https://github.com/palkan/anyway_config) - Configuration library for Ruby gems and applications
@@ -3872,7 +3871,7 @@
 - [a16z-infra/ai-getting-started](https://github.com/a16z-infra/ai-getting-started) - A Javascript AI getting started stack for weekend projects, including image/text models, vector stores, auth, and deployment configs
 - [tremorlabs/tremor-npm](https://github.com/tremorlabs/tremor-npm) - React components to build charts and dashboards
 - [allister-grange/startertab](https://github.com/allister-grange/startertab) - A custom new tab page, keeping all the best info handy (a work in progress, feedback is invaluable)
-- [triggerdotdev/trigger.dev](https://github.com/triggerdotdev/trigger.dev) - Trigger.dev – open source background jobs and AI infrastructure
+- [triggerdotdev/trigger.dev](https://github.com/triggerdotdev/trigger.dev) - Trigger.dev – build and deploy fully‑managed AI agents and workflows
 - [apify/crawlee](https://github.com/apify/crawlee) - Crawlee—A web scraping and browser automation library for Node.js to build reliable crawlers. In JavaScript and TypeScript. Extract data for AI, LLMs, RAG, or GPTs. Download HTML, PDF, JPG, PNG, and o
 - [Linen-dev/linen.dev](https://github.com/Linen-dev/linen.dev) - Lightweight Google-searchable Slack alternative for Communities
 - [ballerine-io/ballerine](https://github.com/ballerine-io/ballerine) - Open-source infrastructure and data orchestration platform for risk decisioning
