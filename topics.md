@@ -3752,7 +3752,7 @@
 - [ErikBjare/KnowTree](https://github.com/ErikBjare/KnowTree) - Crazy idea about visualizing what you (don't yet) know and create a great plan to learn anything.
 - [Roznoshchik/Lurnby](https://github.com/Roznoshchik/Lurnby) - A tool for active reading and personal knowledge management
 - [kaievns/halmak](https://github.com/kaievns/halmak) - The final version of the AI designed keyboard layout
-- [ruby-oauth/oauth](https://github.com/ruby-oauth/oauth) - OAuth for Ruby
+- [ruby-oauth/oauth](https://github.com/ruby-oauth/oauth) - 🔑 A Ruby wrapper for OAuth 1.0a protocol
 - [omniauth/omniauth-oauth](https://github.com/omniauth/omniauth-oauth) - A generic OAuth strategy for OmniAuth.
 - [HorusGoul/remix-react-native-web-starter](https://github.com/HorusGoul/remix-react-native-web-starter) - An easy to use Remix + React Native Web starter
 - [rootstrap/rails-modular-monolith-with-ddd](https://github.com/rootstrap/rails-modular-monolith-with-ddd) - Full Modular Monolith Rails application with Domain-Driven Design approach. Inspired by https://github.com/kgrzybek/modular-monolith-with-ddd
@@ -4843,7 +4843,7 @@
 - [AndersSchmidtHansen/Kaidan](https://github.com/AndersSchmidtHansen/Kaidan) - My Toolkit for Ghost Theme Development. Craft your Ghost themes with flexibility of Sass and the expressiveness of CoffeeScript.  Live reloads across multiple devices and browsers thanks to BrowserSyn
 - [bozboz/luigi](https://github.com/bozboz/luigi) - Bozboz Scss Framework
 - [erikflowers/weather-icons](https://github.com/erikflowers/weather-icons) - 215 Weather Themed Icons and CSS
-- [lardawge/carrierwave_backgrounder](https://github.com/lardawge/carrierwave_backgrounder) - Offload CarrierWave's image processing and storage to a background process using ActiveJob or Sidekiq..
+- [lardawge/carrierwave_backgrounder](https://github.com/lardawge/carrierwave_backgrounder) - Offload CarrierWave's image processing and storage to a background process using ActiveJob or Sidekiq.
 - [joepie91/pdfy](https://github.com/joepie91/pdfy) - The platform behind PDFy, a free instant PDF host.
 - [cjbarber/ToolsOfTheTrade](https://github.com/cjbarber/ToolsOfTheTrade) - Tools of The Trade, from Hacker News.
 - [fians/Waves](https://github.com/fians/Waves) - Click effect inspired by Google's Material Design
@@ -6747,7 +6747,7 @@
 - [joshwcomeau/react-flip-move](https://github.com/joshwcomeau/react-flip-move) - Effortless animation between DOM changes (eg. list reordering) using the FLIP technique.
 - [bigardone/phoenix-trello](https://github.com/bigardone/phoenix-trello) - Trello tribute done in Elixir, Phoenix Framework, React and Redux.
 - [FormidableLabs/spectacle](https://github.com/FormidableLabs/spectacle) - A React-based library for creating sleek presentations using JSX syntax that gives you the ability to live demo your code.
-- [jackocnr/intl-tel-input](https://github.com/jackocnr/intl-tel-input) - A JavaScript plugin for entering and validating international telephone numbers. React and Vue components also included.
+- [jackocnr/intl-tel-input](https://github.com/jackocnr/intl-tel-input) - A JavaScript plugin for entering and validating international telephone numbers. React, Vue and Angular components also included.
 - [jsplumb/jsplumb](https://github.com/jsplumb/jsplumb) - Visual connectivity for webapps
 
 ## redux 
@@ -7627,7 +7627,7 @@
 - [Turfjs/turf](https://github.com/Turfjs/turf) - A modular geospatial engine written in JavaScript and TypeScript
 - [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid) - Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown
 - [taye/interact.js](https://github.com/taye/interact.js) - JavaScript drag and drop, resizing and multi-touch gestures with inertia and snapping for modern browsers (and also IE9+)
-- [jackocnr/intl-tel-input](https://github.com/jackocnr/intl-tel-input) - A JavaScript plugin for entering and validating international telephone numbers. React and Vue components also included.
+- [jackocnr/intl-tel-input](https://github.com/jackocnr/intl-tel-input) - A JavaScript plugin for entering and validating international telephone numbers. React, Vue and Angular components also included.
 - [fabiospampinato/cash](https://github.com/fabiospampinato/cash) - An absurdly small jQuery alternative for modern browsers.
 - [ionic-team/ionic-framework](https://github.com/ionic-team/ionic-framework) - A powerful cross-platform UI toolkit for building native-quality iOS, Android, and Progressive Web Apps with HTML, CSS, and JavaScript.
 - [clientIO/joint](https://github.com/clientIO/joint) - A proven SVG-based JavaScript diagramming library powering exceptional UIs
@@ -7802,7 +7802,7 @@
 - [Zulko/eagle.js](https://github.com/Zulko/eagle.js) - A hackable slideshow framework built with Vue.js
 - [vuetifyjs/vuetify](https://github.com/vuetifyjs/vuetify) - 🐉 Vue Component Framework
 - [samtgarson/vueport](https://github.com/samtgarson/vueport) - [Deprecated] Single file components for Rails with Vue JS and Webpack
-- [jackocnr/intl-tel-input](https://github.com/jackocnr/intl-tel-input) - A JavaScript plugin for entering and validating international telephone numbers. React and Vue components also included.
+- [jackocnr/intl-tel-input](https://github.com/jackocnr/intl-tel-input) - A JavaScript plugin for entering and validating international telephone numbers. React, Vue and Angular components also included.
 - [HabitRPG/habitica](https://github.com/HabitRPG/habitica) - A habit tracker app which treats your goals like a Role Playing Game.
 - [jsplumb/jsplumb](https://github.com/jsplumb/jsplumb) - Visual connectivity for webapps
 
