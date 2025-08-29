@@ -549,7 +549,6 @@
 - [asdf-vm/asdf](https://github.com/asdf-vm/asdf) - Extendable version manager with support for Ruby, Node.js, Elixir, Erlang & more
 - [resgateio/resgate](https://github.com/resgateio/resgate) - A Realtime API Gateway used with NATS to build REST, real time, and RPC APIs, where all your clients are synchronized seamlessly.
 - [openfaas/connector-sdk](https://github.com/openfaas/connector-sdk) - SDK for connecting events to functions
-- [rudderlabs/rudder-server](https://github.com/rudderlabs/rudder-server) - Privacy and Security focused Segment-alternative, in Golang and React
 - [quii/learn-go-with-tests](https://github.com/quii/learn-go-with-tests) - Learn Go with test-driven development
 - [google/mtail](https://github.com/google/mtail) - extract internal monitoring data from application logs for collection in a timeseries database
 - [borud/points](https://github.com/borud/points) - Artyfarty halftone filter
@@ -1166,7 +1165,7 @@
 - [timqian/chart.xkcd](https://github.com/timqian/chart.xkcd) - xkcd styled chart lib
 - [redux-saga/redux-saga](https://github.com/redux-saga/redux-saga) - An alternative side effect model for Redux apps
 - [erikras/ducks-modular-redux](https://github.com/erikras/ducks-modular-redux) - A proposal for bundling reducers, action types and actions when using Redux
-- [christianvoigt/argdown](https://github.com/christianvoigt/argdown) - a simple syntax for complex argumentation
+- [argdown/argdown](https://github.com/argdown/argdown) - a simple syntax for complex argumentation
 - [DanielDe/org-web](https://github.com/DanielDe/org-web) - org-mode on the web, built with React, optimized for mobile, synced with Dropbox and Google Drive
 - [nikordaris/redux-form-jsonschema-reactstrap](https://github.com/nikordaris/redux-form-jsonschema-reactstrap) - redux-form field library using reactstrap
 - [func-farm/func-farm](https://github.com/func-farm/func-farm) - Browser extension to create serverless functions from code snippets
@@ -1649,7 +1648,6 @@
 - [eligrey/FileSaver.js](https://github.com/eligrey/FileSaver.js) - An HTML5 saveAs() FileSaver implementation
 - [Dogfalo/materialize](https://github.com/Dogfalo/materialize) - Materialize, a CSS Framework based on Material Design
 - [indutny/self-signed](https://github.com/indutny/self-signed) - Generate Self-Signed certificates in browser
-- [jackocnr/intl-tel-input](https://github.com/jackocnr/intl-tel-input) - A JavaScript plugin for entering and validating international telephone numbers. React, Vue and Angular components also included.
 - [ttaubert/secret-notes](https://github.com/ttaubert/secret-notes) - Examples for my talk "Keeping secrets with JavaScript - An Introduction to the WebCrypto API"
 - [ConnorAtherton/walkway](https://github.com/ConnorAtherton/walkway) - An easy way to animate SVG elements.
 - [alvarotrigo/pagePiling.js](https://github.com/alvarotrigo/pagePiling.js) - pagePiling plugin by Alvaro Trigo. Create a scrolling pile of sections. http://alvarotrigo.com/pagePiling/
@@ -1764,7 +1762,6 @@
 - [strongloop/loopback](https://github.com/strongloop/loopback) - LoopBack makes it easy to build modern applications that require complex integrations.
 - [judesfernando/initial.js](https://github.com/judesfernando/initial.js) - Simple jQuery plugin to make Gmail like text avatars for profile pictures
 - [kartik-v/bootstrap-fileinput](https://github.com/kartik-v/bootstrap-fileinput) - An enhanced HTML 5 file input for Bootstrap 5.x/4.x./3.x with file preview, multiple selection, and more features.
-- [felipernb/algorithms.js](https://github.com/felipernb/algorithms.js) - Atwood's Law applied to CS101 - Classic algorithms and data structures implemented in JavaScript
 - [hindmost/jquery.scrollless](https://github.com/hindmost/jquery.scrollless) - Total replacement of native scrolling
 - [jonathanong/baaar](https://github.com/jonathanong/baaar) - a colorful top loading progress bar
 - [CyrusNuevoDia/CSV.js](https://github.com/CyrusNuevoDia/CSV.js) - A simple, blazing-fast CSV parser and encoder. Full RFC 4180 compliance.
@@ -3698,7 +3695,7 @@
 - [enquo/pg_enquo](https://github.com/enquo/pg_enquo) - Postgres extension to allow encrypted query operations
 - [graphul-rs/graphul](https://github.com/graphul-rs/graphul) - Optimize, speed, scale your microservices and save money 💵
 - [dvishal485/flipkart-scraper-api](https://github.com/dvishal485/flipkart-scraper-api) - API to scrape search result and product details from Flipkart
-- [parseablehq/parseable](https://github.com/parseablehq/parseable) - ParseableDB is a disk less, cloud native database for observability and security. Parseable is the Observability platform built with ParseableDB
+- [parseablehq/parseable](https://github.com/parseablehq/parseable) - Parseable is an observability platform built for the modern - cloud native, AI era.
 - [surrealdb/surrealdb](https://github.com/surrealdb/surrealdb) - A scalable, distributed, collaborative, document-graph database, for the realtime web
 - [pgcentralfoundation/pgrx](https://github.com/pgcentralfoundation/pgrx) - Build Postgres Extensions with Rust!
 - [trane-project/trane](https://github.com/trane-project/trane) - An automated practice system for mastering complex skills
@@ -3948,7 +3945,7 @@
 - [inrupt/solid-ui-react](https://github.com/inrupt/solid-ui-react) - React SDK using @inrupt/solid-client
 - [unocss/unocss](https://github.com/unocss/unocss) - The instant on-demand atomic CSS engine.
 - [refinedev/refine](https://github.com/refinedev/refine) - A React Framework for building  internal tools, admin panels, dashboards & B2B apps with unmatched flexibility.
-- [imbhargav5/rooks](https://github.com/imbhargav5/rooks) - Essential React custom hooks ⚓ to super charge your components!
+- [imbhargav5/rooks](https://github.com/imbhargav5/rooks) - Collection of awesome react hooks
 - [betula/use-between](https://github.com/betula/use-between) - Sharing state between React components
 - [dai-shi/use-reducer-async](https://github.com/dai-shi/use-reducer-async) - React useReducer with async actions
 - [radix-ui/primitives](https://github.com/radix-ui/primitives) - Radix Primitives is an open-source UI component library for building high-quality, accessible design systems and web apps. Maintained by @workos.
@@ -4223,6 +4220,7 @@
 - [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid) - Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown
 - [taye/interact.js](https://github.com/taye/interact.js) - JavaScript drag and drop, resizing and multi-touch gestures with inertia and snapping for modern browsers (and also IE9+)
 - [metricsgraphics/metrics-graphics](https://github.com/metricsgraphics/metrics-graphics) - A library optimized for concise and principled data graphics and layouts.
+- [jackocnr/intl-tel-input](https://github.com/jackocnr/intl-tel-input) - A JavaScript plugin for entering and validating international telephone numbers. React, Vue and Angular components also included.
 - [sindresorhus/pageres](https://github.com/sindresorhus/pageres) - Capture website screenshots
 - [t4t5/sweetalert](https://github.com/t4t5/sweetalert) - A beautiful replacement for JavaScript's "alert"
 - [chartist-js/chartist](https://github.com/chartist-js/chartist) - Simple responsive charts
