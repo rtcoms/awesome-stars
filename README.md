@@ -549,6 +549,7 @@
 - [asdf-vm/asdf](https://github.com/asdf-vm/asdf) - Extendable version manager with support for Ruby, Node.js, Elixir, Erlang & more
 - [resgateio/resgate](https://github.com/resgateio/resgate) - A Realtime API Gateway used with NATS to build REST, real time, and RPC APIs, where all your clients are synchronized seamlessly.
 - [openfaas/connector-sdk](https://github.com/openfaas/connector-sdk) - SDK for connecting events to functions
+- [rudderlabs/rudder-server](https://github.com/rudderlabs/rudder-server) - Privacy and Security focused Segment-alternative, in Golang and React
 - [quii/learn-go-with-tests](https://github.com/quii/learn-go-with-tests) - Learn Go with test-driven development
 - [google/mtail](https://github.com/google/mtail) - extract internal monitoring data from application logs for collection in a timeseries database
 - [borud/points](https://github.com/borud/points) - Artyfarty halftone filter
@@ -613,7 +614,6 @@
 - [casualwriter/casual-markdown-page](https://github.com/casualwriter/casual-markdown-page) - Markdown as Web Page/Site
 - [htmlstreamofficial/preline](https://github.com/htmlstreamofficial/preline) - Preline UI is an open-source set of prebuilt UI components based on the utility-first Tailwind CSS framework.
 - [benpickles/peity](https://github.com/benpickles/peity) - Progressive &lt;svg&gt; pie, donut, bar and line charts
-- [formkit/auto-animate](https://github.com/formkit/auto-animate) - A zero-config, drop-in animation utility that adds smooth transitions to your web app. You can use it with React, Vue, or any other JavaScript application.
 - [ted-piotrowski/webcam-passport-photo](https://github.com/ted-piotrowski/webcam-passport-photo) - Take your own passport photo using your webcam
 - [jarib/webidl](https://github.com/jarib/webidl) - WebIDL parser/generator for ruby
 - [Acmion/HyperNav](https://github.com/Acmion/HyperNav) - HyperNav is an advanced and interactive CSS navigation menu framework. No JavaScript.
@@ -634,7 +634,6 @@
 - [dankito/Readability4J](https://github.com/dankito/Readability4J) - A Kotlin port of Mozilla‘s Readability. It extracts a website‘s relevant content and removes all clutter from it.
 - [TreborNamor/TradingView-Machine-Learning-GUI](https://github.com/TreborNamor/TradingView-Machine-Learning-GUI) - Start your trading journey with this project's advanced stop loss/take profit generator, enhancing your TradingView strategy. Utilize sklearn's machine learning algorithms for superior strategy optimi
 - [WebReflection/hyperHTML](https://github.com/WebReflection/hyperHTML) - A Fast & Light Virtual DOM Alternative
-- [microsoft/ML-For-Beginners](https://github.com/microsoft/ML-For-Beginners) - 12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all
 - [justalever/kickoff_vite_rails](https://github.com/justalever/kickoff_vite_rails) - A rapid Rails 6.1+ application template bundled with Vite and WindiCSS
 - [Bramjetten/Spina](https://github.com/Bramjetten/Spina) - Spina CMS
 - [HoangTran0410/3DCarousel](https://github.com/HoangTran0410/3DCarousel) - 3D Carousel with mouse controls
@@ -643,6 +642,7 @@
 - [tabler/tabler](https://github.com/tabler/tabler) - Tabler is free and open-source HTML Dashboard UI Kit built on Bootstrap
 - [prabhuignoto/react-chrono](https://github.com/prabhuignoto/react-chrono) - Modern Timeline Component for React
 - [ivankahl/drawio-notion-embed](https://github.com/ivankahl/drawio-notion-embed) - A super simple project that lets you embed draw.io diagrams directly into Notion.
+- [formio/formio](https://github.com/formio/formio) - A Form and Data Management Platform for Progressive Web Applications.
 - [CodeGuppyPrograms/TurtleGFX](https://github.com/CodeGuppyPrograms/TurtleGFX) - Turtle Graphics for p5.js / JavaScript
 - [vladocar/Basic.css](https://github.com/vladocar/Basic.css) - Basic.css - Classless CSS Starter File
 - [xz/new.css](https://github.com/xz/new.css) - A classless CSS framework to write modern websites using only HTML.
@@ -1016,7 +1016,7 @@
 - [exoframejs/exoframe](https://github.com/exoframejs/exoframe) - Exoframe is a self-hosted tool that allows simple one-command deployments using Docker
 - [jhu-ep-coursera/fullstack-course4](https://github.com/jhu-ep-coursera/fullstack-course4) - Example code for HTML, CSS, and Javascript for Web Developers Coursera Course
 - [engineer-man/piston](https://github.com/engineer-man/piston) - A high performance general purpose code execution engine.
-- [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) - Low-code platform for building business applications. Connect to databases, cloud storages, GraphQL, API endpoints, Airtable, Google sheets, OpenAI, etc and build apps using drag and drop application 
+- [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) - ToolJet is the open-source foundation of ToolJet AI - the AI-native platform for building internal tools, dashboard, business applications, workflows and AI agents 🚀
 - [google-map-react/google-map-react](https://github.com/google-map-react/google-map-react) - Google map library for react that allows rendering components as markers :tada:
 - [goldbergyoni/javascript-testing-best-practices](https://github.com/goldbergyoni/javascript-testing-best-practices) - 📗🌐 🚢 Comprehensive and exhaustive JavaScript & Node.js testing best practices (August 2025)
 - [atulmy/oauth](https://github.com/atulmy/oauth) - 🔗  OAuth 2.0 implementation for various providers in one place.
@@ -1073,7 +1073,6 @@
 - [MananTank/radioactive-state](https://github.com/MananTank/radioactive-state) - ☢ Make Your React App Truly Reactive!
 - [model-zoo/shift-ctrl-f](https://github.com/model-zoo/shift-ctrl-f) - 🔎 Search the information available on a webpage using natural language instead of an exact string match.
 - [alias-rahil/handwritten.js](https://github.com/alias-rahil/handwritten.js) - Convert typed text to realistic handwriting!
-- [formio/formio](https://github.com/formio/formio) - A Form and Data Management Platform for Progressive Web Applications.
 - [iliketomatoes/tabellajs](https://github.com/iliketomatoes/tabellajs) - Pure javascript, touch enabled, responsive tables.
 - [monsieurBoutte/react-pwa-boilerplate](https://github.com/monsieurBoutte/react-pwa-boilerplate) - 
 - [RisingStack/react-easy-state](https://github.com/RisingStack/react-easy-state) - Simple React state management. Made with ❤️ and ES6 Proxies.
@@ -1922,7 +1921,6 @@
 - [natefaubion/sparkler](https://github.com/natefaubion/sparkler) - Native pattern matching for JavaScript
 - [rampatra/failsafe.js](https://github.com/rampatra/failsafe.js) - A jQuery Plugin to make your App Robust
 - [textAngular/textAngular](https://github.com/textAngular/textAngular) - A radically powerful Text-Editor/Wysiwyg editor for Angular.js! Create multiple editor instances, two-way-bind HTML content, watch editors for changes and more!
-- [adnissen/heroku-alarm](https://github.com/adnissen/heroku-alarm) - keep your free-tier heroku apps awake all the time
 - [petkaantonov/bluebird](https://github.com/petkaantonov/bluebird) - :bird: :zap: Bluebird is a full featured promise library with unmatched performance.
 - [Reportr/dashboard](https://github.com/Reportr/dashboard) - Your life's personal dashboard.
 - [elclanrs/jq-idealforms](https://github.com/elclanrs/jq-idealforms) - The ultimate framework for building and validating responsive HTML5 forms.
@@ -2319,6 +2317,7 @@
 - [AkashSingh3031/The-Complete-FAANG-Preparation](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation) - Dive into this repository, a comprehensive resource covering Data Structures, Algorithms, 450 DSA by Love Babbar, Striver DSA sheet, Apna College DSA Sheet, and FAANG Questions! 🚀 That's not all! We'v
 - [marceloprates/prettymaps](https://github.com/marceloprates/prettymaps) - Draw pretty maps from OpenStreetMap data! Built with osmnx +matplotlib + shapely
 - [gov-ai/flowt](https://github.com/gov-ai/flowt) - Forex and stock market predictions using transformer
+- [microsoft/ML-For-Beginners](https://github.com/microsoft/ML-For-Beginners) - 12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all
 - [fossunited/joy](https://github.com/fossunited/joy) - Joy is a tiny creative coding library in Python.
 - [onnx/models](https://github.com/onnx/models) - A collection of pre-trained, state-of-the-art models in the ONNX format
 - [CompVis/taming-transformers](https://github.com/CompVis/taming-transformers) - Taming Transformers for High-Resolution Image Synthesis
@@ -3441,7 +3440,7 @@
 - [square/shuttle](https://github.com/square/shuttle) - String extraction, translation and export tools for the 21st century. "Moving strings around so you don't have to"
 - [ctide/screenshotter](https://github.com/ctide/screenshotter) - Simple utility to take a screenshot of a URL at 3 different widths
 - [adzap/validates_timeliness](https://github.com/adzap/validates_timeliness) - Date and time validation plugin for ActiveModel and Rails.  Supports multiple ORMs and allows custom date/time formats.
-- [rubiety/nilify_blanks](https://github.com/rubiety/nilify_blanks) - Provides a framework for saving incoming blank values as nil in the database in instances where you'd rather use DB NULL than simply a blank string.
+- [eigenben/nilify_blanks](https://github.com/eigenben/nilify_blanks) - Provides a framework for saving incoming blank values as nil in the database in instances where you'd rather use DB NULL than simply a blank string.
 - [kagemusha/ember-rails-devise-demo](https://github.com/kagemusha/ember-rails-devise-demo) - A working app using ember, rails and devise.
 - [icalendar/icalendar](https://github.com/icalendar/icalendar) - icalendar.rb main repository
 - [tmm1/stackprof](https://github.com/tmm1/stackprof) - a sampling call-stack profiler for ruby 2.2+
@@ -3902,6 +3901,7 @@
 - [PlasmoHQ/plasmo](https://github.com/PlasmoHQ/plasmo) - 🧩 The Browser Extension Framework
 - [saas-js/saas-ui](https://github.com/saas-js/saas-ui) - The React component library for startups, built with Chakra UI.
 - [batnoter/batnoter](https://github.com/batnoter/batnoter) - An open source, markdown-based, self-hosted note taking webapp.
+- [formkit/auto-animate](https://github.com/formkit/auto-animate) - A zero-config, drop-in animation utility that adds smooth transitions to your web app. You can use it with React, Vue, or any other JavaScript application.
 - [malerba118/scrollex](https://github.com/malerba118/scrollex) - Build beautiful scroll experiences using minimal code
 - [markdoc/markdoc](https://github.com/markdoc/markdoc) - A powerful, flexible, Markdown-based authoring framework.
 - [mui/mui-x](https://github.com/mui/mui-x) - MUI X: Build complex and data-rich applications using a growing list of advanced React components, like the Data Grid, Date and Time Pickers, Charts, and more!
@@ -3911,7 +3911,7 @@
 - [sergiodxa/use-mutation](https://github.com/sergiodxa/use-mutation) - 🧬 Run side-effects safely in React
 - [faros-ai/faros-community-edition](https://github.com/faros-ai/faros-community-edition) - BI, API and Automation layer for your Engineering Operations data
 - [Lissy93/personal-security-checklist](https://github.com/Lissy93/personal-security-checklist) - 🔒 A compiled checklist of 300+ tips for protecting digital security and privacy in 2024
-- [SAP/ui5-webcomponents](https://github.com/SAP/ui5-webcomponents) - UI5 Web Components - the enterprise-flavored sugar on top of native APIs! Build SAP Fiori user interfaces with the technology of your choice.
+- [UI5/webcomponents](https://github.com/UI5/webcomponents) - UI5 Web Components - the enterprise-flavored sugar on top of native APIs! Build SAP Fiori user interfaces with the technology of your choice.
 - [rootstrap/react-native-base](https://github.com/rootstrap/react-native-base) - React Native-Redux Boilerplate
 - [sst/sst](https://github.com/sst/sst) - Build full-stack apps on your own infrastructure.
 - [shoelace-style/shoelace](https://github.com/shoelace-style/shoelace) - Web Awesome ("Shoelace 3") has been released! Get it here 👇👇👇
