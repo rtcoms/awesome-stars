@@ -2966,7 +2966,7 @@
 - [basecamp/console1984](https://github.com/basecamp/console1984) - The Rails console you love, 1984 style
 - [palkan/n_plus_one_control](https://github.com/palkan/n_plus_one_control) - RSpec and Minitest matchers to prevent N+1 queries problem
 - [ruby/open3](https://github.com/ruby/open3) - Open3 gives you access to stdin, stdout, and stderr when running other programs.
-- [ruby-oauth/oauth](https://github.com/ruby-oauth/oauth) - 🔑 A Ruby wrapper for OAuth 1.0a protocol
+- [ruby-oauth/oauth](https://github.com/ruby-oauth/oauth) - 🔑 A Ruby wrapper for OAuth 1.0a protocol; clients & servers
 - [omniauth/omniauth-oauth](https://github.com/omniauth/omniauth-oauth) - A generic OAuth strategy for OmniAuth.
 - [excid3/gorails-ruby](https://github.com/excid3/gorails-ruby) - An interactive CLI for GoRails, Railsbytes, Jumpstart, and more.
 - [rootstrap/rails_api_base](https://github.com/rootstrap/rails_api_base) - API boilerplate project for Ruby on Rails 8
