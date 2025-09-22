@@ -119,7 +119,7 @@
 
 - [cucumber/html-formatter](https://github.com/cucumber/html-formatter) - HTML formatter for reporting Cucumber results
 - [QuantConnect/Lean](https://github.com/QuantConnect/Lean) - Lean Algorithmic Trading Engine by QuantConnect (Python, C#)
-- [microsoft/PowerToys](https://github.com/microsoft/PowerToys) - Windows system utilities to maximize productivity
+- [microsoft/PowerToys](https://github.com/microsoft/PowerToys) - Microsoft PowerToys is a collection of utilities that help you customize Windows and streamline everyday tasks
 - [microsoft/Power-Fx](https://github.com/microsoft/Power-Fx) - Power Fx low-code programming language
 - [TheBerkin/rant3](https://github.com/TheBerkin/rant3) - (Obsolete) Archive of Rant 3.x.
 
@@ -570,7 +570,7 @@
 - [mislav/anyenv](https://github.com/mislav/anyenv) - rbenv-inspired version manager that can be configured to manage versions of ANYTHING
 - [go-bootstrap/go-bootstrap](https://github.com/go-bootstrap/go-bootstrap) - Generates a lean and mean Go web project.
 - [hashicorp/vault](https://github.com/hashicorp/vault) - A tool for secrets management, encryption as a service, and privileged access management
-- [gin-gonic/gin](https://github.com/gin-gonic/gin) - Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.
+- [gin-gonic/gin](https://github.com/gin-gonic/gin) - Gin is a high-performance HTTP web framework written in Go. It provides a Martini-like API but with significantly better performance—up to 40 times faster—thanks to httprouter. Gin is designed for bui
 - [nwidger/nintengo](https://github.com/nwidger/nintengo) - An NES emulator written in Go
 - [sosedoff/pgweb](https://github.com/sosedoff/pgweb) - Cross-platform client for PostgreSQL databases
 - [yosssi/ace](https://github.com/yosssi/ace) - HTML template engine for Go
@@ -3259,7 +3259,7 @@
 - [springernature/immagine](https://github.com/springernature/immagine) - Service that serves images and resize them if need be.
 - [zverok/worldize](https://github.com/zverok/worldize) - Simple coloured countries drawing
 - [brendon/ranked-model](https://github.com/brendon/ranked-model) - An acts_as_sortable/acts_as_list replacement built for Rails 4+
-- [shakacode/react_on_rails](https://github.com/shakacode/react_on_rails) - Integration of React + Webpack + Rails + rails/webpacker including server-side rendering of React, enabling a better developer experience and faster client performance.
+- [shakacode/react_on_rails](https://github.com/shakacode/react_on_rails) - Integration of React + Webpack + Rails including server-side rendering of React, enabling a better developer experience and faster client performance.
 - [design-patterns-in-ruby/design-patterns-in-ruby](https://github.com/design-patterns-in-ruby/design-patterns-in-ruby) - Examples from the book Design Patterns in Ruby by Russ Olsen.  # ruby 2.2.0
 - [dtaniwaki/rack-dev-mark](https://github.com/dtaniwaki/rack-dev-mark) - Show dev mark on development env
 - [fluffgfx/dit](https://github.com/fluffgfx/dit) - :file_folder: dotfile management that thinks it's git
@@ -4067,7 +4067,7 @@
 - [blitz-js/blitz](https://github.com/blitz-js/blitz) - ⚡️ The Missing Fullstack Toolkit for Next.js
 - [atlassian/prosemirror-utils](https://github.com/atlassian/prosemirror-utils) - ⚒ Utils library for ProseMirror
 - [gridstack/gridstack.js](https://github.com/gridstack/gridstack.js) - Build interactive dashboards in minutes.
-- [popcorntime/popcorntime](https://github.com/popcorntime/popcorntime) - Popcorn Time puts everything in one place. Your favorite platforms, your shows, your movies-ready when you are.
+- [popcorntime/popcorntime](https://github.com/popcorntime/popcorntime) - Popcorn Time™ puts everything in one place. Your favorite platforms, your shows, your movies-ready when you are.
 - [unlayer/react-email-editor](https://github.com/unlayer/react-email-editor) - Drag-n-Drop Email Editor Component for React.js
 - [pixelass/react-stickyroll](https://github.com/pixelass/react-stickyroll) - A react implementation of stickyroll (original)
 - [paperbits/paperbits-prosemirror](https://github.com/paperbits/paperbits-prosemirror) - Paperbits HTML editor based on ProseMirror.
