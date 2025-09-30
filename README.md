@@ -283,7 +283,6 @@
 - [hsk81/notex-v2.0](https://github.com/hsk81/notex-v2.0) - A text editor for reStructuredText, Markdown, LaTex and more!
 - [orlandotm/payment-webfont](https://github.com/orlandotm/payment-webfont) - An SVG webfont full of main payment system icons
 - [Grafikart/CSS3-Loaders](https://github.com/Grafikart/CSS3-Loaders) - 
-- [mojotech/jeet](https://github.com/mojotech/jeet) - The most advanced, yet intuitive, grid system available for Sass or Stylus
 - [fntneves/jquery-labelauty](https://github.com/fntneves/jquery-labelauty) - A lightweight and beautiful jQuery plugin for radio and checkbox inputs.
 - [adamschwartz/magic-of-css](https://github.com/adamschwartz/magic-of-css) - A CSS course to turn you into a magician.
 - [visvoy/doncare-ui](https://github.com/visvoy/doncare-ui) - Backend UI suite
@@ -2867,7 +2866,7 @@
 - [enquo/active_enquo](https://github.com/enquo/active_enquo) - ActiveRecord extension for encrypted query operations
 - [metricfu/metric_fu](https://github.com/metricfu/metric_fu) - A fist full of code metrics
 - [devmasx/brakeman-linter-action](https://github.com/devmasx/brakeman-linter-action) - GitHub Action to run Rubocop against your code.
-- [WeTransfer/zip_tricks](https://github.com/WeTransfer/zip_tricks) - [DEPRECATED] Compact ZIP file writing/reading for Ruby, for streaming applications
+- [WeTransferArchive/zip_tricks](https://github.com/WeTransferArchive/zip_tricks) - [DEPRECATED] Compact ZIP file writing/reading for Ruby, for streaming applications
 - [brightcove-archive/ooyala_retries](https://github.com/brightcove-archive/ooyala_retries) - A tiny Rubygem for retrying code with randomized, exponential backoff.
 - [spriteCloud/lapis-lazuli](https://github.com/spriteCloud/lapis-lazuli) - Cucumber helper functions and scaffolding for easier test automation suite development.
 - [debbbbie/awesome-ruby-toolbox](https://github.com/debbbbie/awesome-ruby-toolbox) - A collection of awesome Ruby libraries from www.ruby-toolbox.com , with removing DRPRECATED libraries.
@@ -3758,6 +3757,7 @@
 - [bozboz/luigi](https://github.com/bozboz/luigi) - Bozboz Scss Framework
 - [jessepollak/card](https://github.com/jessepollak/card) - :credit_card: make your credit card form better in one line of code
 - [mdo/code-guide](https://github.com/mdo/code-guide) - Standards for developing consistent, flexible, and sustainable HTML and CSS.
+- [mojotech/jeet](https://github.com/mojotech/jeet) - The most advanced, yet intuitive, grid system available for Sass or Stylus
 - [IanLunn/Hover](https://github.com/IanLunn/Hover) - A collection of CSS3 powered hover effects to be applied to links, buttons, logos, SVG, featured images and so on. Easily apply to your own elements, modify or just use for inspiration. Available in C
 - [selectize/selectize.js](https://github.com/selectize/selectize.js) - Selectize is the hybrid of a textbox and &lt;select&gt; box. It's jQuery based, and it has autocomplete and native-feeling keyboard navigation; useful for tagging, contact lists, etc.
 - [at-import/SassyLists](https://github.com/at-import/SassyLists) - 
