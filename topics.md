@@ -3596,7 +3596,6 @@
 
 ## others 
 
-- [JerryZLiu/Dayflow](https://github.com/JerryZLiu/Dayflow) - Generate a timeline of your day, automatically
 - [Dhaxor/super-utils-plus](https://github.com/Dhaxor/super-utils-plus) - 
 - [tidewave-ai/tidewave_rails](https://github.com/tidewave-ai/tidewave_rails) - Tidewave for Rails
 - [socketry/flappy-bird](https://github.com/socketry/flappy-bird) - 
@@ -3628,7 +3627,7 @@
 - [github/codespaces-rails](https://github.com/github/codespaces-rails) - 
 - [graphul-rs/graphul](https://github.com/graphul-rs/graphul) - Optimize, speed, scale your microservices and save money 💵
 - [aadityatamrakar/option-pricing](https://github.com/aadityatamrakar/option-pricing) - A library in different programming languages of the option pricing formulas used by global CCPs
-- [WeTransfer/zip_tricks](https://github.com/WeTransfer/zip_tricks) - [DEPRECATED] Compact ZIP file writing/reading for Ruby, for streaming applications
+- [WeTransferArchive/zip_tricks](https://github.com/WeTransferArchive/zip_tricks) - [DEPRECATED] Compact ZIP file writing/reading for Ruby, for streaming applications
 - [InboxSDK/InboxSDK](https://github.com/InboxSDK/InboxSDK) - The InboxSDK lets you build apps for Gmail.
 - [propublica/daybreak](https://github.com/propublica/daybreak) - A simple-dimple key value store for ruby.
 - [microsoft/azure-pipelines-tasks](https://github.com/microsoft/azure-pipelines-tasks) - Tasks for Azure Pipelines
@@ -6025,6 +6024,7 @@
 
 ## productivity 
 
+- [JerryZLiu/Dayflow](https://github.com/JerryZLiu/Dayflow) - Generate a timeline of your day, automatically
 - [tanin47/tip](https://github.com/tanin47/tip) - Programmable tooltip that can be used with any Mac OS app
 - [batnoter/batnoter](https://github.com/batnoter/batnoter) - An open source, markdown-based, self-hosted note taking webapp.
 - [alyssaxuu/screenity](https://github.com/alyssaxuu/screenity) - The free and privacy-friendly screen recorder with no limits 🎥
@@ -7373,6 +7373,7 @@
 
 ## swift 
 
+- [JerryZLiu/Dayflow](https://github.com/JerryZLiu/Dayflow) - Generate a timeline of your day, automatically
 - [aheze/OpenFind](https://github.com/aheze/OpenFind) - An app to find text in real life.
 - [divkit/divkit](https://github.com/divkit/divkit) - DivKit is an open source Server-Driven UI (SDUI) framework. SDUI is a an emerging technique that leverage the server to build the user interfaces of their mobile app
 - [appwrite/appwrite](https://github.com/appwrite/appwrite) - Build like a team of hundreds_
