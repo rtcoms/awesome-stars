@@ -7,6 +7,7 @@
 
 - [3d](#3d)
 - [ai](#ai)
+- [ai-agents](#ai-agents)
 - [ajax](#ajax)
 - [algorithm](#algorithm)
 - [algorithmic-trading](#algorithmic-trading)
@@ -284,6 +285,7 @@
 - [windows](#windows)
 - [wordpress](#wordpress)
 - [xml](#xml)
+- [youtube](#youtube)
 - [zsh](#zsh)
 
 ## 3d 
@@ -300,12 +302,17 @@
 - [yjacquin/fast-mcp](https://github.com/yjacquin/fast-mcp) - A Ruby Implementation of the Model Context Protocol
 - [OvidijusParsiunas/deep-chat](https://github.com/OvidijusParsiunas/deep-chat) - Fully customizable AI chatbot component for your website
 - [triggerdotdev/trigger.dev](https://github.com/triggerdotdev/trigger.dev) - Trigger.dev – build and deploy fully‑managed AI agents and workflows
+- [teambit/bit](https://github.com/teambit/bit) - AI-powered development workspaces with reusable components, architectural clarity and zero overhead.
 - [dagger/dagger](https://github.com/dagger/dagger) - An open-source runtime for composable workflows. Great for AI agents and CI/CD.
 - [supabase/supabase](https://github.com/supabase/supabase) - The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.
 - [alexrudall/ruby-openai](https://github.com/alexrudall/ruby-openai) - OpenAI API + Ruby! 🤖❤️ GPT-5 & Realtime WebRTC compatible!
 - [botpress/botpress](https://github.com/botpress/botpress) - The open-source hub to build & deploy GPT/LLM Agents ⚡️
 - [vijishmadhavan/ArtLine](https://github.com/vijishmadhavan/ArtLine) - A Deep Learning based project for creating line art portraits.
 - [tradytics/eiten](https://github.com/tradytics/eiten) - Statistical and Algorithmic Investing Strategies for Everyone
+
+## ai-agents 
+
+- [triggerdotdev/trigger.dev](https://github.com/triggerdotdev/trigger.dev) - Trigger.dev – build and deploy fully‑managed AI agents and workflows
 
 ## ajax 
 
@@ -400,7 +407,6 @@
 ## angular 
 
 - [OvidijusParsiunas/deep-chat](https://github.com/OvidijusParsiunas/deep-chat) - Fully customizable AI chatbot component for your website
-- [teambit/bit](https://github.com/teambit/bit) - AI-powered development workspaces with reusable components, architectural clarity and zero overhead.
 - [sudheerj/javascript-interview-questions](https://github.com/sudheerj/javascript-interview-questions) - List of 1000 JavaScript Interview Questions
 - [Asabeneh/30-Days-Of-JavaScript](https://github.com/Asabeneh/30-Days-Of-JavaScript) - 30 days of JavaScript programming challenge is a step-by-step guide to learn JavaScript programming language in 30 days. This challenge may take more than 100 days,  please just follow your own pace. 
 - [paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx) - A community-supported supercharged document management system: scan, index and archive all your documents
@@ -4369,7 +4375,6 @@
 - [urre/checkbix](https://github.com/urre/checkbix) - Simple lightweight vanilla Javascript plugin for enhancing checkboxes.
 - [guivr/Chameleon](https://github.com/guivr/Chameleon) - 🌈  Use Chameleon on elements that need to change their style inheriting properties of other elements through jQuery.
 - [kristoferjoseph/flexboxgrid](https://github.com/kristoferjoseph/flexboxgrid) - Grid based on CSS3 flexbox
-- [sachinchoolur/lightgallery.js](https://github.com/sachinchoolur/lightgallery.js) - Full featured JavaScript image & video gallery. No dependencies
 - [anishathalye/lumen](https://github.com/anishathalye/lumen) - Magic auto brightness based on screen contents 💡
 - [mxstbr/sharingbuttons.io](https://github.com/mxstbr/sharingbuttons.io) - Quickly generate social sharing buttons with a tiny performance footprint
 - [Shinao/SmartMirror](https://github.com/Shinao/SmartMirror) - Motion controlled SmartMirror
@@ -5330,7 +5335,7 @@
 - [vmg/redcarpet](https://github.com/vmg/redcarpet) - The safe Markdown parser, reloaded.
 - [hzlzh/MarkDown-Theme](https://github.com/hzlzh/MarkDown-Theme) - GitHub ReadMe style for MarkDown editors App like Mou & MacDown.
 - [cjbottaro/app_config](https://github.com/cjbottaro/app_config) - Rails plugin that provides environment specific application configuration.
-- [maddyblue/goread](https://github.com/maddyblue/goread) - RSS reader in go on app engine; formerly goread.io
+- [madelynnblue/goread](https://github.com/madelynnblue/goread) - RSS reader in go on app engine; formerly goread.io
 - [codrops/ExpandingSearchBar](https://github.com/codrops/ExpandingSearchBar) - A tutorial on how to create a mobile-friendly and responsive expanding search bar.
 - [rwjblue/pivot.js](https://github.com/rwjblue/pivot.js) - Build Pivot Tables from CSV/JSON Data
 - [nicolaskruchten/pivottable](https://github.com/nicolaskruchten/pivottable) - Open-source Javascript Pivot Table (aka Pivot Grid, Pivot Chart, Cross-Tab) implementation with drag'n'drop.
@@ -5691,7 +5696,7 @@
 - [hemanth/xkcd-gem](https://github.com/hemanth/xkcd-gem) - XCKD ruby gem to get random img url or comic urls
 - [twitter/activerecord-reputation-system](https://github.com/twitter/activerecord-reputation-system) - An Active Record Reputation System for Rails
 - [gristmill/social_current](https://github.com/gristmill/social_current) - Makes it easy to integrate a social activity stream into your application from third party APIs.
-- [lopatin/SnakeTron](https://github.com/lopatin/SnakeTron) - The code for SnakeTron.com, a multi-player implementation of the classic Snake in Node.js and MooTools.
+- [lopatin/Snaketron](https://github.com/lopatin/Snaketron) - The code for SnakeTron.com, a multi-player implementation of the classic Snake in Node.js and MooTools.
 - [railscasts/348-the-rails-api-gem](https://github.com/railscasts/348-the-rails-api-gem) - 
 - [kostyantyn/hydra_attribute](https://github.com/kostyantyn/hydra_attribute) - Implementation of EAV pattern for ActiveRecord models
 - [max-favilli/tagmanager](https://github.com/max-favilli/tagmanager) - A jQuery plugin (working nicely with twitter bootstrap)
@@ -6499,7 +6504,7 @@
 - [arwes/arwes](https://github.com/arwes/arwes) - Futuristic Sci-Fi UI Web Framework.
 - [formio/formio](https://github.com/formio/formio) - A Form and Data Management Platform for Progressive Web Applications.
 - [pmndrs/zustand](https://github.com/pmndrs/zustand) - 🐻 Bear necessities for state management in React
-- [nikitavoloboev/nikiv](https://github.com/nikitavoloboev/nikiv) - Personal website, docs, tools
+- [nikitavoloboev/nikiv](https://github.com/nikitavoloboev/nikiv) - Personal website, docs
 - [RisingStack/react-easy-state](https://github.com/RisingStack/react-easy-state) - Simple React state management. Made with ❤️ and ES6 Proxies.
 - [airbnb/react-sketchapp](https://github.com/airbnb/react-sketchapp) - render React components to Sketch ⚛️💎
 - [mbrn/material-table](https://github.com/mbrn/material-table) - Datatable for React based on material-ui's table with additional features
@@ -8003,6 +8008,17 @@
 ## xml 
 
 - [substance/substance](https://github.com/substance/substance) - A JavaScript library for web-based content editing.
+
+## youtube 
+
+- [inversepolarity/ZYT](https://github.com/inversepolarity/ZYT) - featured extension for YouTube workflows
+- [makaroni4/focused_youtube](https://github.com/makaroni4/focused_youtube) - Browser extension to be more focused on Youtube. 10000+ users. Supports Chrome, Firefox, Brave and Edge.
+- [sachinchoolur/lightgallery.js](https://github.com/sachinchoolur/lightgallery.js) - Full featured JavaScript image & video gallery. No dependencies
+- [corbindavenport/superembed.js](https://github.com/corbindavenport/superembed.js) - Fluid width for YouTube, Vimeo, Vine, VideoPress, DailyMotion, and more embedded videos.
+- [takempf/GIFit](https://github.com/takempf/GIFit) - Make GIFs from &lt;video&gt; on the web with this extension for Google Chrome and Firefox.
+- [MrS0m30n3/youtube-dl-gui](https://github.com/MrS0m30n3/youtube-dl-gui) - A cross platform front-end GUI of the popular youtube-dl written in wxPython.
+- [sampotts/plyr](https://github.com/sampotts/plyr) - A simple HTML5, YouTube and Vimeo player
+- [mike-zarandona/PrettyEmbed.js](https://github.com/mike-zarandona/PrettyEmbed.js) - Prettier embeds for your YouTubes - with nice options like high-res preview images, advanced customization of embed options, and optional FitVids support.
 
 ## zsh 
 
