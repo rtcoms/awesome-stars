@@ -1990,7 +1990,7 @@
 - [heyimjuani/iluminate](https://github.com/heyimjuani/iluminate) - Add those trendy flat shadows on stuff
 - [jamieholst/selectToAutocomplete](https://github.com/jamieholst/selectToAutocomplete) - Turns any select tag into an autocomplete field with weighted options, synonyms and loose matching
 - [minimit/minimit-anima](https://github.com/minimit/minimit-anima) - Jquery plugin to animate with transforms and transitions
-- [maddyblue/goread](https://github.com/maddyblue/goread) - RSS reader in go on app engine; formerly goread.io
+- [madelynnblue/goread](https://github.com/madelynnblue/goread) - RSS reader in go on app engine; formerly goread.io
 - [codrops/ExpandingSearchBar](https://github.com/codrops/ExpandingSearchBar) - A tutorial on how to create a mobile-friendly and responsive expanding search bar.
 - [rwjblue/pivot.js](https://github.com/rwjblue/pivot.js) - Build Pivot Tables from CSV/JSON Data
 - [tysonmatanich/elementQuery](https://github.com/tysonmatanich/elementQuery) - An element query polyfill you can use today.
@@ -2185,7 +2185,7 @@
 - [darsain/motio](https://github.com/darsain/motio) - Small JavaScript library for sprite based animations and panning.
 - [auduno/headtrackr](https://github.com/auduno/headtrackr) - Javascript library for headtracking via webcam and WebRTC/getUserMedia
 - [johnpolacek/superscrollorama](https://github.com/johnpolacek/superscrollorama) - The original jQuery plugin for supercool scroll animation. NOTE: No longer under active development. New version is ScrollMagic.js
-- [lopatin/SnakeTron](https://github.com/lopatin/SnakeTron) - The code for SnakeTron.com, a multi-player implementation of the classic Snake in Node.js and MooTools.
+- [lopatin/Snaketron](https://github.com/lopatin/Snaketron) - The code for SnakeTron.com, a multi-player implementation of the classic Snake in Node.js and MooTools.
 - [max-favilli/tagmanager](https://github.com/max-favilli/tagmanager) - A jQuery plugin (working nicely with twitter bootstrap)
 - [iamjpg/jQuery-Verbose-Calendar](https://github.com/iamjpg/jQuery-Verbose-Calendar) - Another jQuery Calendar. Created as a design experiment. I like how it's turned out :)
 - [bebraw/colorjoe](https://github.com/bebraw/colorjoe) - Scaleable color picker with touch and AMD support (MIT)
@@ -2352,7 +2352,7 @@
 
 ## MDX 
 
-- [nikitavoloboev/nikiv](https://github.com/nikitavoloboev/nikiv) - Personal website, docs, tools
+- [nikitavoloboev/nikiv](https://github.com/nikitavoloboev/nikiv) - Personal website, docs
 - [yangshun/front-end-interview-handbook](https://github.com/yangshun/front-end-interview-handbook) - 🌐 Front End interview preparation materials for busy engineers (updated for 2025)
 - [uidotdev/usehooks](https://github.com/uidotdev/usehooks) - A collection of modern, server-safe React hooks – from the ui.dev team
 - [wix/react-native-navigation](https://github.com/wix/react-native-navigation) - A complete native navigation solution for React Native
