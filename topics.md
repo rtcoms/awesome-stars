@@ -546,7 +546,7 @@
 - [robinstickel/awesome-design-principles](https://github.com/robinstickel/awesome-design-principles) - ✨ A curated list of awesome design principles
 - [prakhar1989/awesome-courses](https://github.com/prakhar1989/awesome-courses) - :books: List of awesome university courses for learning Computer Science!
 - [likedan/Awesome-CoreML-Models](https://github.com/likedan/Awesome-CoreML-Models) - Largest list of models for Core ML (for iOS 11+)
-- [nikitavoloboev/myflow](https://github.com/nikitavoloboev/myflow) - Place to share & store what you use
+- [nikivdev/myflow](https://github.com/nikivdev/myflow) - Place to share & store what you use
 - [mr-karan/awesome-investing](https://github.com/mr-karan/awesome-investing) - 💸💸 Curated list of investment & finance related resources
 - [alexpate/awesome-design-systems](https://github.com/alexpate/awesome-design-systems) - 💅🏻 ⚒ A collection of awesome design systems
 - [kdeldycke/awesome-falsehood](https://github.com/kdeldycke/awesome-falsehood) - 😱 Falsehoods Programmers Believe in
@@ -1925,7 +1925,6 @@
 - [emitter-io/emitter](https://github.com/emitter-io/emitter) - High performance, distributed and low latency publish-subscribe platform.
 - [fogleman/primitive](https://github.com/fogleman/primitive) - Reproducing images with geometric primitives.
 - [tsenart/vegeta](https://github.com/tsenart/vegeta) - HTTP load testing tool and library. It's over 9000!
-- [micro/micro](https://github.com/micro/micro) - A microservices toolkit
 - [justinas/alice](https://github.com/justinas/alice) - Painless middleware chaining for Go
 - [hashicorp/vault](https://github.com/hashicorp/vault) - A tool for secrets management, encryption as a service, and privileged access management
 - [gin-gonic/gin](https://github.com/gin-gonic/gin) - Gin is a high-performance HTTP web framework written in Go. It provides a Martini-like API but with significantly better performance—up to 40 times faster—thanks to httprouter. Gin is designed for bui
@@ -2171,6 +2170,7 @@
 - [ruby-grape/grape](https://github.com/ruby-grape/grape) - An opinionated framework for creating REST-like APIs in Ruby.
 - [shipshapecode/shepherd](https://github.com/shipshapecode/shepherd) - Guide your users through a tour of your app
 - [ondras/my-mind](https://github.com/ondras/my-mind) - Online Mindmapping Software
+- [neiesc/awesome-minimalist](https://github.com/neiesc/awesome-minimalist) - A curated list of awesome minimalist frameworks (simple and lightweight).
 - [filestack/filestack-rails](https://github.com/filestack/filestack-rails) - Official Ruby on Rails plugin for Filestack File Picker that makes it easy to add powerful file uploading and transformation capabilities to any web or mobile application.
 - [selectize/selectize.js](https://github.com/selectize/selectize.js) - Selectize is the hybrid of a textbox and &lt;select&gt; box. It's jQuery based, and it has autocomplete and native-feeling keyboard navigation; useful for tagging, contact lists, etc.
 - [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
@@ -5106,7 +5106,6 @@
 - [segmentio/myth](https://github.com/segmentio/myth) - A CSS preprocessor that acts like a polyfill for future versions of the spec.
 - [uikit/uikit](https://github.com/uikit/uikit) - A lightweight and modular front-end framework for developing fast and powerful web interfaces
 - [bencarlson/wp-bootstrap](https://github.com/bencarlson/wp-bootstrap) - Wordpress Bootstrap 3 Starter Theme
-- [neiesc/awesome-minimalist](https://github.com/neiesc/awesome-minimalist) - A curated list of awesome minimalist frameworks (simple and lightweight).
 - [tobiasahlin/SpinKit](https://github.com/tobiasahlin/SpinKit) - A collection of loading indicators animated with CSS
 - [lemonmade/bigfoot](https://github.com/lemonmade/bigfoot) - A jQuery plugin for creating exceptional footnotes.
 - [davidgfnet/whatsapp-purple](https://github.com/davidgfnet/whatsapp-purple) - WhatsApp protocol implementation for libpurple (pidgin)
@@ -6504,7 +6503,7 @@
 - [arwes/arwes](https://github.com/arwes/arwes) - Futuristic Sci-Fi UI Web Framework.
 - [formio/formio](https://github.com/formio/formio) - A Form and Data Management Platform for Progressive Web Applications.
 - [pmndrs/zustand](https://github.com/pmndrs/zustand) - 🐻 Bear necessities for state management in React
-- [nikitavoloboev/nikiv](https://github.com/nikitavoloboev/nikiv) - Personal website, docs
+- [nikivdev/nikiv](https://github.com/nikivdev/nikiv) - Personal website, docs
 - [RisingStack/react-easy-state](https://github.com/RisingStack/react-easy-state) - Simple React state management. Made with ❤️ and ES6 Proxies.
 - [airbnb/react-sketchapp](https://github.com/airbnb/react-sketchapp) - render React components to Sketch ⚛️💎
 - [mbrn/material-table](https://github.com/mbrn/material-table) - Datatable for React based on material-ui's table with additional features
@@ -6609,7 +6608,7 @@
 - [reactGo/reactGo](https://github.com/reactGo/reactGo) - Your One-Stop solution for a full-stack universal Redux App!
 - [DextApp/dext](https://github.com/DextApp/dext) - 🔍 A smart launcher. Powered by JavaScript.
 - [elbywan/bosket](https://github.com/elbywan/bosket) - Collection of tree view components for front-end frameworks. :deciduous_tree:
-- [nikitavoloboev/myflow](https://github.com/nikitavoloboev/myflow) - Place to share & store what you use
+- [nikivdev/myflow](https://github.com/nikivdev/myflow) - Place to share & store what you use
 - [Thinkmill/react-markings](https://github.com/Thinkmill/react-markings) - **Markdown** in &lt;Components/&gt;, &lt;Components/&gt; in **Markdown**
 - [sghall/resonance](https://github.com/sghall/resonance) - :black_medium_small_square:Resonance | 5kb React animation library
 - [rjsf-team/react-jsonschema-form](https://github.com/rjsf-team/react-jsonschema-form) - A React component for building Web forms from JSON Schema.
