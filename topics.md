@@ -5565,7 +5565,7 @@
 - [ozoneplatform/owf-framework](https://github.com/ozoneplatform/owf-framework) - OZONE Widget Framework
 - [WolframHempel/photobooth-js](https://github.com/WolframHempel/photobooth-js) - A widget that allows users to take their avatar pictures on your site
 - [Docverter/docverter](https://github.com/Docverter/docverter) - Docverter Server
-- [suprb/Nested](https://github.com/suprb/Nested) - Gap free multi column grid
+- [andreas-pihlstrom/Nested](https://github.com/andreas-pihlstrom/Nested) - Gap free multi column grid
 - [gleitz/howdoi](https://github.com/gleitz/howdoi) - instant coding answers via the command line
 - [gelus/scrobMaster](https://github.com/gelus/scrobMaster) - Master your scroll events.
 - [maxmert/maxmertkit](https://github.com/maxmert/maxmertkit) - Maxmertkit, powerful, most customizable and easiest for usage mobile first front-end framework for web-development.
@@ -6503,7 +6503,7 @@
 - [arwes/arwes](https://github.com/arwes/arwes) - Futuristic Sci-Fi UI Web Framework.
 - [formio/formio](https://github.com/formio/formio) - A Form and Data Management Platform for Progressive Web Applications.
 - [pmndrs/zustand](https://github.com/pmndrs/zustand) - 🐻 Bear necessities for state management in React
-- [nikivdev/nikiv](https://github.com/nikivdev/nikiv) - Personal website, docs
+- [nikivdev/wiki](https://github.com/nikivdev/wiki) - 
 - [RisingStack/react-easy-state](https://github.com/RisingStack/react-easy-state) - Simple React state management. Made with ❤️ and ES6 Proxies.
 - [airbnb/react-sketchapp](https://github.com/airbnb/react-sketchapp) - render React components to Sketch ⚛️💎
 - [mbrn/material-table](https://github.com/mbrn/material-table) - Datatable for React based on material-ui's table with additional features
