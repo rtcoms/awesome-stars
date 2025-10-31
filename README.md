@@ -1629,7 +1629,7 @@
 - [tobegit3hub/seagull](https://github.com/tobegit3hub/seagull) - Friendly Web UI to manage and monitor docker
 - [dimsemenov/PhotoSwipe](https://github.com/dimsemenov/PhotoSwipe) - JavaScript image gallery for mobile and desktop, modular, framework independent
 - [andreas-marschke/grunt-scram](https://github.com/andreas-marschke/grunt-scram) - Scramble your Javascript!
-- [clappr/clappr](https://github.com/clappr/clappr) - :clapper: An extensible media player for the web.
+- [clappr/clappr](https://github.com/clappr/clappr) - An extensible, plugin-oriented, HTML5-first media player for the web
 - [timmywil/jquery.onoff](https://github.com/timmywil/jquery.onoff) - Interactive, accessible toggle switches for the web.
 - [sindresorhus/is-url-superb](https://github.com/sindresorhus/is-url-superb) - Check if a string is a URL
 - [andrewplummer/Sugar](https://github.com/andrewplummer/Sugar) - A Javascript library for working with native objects.
@@ -2112,7 +2112,7 @@
 - [wilwaldon/flatstrap](https://github.com/wilwaldon/flatstrap) - Bootstrap without all the extra stuff
 - [ozoneplatform/owf-framework](https://github.com/ozoneplatform/owf-framework) - OZONE Widget Framework
 - [WolframHempel/photobooth-js](https://github.com/WolframHempel/photobooth-js) - A widget that allows users to take their avatar pictures on your site
-- [suprb/Nested](https://github.com/suprb/Nested) - Gap free multi column grid
+- [andreas-pihlstrom/Nested](https://github.com/andreas-pihlstrom/Nested) - Gap free multi column grid
 - [gelus/scrobMaster](https://github.com/gelus/scrobMaster) - Master your scroll events.
 - [cbrauckmuller/helium](https://github.com/cbrauckmuller/helium) - A responsive frontend framework that won't weigh you down.
 - [vitalets/x-editable](https://github.com/vitalets/x-editable) - In-place editing with Twitter Bootstrap, jQuery UI or pure jQuery
@@ -2349,7 +2349,6 @@
 
 ## MDX 
 
-- [nikivdev/nikiv](https://github.com/nikivdev/nikiv) - Personal website, docs
 - [yangshun/front-end-interview-handbook](https://github.com/yangshun/front-end-interview-handbook) - 🌐 Front End interview preparation materials for busy engineers (updated for 2025)
 - [uidotdev/usehooks](https://github.com/uidotdev/usehooks) - A collection of modern, server-safe React hooks – from the ui.dev team
 - [wix/react-native-navigation](https://github.com/wix/react-native-navigation) - A complete native navigation solution for React Native
@@ -2692,7 +2691,7 @@
 - [daviddme/DaviddTech-tradingview-webhook-trading-bot](https://github.com/daviddme/DaviddTech-tradingview-webhook-trading-bot) - Improved version of the Flask app receiving alerts from TradingView and automatically place an order or send the chart to Discord where you can choose whether to take the trade or not through a bot.
 - [lth-elm/TradingView-Webhook-Trading-Bot](https://github.com/lth-elm/TradingView-Webhook-Trading-Bot) - Flask app receiving alerts from TradingView and automatically place an order or send the chart to Discord where you can choose whether to take the trade or not through a bot.
 - [robswc/tradingview-webhooks-bot](https://github.com/robswc/tradingview-webhooks-bot) - a framework 🏗 for trading with tradingview webhooks!
-- [Asabeneh/30-Days-Of-Python](https://github.com/Asabeneh/30-Days-Of-Python) - 30 days of Python programming challenge is a step-by-step guide to learn the Python programming language in 30 days. This challenge may take more than100 days, follow your own pace.  These videos may 
+- [Asabeneh/30-Days-Of-Python](https://github.com/Asabeneh/30-Days-Of-Python) - 30 days of Python programming challenge is a step-by-step guide to learn the Python programming language in 30 days. This challenge may take more than 100 days, follow your own pace.  These videos may
 - [openai/whisper](https://github.com/openai/whisper) - Robust Speech Recognition via Large-Scale Weak Supervision
 - [dgtlmoon/changedetection.io](https://github.com/dgtlmoon/changedetection.io) - Best and simplest tool for website change detection, web page monitoring, and website change alerts. Perfect for tracking content changes, price drops, restock alerts, and website defacement monitorin
 - [CasCard/CDSL-Authorisation-Automation-SMS](https://github.com/CasCard/CDSL-Authorisation-Automation-SMS) - Automated CDSL TPIN based OTP Verification using Selenium
@@ -2913,7 +2912,7 @@
 - [rails/activerecord-session_store](https://github.com/rails/activerecord-session_store) - Active Record's Session Store extracted from Rails
 - [jameschambers/boring-bits-rails-api](https://github.com/jameschambers/boring-bits-rails-api) - Bare-bones template for Devise JWT-auth API-only Rails applications.
 - [Hombre2014/hello-rails-react](https://github.com/Hombre2014/hello-rails-react) - Simple integration of Rails and React-Redux with react-rails gem. No ReduxToolkit.
-- [rubymonolith/monolith](https://github.com/rubymonolith/monolith) - Rails template that Rocketship uses for building new SaaS applications
+- [rubymonolith/gems](https://github.com/rubymonolith/gems) - Rails template that Rocketship uses for building new SaaS applications
 - [igorkasyanchuk/wrapped_print](https://github.com/igorkasyanchuk/wrapped_print) - Easy print debug information to your console in Ruby/Rails app.
 - [rubycdp/cuprite](https://github.com/rubycdp/cuprite) - Headless Chrome/Chromium driver for Capybara
 - [loopstudio/rails-api-boilerplate](https://github.com/loopstudio/rails-api-boilerplate) - A boilerplate for Rails API applications
@@ -4049,6 +4048,7 @@
 - [hediet/vscode-debug-visualizer](https://github.com/hediet/vscode-debug-visualizer) - An extension for VS Code that visualizes data during debugging.
 - [arwes/arwes](https://github.com/arwes/arwes) - Futuristic Sci-Fi UI Web Framework.
 - [pmndrs/zustand](https://github.com/pmndrs/zustand) - 🐻 Bear necessities for state management in React
+- [nikivdev/wiki](https://github.com/nikivdev/wiki) - 
 - [ealush/vest](https://github.com/ealush/vest) - Vest ✅ Declarative validations framework
 - [ndhays/redux-cablecar](https://github.com/ndhays/redux-cablecar) - A Redux middleware to connect Redux with Rails ActionCable
 - [Collaborne/mwc-markdown-editor](https://github.com/Collaborne/mwc-markdown-editor) - A markdown editor following Material Design spec
