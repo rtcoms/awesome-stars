@@ -547,6 +547,7 @@
 - [authelia/authelia](https://github.com/authelia/authelia) - The Single Sign-On Multi-Factor portal for web apps, now OpenID Certified™
 - [achannarasappa/ticker](https://github.com/achannarasappa/ticker) - Track stocks, crypto, and derivatives prices and positions in real time from your terminal
 - [asdf-vm/asdf](https://github.com/asdf-vm/asdf) - Extendable version manager with support for Ruby, Node.js, Elixir, Erlang & more
+- [nikivdev/ghost](https://github.com/nikivdev/ghost) - Watch over things + stream your mac to remote server
 - [resgateio/resgate](https://github.com/resgateio/resgate) - A Realtime API Gateway used with NATS to build REST, real time, and RPC APIs, where all your clients are synchronized seamlessly.
 - [openfaas/connector-sdk](https://github.com/openfaas/connector-sdk) - SDK for connecting events to functions
 - [rudderlabs/rudder-server](https://github.com/rudderlabs/rudder-server) - Privacy and Security focused Segment-alternative, in Golang and React
@@ -1597,6 +1598,7 @@
 - [sampotts/plyr](https://github.com/sampotts/plyr) - A simple HTML5, YouTube and Vimeo player
 - [sahat/hackathon-starter](https://github.com/sahat/hackathon-starter) - A boilerplate for Node.js web applications
 - [ejci/favico.js](https://github.com/ejci/favico.js) - Make use of your favicon with badges, images or videos
+- [mui/material-ui](https://github.com/mui/material-ui) - Material UI: Comprehensive React component library that implements Google's Material Design. Free forever.
 - [OnsenUI/OnsenUI](https://github.com/OnsenUI/OnsenUI) - Mobile app development framework and SDK using HTML5 and JavaScript. Create beautiful and performant cross-platform mobile apps. Based on Web Components, and provides bindings for Angular 1, 2, React 
 - [byte-foundry/plumin.js](https://github.com/byte-foundry/plumin.js) - Create and manipulate fonts like there's no tomorrow.
 - [wentin/underlineJS](https://github.com/wentin/underlineJS) - Pushing the boundary of browser typography rendering!
@@ -1780,7 +1782,7 @@
 - [shipshapecode/shepherd](https://github.com/shipshapecode/shepherd) - Guide your users through a tour of your app
 - [andreruffert/rangeslider.js](https://github.com/andreruffert/rangeslider.js) - 🎚 HTML5 input range slider element  jQuery polyfill
 - [anijs/anijs](https://github.com/anijs/anijs) - A Library to Raise your Web Design without Coding.
-- [JonDum/ThatValidator](https://github.com/JonDum/ThatValidator) - Powerful and extensible javascript form validation that doesn't suck
+- [sarendipitee/ThatValidator](https://github.com/sarendipitee/ThatValidator) - Powerful and extensible javascript form validation that doesn't suck
 - [bilelz/angular-calendar](https://github.com/bilelz/angular-calendar) - webapp calendar (my first app with angularjs)
 - [jackmoore/autosize](https://github.com/jackmoore/autosize) - Autosize is a small, stand-alone script to automatically adjust textarea height to fit text.
 - [c3js/c3](https://github.com/c3js/c3) - :bar_chart: A D3-based reusable chart library
@@ -2464,7 +2466,6 @@
 - [binhnguyennus/awesome-scalability](https://github.com/binhnguyennus/awesome-scalability) - The Patterns of Scalable, Reliable, and Performant Large-Scale Systems
 - [justinamiller/SoftwareArchitect](https://github.com/justinamiller/SoftwareArchitect) - Path to a Software Architect
 - [kbariotis/templates](https://github.com/kbariotis/templates) - A set of standard document templates.
-- [neutraltone/awesome-stock-resources](https://github.com/neutraltone/awesome-stock-resources) - :city_sunrise: A collection of links for free stock photography, video and Illustration websites
 - [swyxio/spark-joy](https://github.com/swyxio/spark-joy) - ✨😂 2000+ ways to add design flair, user delight, and whimsy to your product.
 - [you-dont-need/You-Dont-Need](https://github.com/you-dont-need/You-Dont-Need) - People choose popular projects, often not because it applies to their problems
 - [Atarity/deploy-your-own-saas](https://github.com/Atarity/deploy-your-own-saas) - List of "only yours" cloud services for everyday needs :black_flag:
@@ -2966,7 +2967,7 @@
 - [basecamp/console1984](https://github.com/basecamp/console1984) - The Rails console you love, 1984 style
 - [palkan/n_plus_one_control](https://github.com/palkan/n_plus_one_control) - RSpec and Minitest matchers to prevent N+1 queries problem
 - [ruby/open3](https://github.com/ruby/open3) - Open3 gives you access to stdin, stdout, and stderr when running other programs.
-- [ruby-oauth/oauth](https://github.com/ruby-oauth/oauth) - 🔑 A Ruby wrapper for OAuth 1.0a protocol; clients & servers
+- [ruby-oauth/oauth](https://github.com/ruby-oauth/oauth) - 🔑 A Ruby wrapper for OAuth 1.0, and 1.0a protocols; clients & servers
 - [omniauth/omniauth-oauth](https://github.com/omniauth/omniauth-oauth) - A generic OAuth strategy for OmniAuth.
 - [excid3/gorails-ruby](https://github.com/excid3/gorails-ruby) - An interactive CLI for GoRails, Railsbytes, Jumpstart, and more.
 - [rootstrap/rails_api_base](https://github.com/rootstrap/rails_api_base) - API boilerplate project for Ruby on Rails 8
@@ -3164,6 +3165,7 @@
 - [phobos/phobos](https://github.com/phobos/phobos) - Simplifying Kafka for ruby apps
 - [skmetz/poodr2](https://github.com/skmetz/poodr2) - 
 - [storyblok/rails-52-auth0](https://github.com/storyblok/rails-52-auth0) - Code for: Create a Ruby on Rails 5.2 API with Auth0 Authentication
+- [neutraltone/awesome-stock-resources](https://github.com/neutraltone/awesome-stock-resources) - :city_sunrise: A collection of links for free stock photography, video and Illustration websites
 - [artagnon/clayoven](https://github.com/artagnon/clayoven) - 💎 beautiful website generator aimed at math-heavy sites
 - [automaticmode/active_workflow](https://github.com/automaticmode/active_workflow) - Polyglot workflows without leaving the comfort of your technology stack.
 - [matestack/matestack-ui-core](https://github.com/matestack/matestack-ui-core) - Component based web UIs in pure Ruby for Rails. Boost your productivity & easily create component based web UIs in pure Ruby.
@@ -3917,7 +3919,7 @@
 - [shoelace-style/shoelace](https://github.com/shoelace-style/shoelace) - Web Awesome ("Shoelace 3") has been released! Get it here 👇👇👇
 - [baptisteArno/typebot.io](https://github.com/baptisteArno/typebot.io) - 💬 Typebot is a powerful chatbot builder that you can self-host.
 - [typestyle/typestyle](https://github.com/typestyle/typestyle) - Making CSS Typesafe 🌹
-- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Build like a team of hundreds_
+- [appwrite/appwrite](https://github.com/appwrite/appwrite) - The developers' cloud
 - [toomuchdesign/re-reselect](https://github.com/toomuchdesign/re-reselect) - Enhance Reselect selectors with deeper memoization and cache management.
 - [Budibase/budibase](https://github.com/Budibase/budibase) - Create business apps and automate workflows in minutes. Supports PostgreSQL, MySQL, MariaDB, MSSQL, MongoDB, Rest API, Docker, K8s, and more 🚀 No code / Low code platform..
 - [Diablow/zustand-store-addons](https://github.com/Diablow/zustand-store-addons) - React state management addons for zustand.
@@ -4048,7 +4050,6 @@
 - [hediet/vscode-debug-visualizer](https://github.com/hediet/vscode-debug-visualizer) - An extension for VS Code that visualizes data during debugging.
 - [arwes/arwes](https://github.com/arwes/arwes) - Futuristic Sci-Fi UI Web Framework.
 - [pmndrs/zustand](https://github.com/pmndrs/zustand) - 🐻 Bear necessities for state management in React
-- [nikivdev/wiki](https://github.com/nikivdev/wiki) - 
 - [ealush/vest](https://github.com/ealush/vest) - Vest ✅ Declarative validations framework
 - [ndhays/redux-cablecar](https://github.com/ndhays/redux-cablecar) - A Redux middleware to connect Redux with Rails ActionCable
 - [Collaborne/mwc-markdown-editor](https://github.com/Collaborne/mwc-markdown-editor) - A markdown editor following Material Design spec
@@ -4162,11 +4163,11 @@
 - [react-dnd/react-dnd](https://github.com/react-dnd/react-dnd) - Drag and Drop for React
 - [reactGo/reactGo](https://github.com/reactGo/reactGo) - Your One-Stop solution for a full-stack universal Redux App!
 - [fczbkk/css-selector-generator](https://github.com/fczbkk/css-selector-generator) - JavaScript object that creates unique CSS selector for given element.
-- [nikivdev/myflow](https://github.com/nikivdev/myflow) - Place to share & store what you use
+- [nikivdev/flow](https://github.com/nikivdev/flow) - Place to share & store what you use. Full sync up tool.
 - [rjsf-team/react-jsonschema-form](https://github.com/rjsf-team/react-jsonschema-form) - A React component for building Web forms from JSON Schema.
 - [airbnb/visx](https://github.com/airbnb/visx) - 🐯 visx | visualization components
 - [schickling/chromeless](https://github.com/schickling/chromeless) - 🖥  Chrome automation made simple. Runs locally or headless on AWS Lambda.
-- [nuxt/nuxt](https://github.com/nuxt/nuxt) - The Intuitive Vue Framework.
+- [nuxt/nuxt](https://github.com/nuxt/nuxt) - The Progressive Web Framework.
 - [react-page/react-page](https://github.com/react-page/react-page) - Next-gen, highly customizable content editor for the browser - based on React and written in TypeScript. WYSIWYG on steroids.
 - [gothinkster/realworld](https://github.com/gothinkster/realworld) - "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more
 - [ramonszo/zuck.js](https://github.com/ramonszo/zuck.js) - A javascript library that lets you add stories EVERYWHERE.
@@ -4218,7 +4219,6 @@
 - [microsoft/TouchDevelop](https://github.com/microsoft/TouchDevelop) - TouchDevelop is a touch-friendly app creation environment for iPad, iPhone, Android, Windows, Mac, Linux. Our mobile-friendly editor makes coding fun, even on your phone or tablet!
 - [postcss/postcss](https://github.com/postcss/postcss) - Transforming styles with JS plugins
 - [jsxstyle/jsxstyle](https://github.com/jsxstyle/jsxstyle) - Inline style system for JSX
-- [mui/material-ui](https://github.com/mui/material-ui) - Material UI: Comprehensive React component library that implements Google's Material Design. Free forever.
 - [Turfjs/turf](https://github.com/Turfjs/turf) - A modular geospatial engine written in JavaScript and TypeScript
 - [fastmail/Squire](https://github.com/fastmail/Squire) - The rich text editor for arbitrary HTML.
 - [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid) - Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown
