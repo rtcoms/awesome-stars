@@ -2065,7 +2065,7 @@
 - [pcottle/learnGitBranching](https://github.com/pcottle/learnGitBranching) - An interactive git visualization and tutorial. Aspiring students of git can use this app to educate and challenge themselves towards mastery of git!
 - [deployd/deployd](https://github.com/deployd/deployd) - a toolkit for building realtime APIs
 - [browserify/browserify](https://github.com/browserify/browserify) - browser-side require() the node.js way
-- [pouchdb/pouchdb](https://github.com/pouchdb/pouchdb) - :kangaroo: - PouchDB is a pocket-sized database.
+- [apache/pouchdb](https://github.com/apache/pouchdb) - :kangaroo: - PouchDB is a pocket-sized database.
 - [chrisle/seer.js](https://github.com/chrisle/seer.js) - An all-in-one toolbox made for SEOs
 - [imakewebthings/deck.js](https://github.com/imakewebthings/deck.js) - Modern HTML Presentations
 - [carhartl/jquery-cookie](https://github.com/carhartl/jquery-cookie) - No longer maintained, superseded by JS Cookie:
