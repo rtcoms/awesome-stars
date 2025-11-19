@@ -4386,7 +4386,7 @@
 - [firebase/quickstart-js](https://github.com/firebase/quickstart-js) - Firebase Quickstart Samples for Web
 - [egoist/hack](https://github.com/egoist/hack) - ⛷ Dead simple CSS framework.
 - [ruanyf/jstutorial](https://github.com/ruanyf/jstutorial) - Javascript tutorial book
-- [mozilla/fathom](https://github.com/mozilla/fathom) - A framework for extracting meaning from web pages
+- [mozilla/fathom](https://github.com/mozilla/fathom) - DEPRECATED - A framework for extracting meaning from web pages
 - [vipul-sharma20/document-scanner](https://github.com/vipul-sharma20/document-scanner) - An OpenCV based document scanner
 - [Laverna/laverna](https://github.com/Laverna/laverna) - Laverna is a JavaScript note taking application with Markdown editor and encryption support. Consider it like open source alternative to Evernote.
 - [xiewenwei/redis_scanner](https://github.com/xiewenwei/redis_scanner) - RedisScanner is a tiny tool for scanning redis's keys and creating statistic information.
