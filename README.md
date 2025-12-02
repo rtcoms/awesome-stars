@@ -840,6 +840,7 @@
 ## Handlebars 
 
 - [yeun/open-color](https://github.com/yeun/open-color) - Color scheme for UI design.
+- [rust-lang/rust-by-example](https://github.com/rust-lang/rust-by-example) - Learn Rust with examples (Live code editor included)
 
 ## Haskell 
 
@@ -1597,7 +1598,6 @@
 - [sampotts/plyr](https://github.com/sampotts/plyr) - A simple HTML5, YouTube and Vimeo player
 - [sahat/hackathon-starter](https://github.com/sahat/hackathon-starter) - A boilerplate for Node.js web applications
 - [ejci/favico.js](https://github.com/ejci/favico.js) - Make use of your favicon with badges, images or videos
-- [mui/material-ui](https://github.com/mui/material-ui) - Material UI: Comprehensive React component library that implements Google's Material Design. Free forever.
 - [OnsenUI/OnsenUI](https://github.com/OnsenUI/OnsenUI) - Mobile app development framework and SDK using HTML5 and JavaScript. Create beautiful and performant cross-platform mobile apps. Based on Web Components, and provides bindings for Angular 1, 2, React 
 - [byte-foundry/plumin.js](https://github.com/byte-foundry/plumin.js) - Create and manipulate fonts like there's no tomorrow.
 - [wentin/underlineJS](https://github.com/wentin/underlineJS) - Pushing the boundary of browser typography rendering!
@@ -1796,7 +1796,6 @@
 - [fooplugins/FooTable](https://github.com/fooplugins/FooTable) - jQuery plugin to make HTML tables responsive
 - [ryngonzalez/Text.js](https://github.com/ryngonzalez/Text.js) - :computer: A collection of utilities for manipulating and editing text, with no dependencies.
 - [jdan/isomer](https://github.com/jdan/isomer) - Simple isometric graphics library for HTML5 canvas
-- [rust-lang/rust-by-example](https://github.com/rust-lang/rust-by-example) - Learn Rust with examples (Live code editor included)
 - [indutny/bn.js](https://github.com/indutny/bn.js) - BigNum in pure javascript
 - [indutny/hash.js](https://github.com/indutny/hash.js) - Hash functions in pure javascript
 - [filepreviews/filepreviews.js](https://github.com/filepreviews/filepreviews.js) - Deprecated: JavaScript client library for the FilePreviews.io service
@@ -4219,6 +4218,7 @@
 - [microsoft/TouchDevelop](https://github.com/microsoft/TouchDevelop) - TouchDevelop is a touch-friendly app creation environment for iPad, iPhone, Android, Windows, Mac, Linux. Our mobile-friendly editor makes coding fun, even on your phone or tablet!
 - [postcss/postcss](https://github.com/postcss/postcss) - Transforming styles with JS plugins
 - [jsxstyle/jsxstyle](https://github.com/jsxstyle/jsxstyle) - Inline style system for JSX
+- [mui/material-ui](https://github.com/mui/material-ui) - Material UI: Comprehensive React component library that implements Google's Material Design. Free forever.
 - [Turfjs/turf](https://github.com/Turfjs/turf) - A modular geospatial engine written in JavaScript and TypeScript
 - [fastmail/Squire](https://github.com/fastmail/Squire) - The rich text editor for arbitrary HTML.
 - [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid) - Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown
