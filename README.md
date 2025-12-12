@@ -2827,7 +2827,7 @@
 - [igorgue/pjson](https://github.com/igorgue/pjson) - Like python -mjson.tool but with moar colors (and less conf)
 - [aziz/PlainTasks](https://github.com/aziz/PlainTasks) - An opinionated todo-list plugin for Sublime Text editor (version 2 and 3)
 - [ahmetb/tmdb-downloader](https://github.com/ahmetb/tmdb-downloader) - Downloads tmdb movies data sequentially and saves to mongodb
-- [wbond/package_control_channel](https://github.com/wbond/package_control_channel) - Default channel file for Package Control. Follow the directions at:
+- [sublimehq/package_control_channel](https://github.com/sublimehq/package_control_channel) - Default channel file for Package Control. Follow the directions at:
 - [frostming/legit](https://github.com/frostming/legit) - Git for Humans, Inspired by GitHub for Mac™.
 - [hasgeek/hasjob](https://github.com/hasgeek/hasjob) - Hasjob, the Hasgeek job board
 - [devstructure/blueprint](https://github.com/devstructure/blueprint) - Reverse engineer server configuration
@@ -3249,7 +3249,7 @@
 - [deepcerulean/passive_record](https://github.com/deepcerulean/passive_record) - no-persistence pure ruby relational algebra
 - [usmanbashir/haikunator](https://github.com/usmanbashir/haikunator) - Heroku-like random name generator.
 - [rubysamurai/material_design_lite-sass](https://github.com/rubysamurai/material_design_lite-sass) - Google's Material Design Lite with Material Icons and Roboto font for Ruby applications
-- [iridakos/duckrails](https://github.com/iridakos/duckrails) - Development tool to mock API endpoints quickly and easily (docker image available)
+- [iridakos/duckrails](https://github.com/iridakos/duckrails) - Development tool to mock API endpoints quickly and easily - NOT MAINTAINED
 - [westonganger/spreadsheet_architect](https://github.com/westonganger/spreadsheet_architect) - Spreadsheet Architect is a library that allows you to create XLSX, ODS, or CSV spreadsheets super easily from ActiveRecord relations, plain Ruby objects, or tabular data.
 - [molybdenum-99/reality](https://github.com/molybdenum-99/reality) - Comprehensive data proxy to knowledge about real world
 - [dm-academy/Calavera](https://github.com/dm-academy/Calavera) - DEPRECATED. I managed to squeeze another year out of this, but moving on to a Docker platform in Calavera2. [This is a project to create a simplified, reproduceable DevOps pipeline for educational pur
@@ -3395,7 +3395,6 @@
 - [plexus/typecheck](https://github.com/plexus/typecheck) - 
 - [jeremyevans/sequel](https://github.com/jeremyevans/sequel) - Sequel: The Database Toolkit for Ruby
 - [thoughtbot/guides](https://github.com/thoughtbot/guides) - A guide for programming in style.
-- [houndci/hound](https://github.com/houndci/hound) - Automated code review for GitHub pull requests.
 - [tombh/peas](https://github.com/tombh/peas) - Docker and Ruby based PaaS
 - [sj26/mailcatcher](https://github.com/sj26/mailcatcher) - Catches mail and serves it through a dream.
 - [Mange/roadie-rails](https://github.com/Mange/roadie-rails) - Making HTML emails comfortable for the Rails rockstars
@@ -3916,7 +3915,7 @@
 - [shoelace-style/shoelace](https://github.com/shoelace-style/shoelace) - Web Awesome ("Shoelace 3") has been released! Get it here 👇👇👇
 - [baptisteArno/typebot.io](https://github.com/baptisteArno/typebot.io) - 💬 Typebot is a powerful chatbot builder that you can self-host.
 - [typestyle/typestyle](https://github.com/typestyle/typestyle) - Making CSS Typesafe 🌹
-- [appwrite/appwrite](https://github.com/appwrite/appwrite) - The developers' cloud
+- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Appwrite® - The developers' cloud
 - [toomuchdesign/re-reselect](https://github.com/toomuchdesign/re-reselect) - Enhance Reselect selectors with deeper memoization and cache management.
 - [Budibase/budibase](https://github.com/Budibase/budibase) - Create business apps and automate workflows in minutes. Supports PostgreSQL, MySQL, MariaDB, MSSQL, MongoDB, Rest API, Docker, K8s, and more 🚀 No code / Low code platform..
 - [Diablow/zustand-store-addons](https://github.com/Diablow/zustand-store-addons) - React state management addons for zustand.
