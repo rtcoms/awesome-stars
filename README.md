@@ -639,7 +639,6 @@
 - [dwyl/learn-javascript](https://github.com/dwyl/learn-javascript) - A Series of Simple Steps in JavaScript :-)
 - [jadjoubran/WebFundamentals](https://github.com/jadjoubran/WebFundamentals) - Best practices for modern web development
 - [tabler/tabler](https://github.com/tabler/tabler) - Tabler is free and open-source HTML Dashboard UI Kit built on Bootstrap
-- [prabhuignoto/react-chrono](https://github.com/prabhuignoto/react-chrono) - Modern Timeline Component for React
 - [ivankahl/drawio-notion-embed](https://github.com/ivankahl/drawio-notion-embed) - A super simple project that lets you embed draw.io diagrams directly into Notion.
 - [formio/formio](https://github.com/formio/formio) - A Form and Data Management Platform for Progressive Web Applications.
 - [CodeGuppyPrograms/TurtleGFX](https://github.com/CodeGuppyPrograms/TurtleGFX) - Turtle Graphics for p5.js / JavaScript
@@ -4041,6 +4040,7 @@
 - [ProseMirror/prosemirror-menu](https://github.com/ProseMirror/prosemirror-menu) - Simple menu elements for ProseMirror
 - [ryuever/react-tapable-editor](https://github.com/ryuever/react-tapable-editor) - A pluginable, intuitive medium/notion like rich text editor(currently in wip)
 - [deckgo/deckdeckgo](https://github.com/deckgo/deckdeckgo) - The web open source editor for presentations
+- [prabhuignoto/react-chrono](https://github.com/prabhuignoto/react-chrono) - Modern Timeline Component for React
 - [motiondivision/motion](https://github.com/motiondivision/motion) - A modern animation library for React and JavaScript
 - [vadimdemedes/ink](https://github.com/vadimdemedes/ink) - 🌈 React for interactive command-line apps
 - [hediet/vscode-debug-visualizer](https://github.com/hediet/vscode-debug-visualizer) - An extension for VS Code that visualizes data during debugging.
