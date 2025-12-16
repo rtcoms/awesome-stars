@@ -6514,7 +6514,7 @@
 - [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Platform to build admin panels, internal tools, and dashboards. Integrates with 25+ databases and any API.
 - [davo/awesome-react-framer-x](https://github.com/davo/awesome-react-framer-x) - A collection of awesome links to learn React, ES6 & Framer X
 - [creativetimofficial/material-tailwind](https://github.com/creativetimofficial/material-tailwind) - @material-tailwind is an easy-to-use components library for Tailwind CSS and Material Design.
-- [webmasterdevlin/easy-peasy-course](https://github.com/webmasterdevlin/easy-peasy-course) - Tour of heroes using ReactJS latest version and Easy Peasy state management library
+- [devlinduldulao/easy-peasy-course](https://github.com/devlinduldulao/easy-peasy-course) - Tour of heroes using ReactJS latest version and Easy Peasy state management library
 - [alexgurr/react-coding-challenges](https://github.com/alexgurr/react-coding-challenges) - A series of ReactJS coding challenges with a variety of difficulties.
 - [react-cosmos/react-cosmos](https://github.com/react-cosmos/react-cosmos) - Sandbox for developing and testing UI components in isolation
 - [remotion-dev/remotion](https://github.com/remotion-dev/remotion) - 🎥      Make videos programmatically with React
@@ -6821,7 +6821,7 @@
 - [redux-orm/redux-orm](https://github.com/redux-orm/redux-orm) - NOT MAINTAINED – A small, simple and immutable ORM to manage relational data in your Redux store.
 - [dai-shi/react-tracked](https://github.com/dai-shi/react-tracked) - State usage tracking with Proxies. Optimize re-renders for useState/useReducer, React Redux, Zustand and others.
 - [atlassian/react-sweet-state](https://github.com/atlassian/react-sweet-state) - Shared state management solution for React
-- [webmasterdevlin/easy-peasy-course](https://github.com/webmasterdevlin/easy-peasy-course) - Tour of heroes using ReactJS latest version and Easy Peasy state management library
+- [devlinduldulao/easy-peasy-course](https://github.com/devlinduldulao/easy-peasy-course) - Tour of heroes using ReactJS latest version and Easy Peasy state management library
 - [responsively-org/responsively-app](https://github.com/responsively-org/responsively-app) - A modified web browser that helps in responsive web development. A web developer's must have dev-tool.
 - [pmndrs/zustand](https://github.com/pmndrs/zustand) - 🐻 Bear necessities for state management in React
 - [Pau1fitz/react-interview](https://github.com/Pau1fitz/react-interview) - React Interview Questions 📙 📚 📖 🔎 ✒️
@@ -7631,7 +7631,7 @@
 - [xyflow/xyflow](https://github.com/xyflow/xyflow) - React Flow | Svelte Flow - Powerful open source libraries for building node-based UIs with React (https://reactflow.dev) or Svelte (https://svelteflow.dev). Ready out-of-the-box and infinitely customi
 - [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Platform to build admin panels, internal tools, and dashboards. Integrates with 25+ databases and any API.
 - [davo/awesome-react-framer-x](https://github.com/davo/awesome-react-framer-x) - A collection of awesome links to learn React, ES6 & Framer X
-- [webmasterdevlin/easy-peasy-course](https://github.com/webmasterdevlin/easy-peasy-course) - Tour of heroes using ReactJS latest version and Easy Peasy state management library
+- [devlinduldulao/easy-peasy-course](https://github.com/devlinduldulao/easy-peasy-course) - Tour of heroes using ReactJS latest version and Easy Peasy state management library
 - [Sairyss/domain-driven-hexagon](https://github.com/Sairyss/domain-driven-hexagon) - Learn Domain-Driven Design, software architecture, design patterns, best practices. Code examples included
 - [dgpedro/react-component-transition](https://github.com/dgpedro/react-component-transition) - Easy animations between react component transitions.
 - [dimitropoulos/react-ui-roundup](https://github.com/dimitropoulos/react-ui-roundup) - A one-stop-shop for comparing the features of all the best React frameworks.  Useful for designers and engineers alike!
