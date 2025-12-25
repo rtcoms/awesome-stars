@@ -957,7 +957,6 @@
 - [alyssaxuu/omni](https://github.com/alyssaxuu/omni) - The all-in-one tool to supercharge your productivity ⌨️
 - [ooade/use-fetch-hook](https://github.com/ooade/use-fetch-hook) - A custom hook to fetch and cache data
 - [Kholid060/portofolio](https://github.com/Kholid060/portofolio) - My portfolio
-- [cheatcode/joystick](https://github.com/cheatcode/joystick) - The full-stack JavaScript framework for SaaS apps.
 - [AsyncBanana/microdiff](https://github.com/AsyncBanana/microdiff) - A fast, zero dependency object and array comparison library. Significantly faster than most other deep comparison libraries and has full TypeScript support.
 - [roadmanfong/zustand-persist](https://github.com/roadmanfong/zustand-persist) - Persist and rehydrate state
 - [aisingapore/TagUI-Bricks](https://github.com/aisingapore/TagUI-Bricks) - Collection of RPA workflows for TagUI
