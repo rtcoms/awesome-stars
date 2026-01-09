@@ -5298,7 +5298,7 @@
 - [sourcebitsllc/chocolatechip-ui](https://github.com/sourcebitsllc/chocolatechip-ui) - Mobile Web App Framework
 - [briangonzalez/jquery.arbitrary-anchor.js](https://github.com/briangonzalez/jquery.arbitrary-anchor.js) - ⚓ Arbitrary anchors for any element on your page using a little jQuery magic.
 - [square/maximum-awesome](https://github.com/square/maximum-awesome) - Config files for vim and tmux.
-- [bitwiseshiftleft/sjcl](https://github.com/bitwiseshiftleft/sjcl) - Stanford Javascript Crypto Library
+- [bitwiseshiftleft/sjcl](https://github.com/bitwiseshiftleft/sjcl) - [DEPRECATED] Stanford Javascript Crypto Library
 - [feedbin/feedbin](https://github.com/feedbin/feedbin) - A nice place to read on the web.
 - [system76/beansbooks](https://github.com/system76/beansbooks) - A revolutionary cloud accounting platform designed for small and medium businesses.
 - [glen-cheney/Shuffle](https://github.com/glen-cheney/Shuffle) - Categorize, sort, and filter a responsive grid of items
