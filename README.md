@@ -452,6 +452,7 @@
 
 ## Elixir 
 
+- [agentjido/jido](https://github.com/agentjido/jido) - 🤖 Autonomous agent framework for Elixir. Built for distributed, autonomous behavior and dynamic workflows.
 - [mbta/screens](https://github.com/mbta/screens) - Screens
 - [NickGowdy/tic-tac-toe](https://github.com/NickGowdy/tic-tac-toe) - 
 - [alex-min/ex_platform](https://github.com/alex-min/ex_platform) - A battery-included 🔋 Phoenix boilerplate
@@ -3705,7 +3706,7 @@
 - [H-M-H/Weylus](https://github.com/H-M-H/Weylus) - Use your tablet as graphic tablet/touch screen on your computer.
 - [Y2Z/monolith](https://github.com/Y2Z/monolith) - ⬛️ CLI tool and library for saving complete web pages as a single HTML file
 - [jacobdeichert/wasm-astar](https://github.com/jacobdeichert/wasm-astar) - 👾 Rust WebAssembly A* Pathfinding Demo
-- [nikivdev/flow](https://github.com/nikivdev/flow) - Project level config for insanely fast feedback loops
+- [nikivdev/flow](https://github.com/nikivdev/flow) - Everything you need to move your project faster
 - [ivanceras/svgbob](https://github.com/ivanceras/svgbob) - Convert your ascii diagram scribbles into happy little SVG
 - [tildeio/helix](https://github.com/tildeio/helix) - Native Ruby extensions without fear
 - [influxdata/influxdb](https://github.com/influxdata/influxdb) - Scalable datastore for metrics, events, and real-time analytics
@@ -3857,7 +3858,8 @@
 
 ## TypeScript 
 
-- [snarktank/ralph](https://github.com/snarktank/ralph) - Ralph is an autonomous AI agent loop that runs Amp repeatedly until all PRD items are complete.
+- [jhomra21/DO-better-auth-convex-testing](https://github.com/jhomra21/DO-better-auth-convex-testing) - Simple-ish project showcasing use of Cloudflare Durable Objects w/ Realtime Database per user
+- [snarktank/ralph](https://github.com/snarktank/ralph) - Ralph is an autonomous AI agent loop that runs repeatedly until all PRD items are complete.
 - [Dhaxor/super-utils-plus](https://github.com/Dhaxor/super-utils-plus) - 
 - [rakkasjs/rakkasjs](https://github.com/rakkasjs/rakkasjs) - Bleeding-edge React framework powered by Vite
 - [emilkowalski/sonner](https://github.com/emilkowalski/sonner) - An opinionated toast component for React.
