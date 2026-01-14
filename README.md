@@ -168,7 +168,7 @@
 - [picocss/pico](https://github.com/picocss/pico) - Minimal CSS Framework for semantic HTML
 - [buunguyen/topbar](https://github.com/buunguyen/topbar) - Tiny & beautiful site-wide progress indicator
 - [gaearon/whatthefuck.is](https://github.com/gaearon/whatthefuck.is) - An opinionated glossary of computer science terms for front-end developers. Written by Dan Abramov.
-- [atisawd/boxicons](https://github.com/atisawd/boxicons) - High Quality web friendly icons
+- [box-icons/boxicons](https://github.com/box-icons/boxicons) - High Quality web friendly icons
 - [delight-im/HTML-Sheets-of-Paper](https://github.com/delight-im/HTML-Sheets-of-Paper) - Word processor in your browser using HTML and CSS (for invoices, legal notices, etc.)
 - [tailwindlabs/designing-with-tailwindcss](https://github.com/tailwindlabs/designing-with-tailwindcss) - Source code for the "Designing with Tailwind CSS" course.
 - [argyleink/transition.css](https://github.com/argyleink/transition.css) - :octocat: Drop-in CSS transitions
@@ -508,6 +508,7 @@
 
 ## Go 
 
+- [asheshgoplani/agent-deck](https://github.com/asheshgoplani/agent-deck) - Terminal session manager for AI coding agents. Built with Go + Bubble Tea.
 - [moasq/production-saas-starter](https://github.com/moasq/production-saas-starter) - Production-ready B2B SaaS Starter Kit (Go + Next.js). Modular Monolith. Hexagonal Arch.
 - [binwiederhier/ntfy](https://github.com/binwiederhier/ntfy) - Send push notifications to your phone or desktop using PUT/POST
 - [aserto-dev/topaz](https://github.com/aserto-dev/topaz) - Cloud-native authorization for modern applications and APIs
@@ -526,7 +527,7 @@
 - [jfyne/live](https://github.com/jfyne/live) - Live views and components for golang
 - [zerodha/gokiteconnect](https://github.com/zerodha/gokiteconnect) - Official Go client for Kite Connect API's
 - [trustwallet/assets](https://github.com/trustwallet/assets) - A comprehensive, up-to-date collection of information about several thousands (!) of crypto tokens.
-- [dagger/dagger](https://github.com/dagger/dagger) - The agent-ready test platform. Test any codebase end-to-end, repeatably and at scale. Runs locally, in your CI server, or directly in the cloud.
+- [dagger/dagger](https://github.com/dagger/dagger) - Automation engine to build, test and ship any codebase. Runs locally, in CI, or directly in the cloud
 - [tompston/gomarvin](https://github.com/tompston/gomarvin) - Generate Go REST servers & http clients
 - [TheRusskiy/imgproxy](https://github.com/TheRusskiy/imgproxy) - Fast and secure standalone server for resizing and converting remote images
 - [AdguardTeam/AdGuardHome](https://github.com/AdguardTeam/AdGuardHome) - Network-wide ads & trackers blocking DNS server
@@ -943,6 +944,7 @@
 - [flipace/lovli.js](https://github.com/flipace/lovli.js) - A boilerplate for developing react+redux applications with rethinkdb/horizon as realtime database and express for the server.
 - [tellform/tellform](https://github.com/tellform/tellform) - ✏️ Free Opensource Alternative to TypeForm or Google Forms ⛺
 - [crazko/krystal](https://github.com/crazko/krystal) - TiddlyWiki5 plugin - Horizontal Story River
+- [Roznoshchik/Lurnby](https://github.com/Roznoshchik/Lurnby) - A tool for active reading and personal knowledge management
 - [rstacruz/remount](https://github.com/rstacruz/remount) - Mount React components to the DOM using custom elements
 - [BMSVieira/lwder.js](https://github.com/BMSVieira/lwder.js) - Lightweight Loading Animation
 - [microsoft/Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners) - 24 Lessons, 12 Weeks, Get Started as a Web Developer
@@ -1369,7 +1371,7 @@
 - [backToNature/touchFeedback](https://github.com/backToNature/touchFeedback) - TouchFeedback.js is a library for touch feedback in mobile browsers;All functions are realized only in 2kb;
 - [EvandroLG/pageAccelerator](https://github.com/EvandroLG/pageAccelerator) - A very light solution to load web pages faster
 - [thompsonemerson/zoomove](https://github.com/thompsonemerson/zoomove) - :mag: :fireworks: Enlarges the image with the mouse hover and move
-- [hnordt/smalldots](https://github.com/hnordt/smalldots) - 
+- [hnordt/smalldots](https://github.com/hnordt/smalldots) - Old collection of utility functions used across my React projects. Some are still in use, but I no longer publish them as a library.
 - [jgthms/minireset.css](https://github.com/jgthms/minireset.css) - A tiny modern CSS reset
 - [ebidel/appmetrics.js](https://github.com/ebidel/appmetrics.js) - A small (&lt; 1kb) library for measuring things in your web app and reporting the results to Google Analytics.
 - [franciscop/brownies](https://github.com/franciscop/brownies) - 🍫 Tastier cookies, local, session, and db storage in a tiny package. Includes subscribe() events for changes.
@@ -2456,13 +2458,13 @@
 - [TrumpClone/ruby-rails-interview-questions](https://github.com/TrumpClone/ruby-rails-interview-questions) - Curated list of Ruby/Rails interview questions. Feel free to contribute! ⛏ 💎
 - [geekywrites/datascience](https://github.com/geekywrites/datascience) - This repository is a compilation of free resources for learning Data Science.
 - [smtlaissezfaire/git-shell-scripts](https://github.com/smtlaissezfaire/git-shell-scripts) - Homemade git shell scripts
-- [linsa-io/curated-lists](https://github.com/linsa-io/curated-lists) - Curated lists on various topics
+- [learn-anything/curated-lists](https://github.com/learn-anything/curated-lists) - Curated lists on various topics
 - [jasonelle-archive/jasonelle-v2](https://github.com/jasonelle-archive/jasonelle-v2) - 🛸 🏘️ Jasonelle issues, releases, discussions and wiki repository.
 - [PierBover/prosemirror-cookbook](https://github.com/PierBover/prosemirror-cookbook) - A series of examples for understanding ProseMirror
 - [open-source-ideas/ideas](https://github.com/open-source-ideas/ideas) - 💡 Looking for inspiration for your next open source project? Or perhaps you've got a brilliant idea you can't wait to share with others? Open Source Ideas is a community built specifically for this! 👋
 - [JefMari/awesome-wysiwyg-editors](https://github.com/JefMari/awesome-wysiwyg-editors) - A curated list of awesome WYSIWYG Editors.
 - [binhnguyennus/awesome-scalability](https://github.com/binhnguyennus/awesome-scalability) - The Patterns of Scalable, Reliable, and Performant Large-Scale Systems
-- [justinamiller/SoftwareArchitect](https://github.com/justinamiller/SoftwareArchitect) - Path to a Software Architect
+- [ntegrals/SoftwareArchitect](https://github.com/ntegrals/SoftwareArchitect) - Path to a Software Architect
 - [kbariotis/templates](https://github.com/kbariotis/templates) - A set of standard document templates.
 - [swyxio/spark-joy](https://github.com/swyxio/spark-joy) - ✨😂 2000+ ways to add design flair, user delight, and whimsy to your product.
 - [you-dont-need/You-Dont-Need](https://github.com/you-dont-need/You-Dont-Need) - People choose popular projects, often not because it applies to their problems
@@ -2710,7 +2712,6 @@
 - [fabston/TradingView-Webhook-Bot](https://github.com/fabston/TradingView-Webhook-Bot) - 📊 Send TradingView alerts to Telegram, Discord, Slack, Twitter and Email.
 - [panpanpandas/ultrafinance](https://github.com/panpanpandas/ultrafinance) - Python project for real-time financial data collection, analyzing && backtesting trading strategies
 - [ErikBjare/KnowTree](https://github.com/ErikBjare/KnowTree) - Crazy idea about visualizing what you (don't yet) know and create a great plan to learn anything.
-- [Roznoshchik/Lurnby](https://github.com/Roznoshchik/Lurnby) - A tool for active reading and personal knowledge management
 - [nschloe/tiptop](https://github.com/nschloe/tiptop) - :desktop_computer: Command-line system monitoring
 - [Chia-Network/chia-blockchain](https://github.com/Chia-Network/chia-blockchain) - Chia blockchain python implementation (full node, farmer, harvester, timelord, and wallet)
 - [afroisalreadyinu/miniboss](https://github.com/afroisalreadyinu/miniboss) - The most versatile way to manage containers locally
@@ -3858,6 +3859,10 @@
 
 ## TypeScript 
 
+- [gmickel/gmickel-claude-marketplace](https://github.com/gmickel/gmickel-claude-marketplace) - Claude Code plugin marketplace: plan-first workflows, Ralph autonomous mode, Carmack-level reviews
+- [Yeachan-Heo/oh-my-claude-sisyphus](https://github.com/Yeachan-Heo/oh-my-claude-sisyphus) - Sisyphus from OmO (Oh My Opencode), ported to the Claude Code SDK. Written with Claude Code — ironically. Anthropic, what are you gonna do next?
+- [code-yeongyu/oh-my-opencode](https://github.com/code-yeongyu/oh-my-opencode) - The Best Agent Harness. Meet Sisyphus: The Batteries-Included Agent that codes like you.
+- [tiann/hapi](https://github.com/tiann/hapi) - App for Claude Code / Codex / Gemini, vibe coding anytime, anywhere
 - [jhomra21/DO-better-auth-convex-testing](https://github.com/jhomra21/DO-better-auth-convex-testing) - Simple-ish project showcasing use of Cloudflare Durable Objects w/ Realtime Database per user
 - [snarktank/ralph](https://github.com/snarktank/ralph) - Ralph is an autonomous AI agent loop that runs repeatedly until all PRD items are complete.
 - [Dhaxor/super-utils-plus](https://github.com/Dhaxor/super-utils-plus) - 
@@ -3920,7 +3925,7 @@
 - [shoelace-style/shoelace](https://github.com/shoelace-style/shoelace) - Web Awesome ("Shoelace 3") has been released! Get it here 👇👇👇
 - [baptisteArno/typebot.io](https://github.com/baptisteArno/typebot.io) - 💬 Typebot is a powerful chatbot builder that you can self-host.
 - [typestyle/typestyle](https://github.com/typestyle/typestyle) - Making CSS Typesafe 🌹
-- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Appwrite® - The developers' cloud
+- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Appwrite® - complete cloud infrastructure for your web, mobile and AI apps. Including Auth, Databases, Storage, Functions, Messaging, Hosting, Realtime and more
 - [toomuchdesign/re-reselect](https://github.com/toomuchdesign/re-reselect) - Enhance Reselect selectors with deeper memoization and cache management.
 - [Budibase/budibase](https://github.com/Budibase/budibase) - Create business apps and automate workflows in minutes. Supports PostgreSQL, MySQL, MariaDB, MSSQL, MongoDB, Rest API, Docker, K8s, and more 🚀 No code / Low code platform..
 - [Diablow/zustand-store-addons](https://github.com/Diablow/zustand-store-addons) - React state management addons for zustand.
@@ -4228,7 +4233,7 @@
 - [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid) - Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown
 - [taye/interact.js](https://github.com/taye/interact.js) - JavaScript drag and drop, resizing and multi-touch gestures with inertia and snapping for modern browsers (and also IE9+)
 - [metricsgraphics/metrics-graphics](https://github.com/metricsgraphics/metrics-graphics) - A library optimized for concise and principled data graphics and layouts.
-- [jackocnr/intl-tel-input](https://github.com/jackocnr/intl-tel-input) - A JavaScript plugin for entering and validating international telephone numbers. React, Vue and Angular components also included.
+- [jackocnr/intl-tel-input](https://github.com/jackocnr/intl-tel-input) - A JavaScript plugin for entering and validating international telephone numbers. React, Vue, Angular and Svelte components also included.
 - [sindresorhus/pageres](https://github.com/sindresorhus/pageres) - Capture website screenshots
 - [t4t5/sweetalert](https://github.com/t4t5/sweetalert) - A beautiful replacement for JavaScript's "alert"
 - [chartist-js/chartist](https://github.com/chartist-js/chartist) - Simple responsive charts
