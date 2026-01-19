@@ -889,7 +889,7 @@
 ## JavaScript 
 
 - [joltylabs/jolty](https://github.com/joltylabs/jolty) - Dependency-Free, Unstyled & Fully Accessible UI Components
-- [ykdojo/kaguya](https://github.com/ykdojo/kaguya) - A ChatGPT plugin that allows you to load and edit your local files in a controlled way, as well as run any Python, JavaScript, and bash script.
+- [ykdojo/kaguya](https://github.com/ykdojo/kaguya) - A ChatGPT plugin that allows you to load and edit your local files in a controlled way, as well as run any Python, JavaScript, and bash script. (No longer active - check https://github.com/ykdojo/clau
 - [pdparchitect/ChatGPT-Assistant](https://github.com/pdparchitect/ChatGPT-Assistant) - 
 - [moleculerjs/moleculer](https://github.com/moleculerjs/moleculer) - :rocket: Progressive microservices framework for Node.js
 - [bevry-trading/automated-trading](https://github.com/bevry-trading/automated-trading) - Automated Trading: Trading View Strategies =&gt; Bitfinex, itBit, DriveWealth
