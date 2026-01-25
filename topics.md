@@ -333,7 +333,7 @@
 
 - [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code) - Complete Claude Code configuration collection - agents, skills, hooks, commands, rules, MCPs. Battle-tested configs from an Anthropic hackathon winner.
 - [asheshgoplani/agent-deck](https://github.com/asheshgoplani/agent-deck) - Terminal session manager for AI coding agents. Built with Go + Bubble Tea.
-- [Yeachan-Heo/oh-my-claudecode](https://github.com/Yeachan-Heo/oh-my-claudecode) - Multi-agent orchestration for Claude Code. Zero learning curve. 28 agents, 28 skills, delegation-first architecture.
+- [Yeachan-Heo/oh-my-claudecode](https://github.com/Yeachan-Heo/oh-my-claudecode) - Multi-agent orchestration for Claude Code with 5 execution modes: Autopilot (autonomous), Ultrapilot (3-5x parallel), Swarm (coordinated agents), Pipeline (sequential chains), Ecomode (token-efficient
 - [code-yeongyu/oh-my-opencode](https://github.com/code-yeongyu/oh-my-opencode) - The Best Agent Harness. Meet Sisyphus: The Batteries-Included Agent that codes like you.
 - [frankbria/ralph-claude-code](https://github.com/frankbria/ralph-claude-code) - Autonomous AI development loop for Claude Code with intelligent exit detection
 - [triggerdotdev/trigger.dev](https://github.com/triggerdotdev/trigger.dev) - Trigger.dev – build and deploy fully‑managed AI agents and workflows
@@ -537,6 +537,7 @@
 
 ## automation 
 
+- [Yeachan-Heo/oh-my-claudecode](https://github.com/Yeachan-Heo/oh-my-claudecode) - Multi-agent orchestration for Claude Code with 5 execution modes: Autopilot (autonomous), Ultrapilot (3-5x parallel), Swarm (coordinated agents), Pipeline (sequential chains), Ecomode (token-efficient
 - [triggerdotdev/trigger.dev](https://github.com/triggerdotdev/trigger.dev) - Trigger.dev – build and deploy fully‑managed AI agents and workflows
 - [apify/crawlee](https://github.com/apify/crawlee) - Crawlee—A web scraping and browser automation library for Node.js to build reliable crawlers. In JavaScript and TypeScript. Extract data for AI, LLMs, RAG, or GPTs. Download HTML, PDF, JPG, PNG, and o
 - [exograd/eventline](https://github.com/exograd/eventline) - Job scheduling and execution platform.
@@ -4143,7 +4144,7 @@
 - [almonk/pylon](https://github.com/almonk/pylon) - Declarative layout primitives for CSS & HTML
 - [aarohmankad/every-layout](https://github.com/aarohmankad/every-layout) - Styled Components for everylayout.dev
 - [learn-awesome/flashcard](https://github.com/learn-awesome/flashcard) - Reusable component to add spaced-repetition based flashcard to any webpage. No servers required because user's progress remains in localStorage.
-- [supabase/postgrest-js](https://github.com/supabase/postgrest-js) - Deprecated repo. Moved all work to https://github.com/supabase/supabase-js
+- [supabase/postgrest-js](https://github.com/supabase/postgrest-js) - The postgrest-js repo now has a new home: https://github.com/supabase/supabase-js/tree/master/packages/core/postgrest-js
 - [kbardi/srcSet-generator](https://github.com/kbardi/srcSet-generator) - Lambda function to generate a source set of images with different sizes to improve responsive performance and speed up page loading time
 - [ValveSoftware/Proton](https://github.com/ValveSoftware/Proton) - Compatibility tool for Steam Play based on Wine and additional components
 - [zverok/magic_cloud](https://github.com/zverok/magic_cloud) - Simple pretty word cloud for Ruby
