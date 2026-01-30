@@ -3683,7 +3683,7 @@
 ## others 
 
 - [timowhite88/Farnsworth](https://github.com/timowhite88/Farnsworth) - Farnsworth is an autonomous, infinitely-memorable, self-evolving companion AI built entirely with free open-source tools.
-- [tiann/hapi](https://github.com/tiann/hapi) - App for Claude Code / Codex / Gemini, vibe coding anytime, anywhere
+- [tiann/hapi](https://github.com/tiann/hapi) - App for Claude Code / Codex / Gemini / OpenCode, vibe coding anytime, anywhere
 - [jhomra21/DO-better-auth-convex-testing](https://github.com/jhomra21/DO-better-auth-convex-testing) - Simple-ish project showcasing use of Cloudflare Durable Objects w/ Realtime Database per user
 - [snarktank/ralph](https://github.com/snarktank/ralph) - Ralph is an autonomous AI agent loop that runs repeatedly until all PRD items are complete.
 - [zarpay/servus](https://github.com/zarpay/servus) - A ruby gem for managing service objects.
@@ -4369,7 +4369,7 @@
 - [opoloo/jquery_upload_preview](https://github.com/opoloo/jquery_upload_preview) - This is a small jQuery plugin, which provides a live preview of selected files before they're actually uploaded to the server.
 - [russmaxdesign/navbar](https://github.com/russmaxdesign/navbar) - A complex responsive and accessible navbar
 - [Creatide/STIMED](https://github.com/Creatide/STIMED) - STIMED.js is jQuery plugin for controlling CSS styles over time. http://stimed.creatide.com/
-- [gothinkster/realworld](https://github.com/gothinkster/realworld) - "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more
+- [realworld-apps/realworld](https://github.com/realworld-apps/realworld) - "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more
 - [codrops/StackMotionHoverEffects](https://github.com/codrops/StackMotionHoverEffects) - Experimental hover effects that reveal a stack of multiple colored cards behind the hovered item.
 - [microsoft/reactxp](https://github.com/microsoft/reactxp) - Library for cross-platform app development.
 - [MakG10/jquery-meme-generator](https://github.com/MakG10/jquery-meme-generator) - A jQuery plugin for interactive creating images with captions (memes) with basic image editing tools.
