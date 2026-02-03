@@ -120,7 +120,7 @@
 
 - [cucumber/html-formatter](https://github.com/cucumber/html-formatter) - HTML formatter for reporting Cucumber results
 - [QuantConnect/Lean](https://github.com/QuantConnect/Lean) - Lean Algorithmic Trading Engine by QuantConnect (Python, C#)
-- [microsoft/PowerToys](https://github.com/microsoft/PowerToys) - Microsoft PowerToys is a collection of utilities that help you customize Windows and streamline everyday tasks
+- [microsoft/PowerToys](https://github.com/microsoft/PowerToys) - Microsoft PowerToys is a collection of utilities that supercharge productivity and customization on Windows
 - [microsoft/Power-Fx](https://github.com/microsoft/Power-Fx) - Power Fx low-code programming language
 - [TheBerkin/rant3](https://github.com/TheBerkin/rant3) - (Obsolete) Archive of Rant 3.x.
 
@@ -503,7 +503,7 @@
 
 ## Gherkin 
 
-- [andrii/devise-specs](https://github.com/andrii/devise-specs) - Generates the Devise acceptance tests.
+- [andrii/devise-specs](https://github.com/andrii/devise-specs) - Auto-generate Rails system tests for Devise auth
 
 ## Go 
 
@@ -3006,7 +3006,7 @@
 - [stevepolitodesign/rails-authentication-from-scratch](https://github.com/stevepolitodesign/rails-authentication-from-scratch) - A step-by-step guide on how to build your own authentication system in Rails from scratch.
 - [DFE-Digital/publish-teacher-training-2022](https://github.com/DFE-Digital/publish-teacher-training-2022) - Publish teacher training courses - lets providers edit and publish their courses
 - [ankane/ahoy_email](https://github.com/ankane/ahoy_email) - First-party email analytics for Rails
-- [ruby/rbs](https://github.com/ruby/rbs) - Type Signature for Ruby
+- [ruby/rbs](https://github.com/ruby/rbs) - The type signature language for Ruby
 - [ruby/error_highlight](https://github.com/ruby/error_highlight) - The gem enhances Exception#message by adding a short explanation where the exception is raised
 - [johncorderox/Rails-API-React-Tutorial](https://github.com/johncorderox/Rails-API-React-Tutorial) - 📱 A Rails 6 API backend React JS + Webpacker guide. Includes API setup, serializers, and react integration in the frontend. 🌲
 - [hardcode-dev/rails-optimization-task2](https://github.com/hardcode-dev/rails-optimization-task2) - 
