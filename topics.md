@@ -3937,7 +3937,7 @@
 - [humaans/react-machine](https://github.com/humaans/react-machine) - A state machine hook for React applications.
 - [vuejs/petite-vue](https://github.com/vuejs/petite-vue) - 6kb subset of Vue optimized for progressive enhancement
 - [wanelo/counter-cache](https://github.com/wanelo/counter-cache) - Counting at scale is hard. Let's do it good.
-- [andrii/devise-specs](https://github.com/andrii/devise-specs) - Generates the Devise acceptance tests.
+- [andrii/devise-specs](https://github.com/andrii/devise-specs) - Auto-generate Rails system tests for Devise auth
 - [RailsApps/rails-devise-pundit](https://github.com/RailsApps/rails-devise-pundit) - Rails 5.0 starter app with Devise for authentication and Pundit for authorization.
 - [codepath/student-career-handbook](https://github.com/codepath/student-career-handbook) - Covers all things student career, internships, and industry context
 - [codepath/compsci_guides](https://github.com/codepath/compsci_guides) - Guides focused on fundamental computer science concepts
@@ -7001,7 +7001,7 @@
 - [ackama/rails-template](https://github.com/ackama/rails-template) - Application template for Rails projects; preloaded with best practices for TDD, security, deployment, and developer productivity.
 - [marcoroth/boxdrop](https://github.com/marcoroth/boxdrop) - Dropbox Clone built with StimulusReflex
 - [digital-fabric/polyphony](https://github.com/digital-fabric/polyphony) - Fine-grained concurrency for Ruby
-- [ruby/rbs](https://github.com/ruby/rbs) - Type Signature for Ruby
+- [ruby/rbs](https://github.com/ruby/rbs) - The type signature language for Ruby
 - [ruby/error_highlight](https://github.com/ruby/error_highlight) - The gem enhances Exception#message by adding a short explanation where the exception is raised
 - [CanciuCostin/android-spyware](https://github.com/CanciuCostin/android-spyware) - Rails c&c web application for spying Android devices
 - [vifreefly/kimuraframework](https://github.com/vifreefly/kimuraframework) - Write web scrapers in Ruby using a clean, AI-assisted DSL. Kimurai uses AI to figure out where the data lives, then caches the selectors and scrapes with pure Ruby. Get the intelligence of an LLM with
@@ -8102,7 +8102,7 @@
 - [mrrfv/open-android-backup](https://github.com/mrrfv/open-android-backup) - Back up your device without vendor lock-ins, using insecure software or root. Supports encryption and compression out of the box. Works cross-platform.
 - [invoke-ai/InvokeAI](https://github.com/invoke-ai/InvokeAI) - Invoke is a leading creative engine for Stable Diffusion models, empowering professionals, artists, and enthusiasts to generate and create visual media using the latest AI-driven technologies. The sol
 - [ventoy/Ventoy](https://github.com/ventoy/Ventoy) - A new bootable USB solution.
-- [microsoft/PowerToys](https://github.com/microsoft/PowerToys) - Microsoft PowerToys is a collection of utilities that help you customize Windows and streamline everyday tasks
+- [microsoft/PowerToys](https://github.com/microsoft/PowerToys) - Microsoft PowerToys is a collection of utilities that supercharge productivity and customization on Windows
 - [pmq20/ruby-packer](https://github.com/pmq20/ruby-packer) - Packing your Ruby application into a single executable.
 - [Melvin-Abraham/Google-Assistant-Unofficial-Desktop-Client](https://github.com/Melvin-Abraham/Google-Assistant-Unofficial-Desktop-Client) - A cross-platform unofficial Google Assistant Client for Desktop (powered by Google Assistant SDK)
 - [popcorntime/popcorntime](https://github.com/popcorntime/popcorntime) - Popcorn Time™ puts everything in one place. Your favorite platforms, your shows, your movies-ready when you are.
