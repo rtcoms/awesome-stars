@@ -167,7 +167,6 @@
 - [picocss/pico](https://github.com/picocss/pico) - Minimal CSS Framework for semantic HTML
 - [buunguyen/topbar](https://github.com/buunguyen/topbar) - Tiny & beautiful site-wide progress indicator
 - [gaearon/whatthefuck.is](https://github.com/gaearon/whatthefuck.is) - An opinionated glossary of computer science terms for front-end developers. Written by Dan Abramov.
-- [box-icons/boxicons](https://github.com/box-icons/boxicons) - High Quality web friendly icons
 - [delight-im/HTML-Sheets-of-Paper](https://github.com/delight-im/HTML-Sheets-of-Paper) - Word processor in your browser using HTML and CSS (for invoices, legal notices, etc.)
 - [tailwindlabs/designing-with-tailwindcss](https://github.com/tailwindlabs/designing-with-tailwindcss) - Source code for the "Designing with Tailwind CSS" course.
 - [argyleink/transition.css](https://github.com/argyleink/transition.css) - :octocat: Drop-in CSS transitions
@@ -1646,7 +1645,7 @@
 - [eligrey/FileSaver.js](https://github.com/eligrey/FileSaver.js) - An HTML5 saveAs() FileSaver implementation
 - [Dogfalo/materialize](https://github.com/Dogfalo/materialize) - Materialize, a CSS Framework based on Material Design
 - [indutny/self-signed](https://github.com/indutny/self-signed) - Generate Self-Signed certificates in browser
-- [jackocnr/intl-tel-input](https://github.com/jackocnr/intl-tel-input) - A JavaScript plugin for entering, formatting and validating international telephone numbers. React, Vue, Angular and Svelte components also included.
+- [jackocnr/intl-tel-input](https://github.com/jackocnr/intl-tel-input) - A JavaScript plugin for entering, formatting and validating international telephone numbers. Includes TypeScript definitions, plus React, Vue, Angular and Svelte components.
 - [ttaubert/secret-notes](https://github.com/ttaubert/secret-notes) - Examples for my talk "Keeping secrets with JavaScript - An Introduction to the WebCrypto API"
 - [ConnorAtherton/walkway](https://github.com/ConnorAtherton/walkway) - An easy way to animate SVG elements.
 - [alvarotrigo/pagePiling.js](https://github.com/alvarotrigo/pagePiling.js) - pagePiling plugin by Alvaro Trigo. Create a scrolling pile of sections. http://alvarotrigo.com/pagePiling/
@@ -1946,7 +1945,6 @@
 - [jdan/cleaver](https://github.com/jdan/cleaver) - 30-second slideshows for hackers
 - [briangonzalez/jquery.arbitrary-anchor.js](https://github.com/briangonzalez/jquery.arbitrary-anchor.js) - ⚓ Arbitrary anchors for any element on your page using a little jQuery magic.
 - [bitwiseshiftleft/sjcl](https://github.com/bitwiseshiftleft/sjcl) - [DEPRECATED] Stanford Javascript Crypto Library
-- [glen-cheney/Shuffle](https://github.com/glen-cheney/Shuffle) - Categorize, sort, and filter a responsive grid of items
 - [mauricecruz/chrome-devtools-zerodarkmatrix-theme](https://github.com/mauricecruz/chrome-devtools-zerodarkmatrix-theme) - A highly customized dark theme for Chrome
 - [segment-boneyard/sheet](https://github.com/segment-boneyard/sheet) - A special modal that slides out from the right or left side of the screen.
 - [simplefocus/FlowType.JS](https://github.com/simplefocus/FlowType.JS) - Web typography at its finest: font-size and line-height based on element width.
@@ -2463,7 +2461,6 @@
 - [open-source-ideas/ideas](https://github.com/open-source-ideas/ideas) - 💡 Looking for inspiration for your next open source project? Or perhaps you've got a brilliant idea you can't wait to share with others? Open Source Ideas is a community built specifically for this! 👋
 - [JefMari/awesome-wysiwyg-editors](https://github.com/JefMari/awesome-wysiwyg-editors) - A curated list of awesome WYSIWYG Editors.
 - [binhnguyennus/awesome-scalability](https://github.com/binhnguyennus/awesome-scalability) - The Patterns of Scalable, Reliable, and Performant Large-Scale Systems
-- [ntegrals/openbrowser](https://github.com/ntegrals/openbrowser) - Let AI agents browse the web. An autonomous toolkit for browser-based AI agents.
 - [kbariotis/templates](https://github.com/kbariotis/templates) - A set of standard document templates.
 - [swyxio/spark-joy](https://github.com/swyxio/spark-joy) - ✨😂 2000+ ways to add design flair, user delight, and whimsy to your product.
 - [you-dont-need/You-Dont-Need](https://github.com/you-dont-need/You-Dont-Need) - People choose popular projects, often not because it applies to their problems
@@ -3991,6 +3988,7 @@
 - [mutable/meiosis](https://github.com/mutable/meiosis) - 
 - [rahuldkjain/github-profile-readme-generator](https://github.com/rahuldkjain/github-profile-readme-generator) - 🚀 Generate GitHub profile README easily with the latest add-ons like visitors count, GitHub stats, etc using minimal UI.
 - [sdelements/flan](https://github.com/sdelements/flan) - A tasty tool that lets you save, load and share postgres snapshots with ease
+- [box-icons/boxicons](https://github.com/box-icons/boxicons) - High Quality web friendly icons
 - [fastapi/full-stack-fastapi-template](https://github.com/fastapi/full-stack-fastapi-template) - Full stack, modern web application template. Using FastAPI, React, SQLModel, PostgreSQL, Docker, GitHub Actions, automatic HTTPS and more.
 - [rehooks/local-storage](https://github.com/rehooks/local-storage) - React hook which syncs localStorage[key] with the comp.
 - [jpribyl/react-hook-dragula](https://github.com/jpribyl/react-hook-dragula) - Provides named parameters and strong typing + declarative usage to dragula within React.
@@ -4091,6 +4089,7 @@
 - [appleple/smartblock](https://github.com/appleple/smartblock) - intuitive block based wysiwyg editor built with React and ProseMirror
 - [vm-mishchenko/ngx-wall](https://github.com/vm-mishchenko/ngx-wall) - Helps build content editor for note-taking application
 - [jquense/yup](https://github.com/jquense/yup) - Dead simple Object schema validation
+- [ntegrals/openbrowser](https://github.com/ntegrals/openbrowser) - Let AI agents browse the web. An autonomous toolkit for browser-based AI agents.
 - [testing-library/user-event](https://github.com/testing-library/user-event) - 🐕 Simulate user events
 - [ueberdosis/tiptap](https://github.com/ueberdosis/tiptap) - The headless rich text editor framework for web artisans.
 - [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams
@@ -4251,6 +4250,7 @@
 - [ionic-team/ionic-framework](https://github.com/ionic-team/ionic-framework) - A powerful cross-platform UI toolkit for building native-quality iOS, Android, and Progressive Web Apps with HTML, CSS, and JavaScript.
 - [ionic-team/ionicons](https://github.com/ionic-team/ionicons) - Premium hand-crafted icons built by Ionic, for Ionic apps and web apps everywhere 🌎
 - [yuku/textcomplete](https://github.com/yuku/textcomplete) - Autocomplete for HTMLTextAreaElement and more.
+- [glen-cheney/Shuffle](https://github.com/glen-cheney/Shuffle) - Categorize, sort, and filter a responsive grid of items
 - [linnovate/mean](https://github.com/linnovate/mean) - The MEAN stack uses Mongo, Express, Angular(6) and Node for simple and scalable fullstack js applications
 - [wa0x6e/cal-heatmap](https://github.com/wa0x6e/cal-heatmap) - Cal-Heatmap is a javascript charting library to create a time-series calendar heatmap
 - [apache/echarts](https://github.com/apache/echarts) - Apache ECharts is a powerful, interactive charting and data visualization library for browser
