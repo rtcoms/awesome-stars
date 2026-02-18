@@ -700,7 +700,6 @@
 - [lipis/flag-icons](https://github.com/lipis/flag-icons) - :flags: A curated collection of all country flags in SVG — plus the CSS for easier integration
 - [maxbeier/text-spinners](https://github.com/maxbeier/text-spinners) - Pure text, CSS only, font independent, inline loading indicators
 - [una/CSSgram](https://github.com/una/CSSgram) - CSS library for Instagram filters
-- [mrmrs/css-system-fonts](https://github.com/mrmrs/css-system-fonts) - A css module for utilizing system fonts across platforms
 - [lyzadanger/pragmatist-service-worker](https://github.com/lyzadanger/pragmatist-service-worker) - Pragmatist's Guide to Service Worker
 - [siggy/beatboxer](https://github.com/siggy/beatboxer) - Drum machine in a few hundred lines of html/js/css
 - [FrontendMasters/react-enlightenment](https://github.com/FrontendMasters/react-enlightenment) - A thoughtful and complete introduction to React.
@@ -1369,6 +1368,7 @@
 - [jgthms/marksheet](https://github.com/jgthms/marksheet) - Free tutorial to learn HTML and CSS
 - [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) -  Now we have become very big, Different from the original idea. Collect premium software in various categories.
 - [jxnblk/reflexbox](https://github.com/jxnblk/reflexbox) - Moved to https://rebassjs.org
+- [mrmrs/css-system-fonts](https://github.com/mrmrs/css-system-fonts) - A css module for utilizing system fonts across platforms
 - [kylekampy/NewTabNotes](https://github.com/kylekampy/NewTabNotes) - NewTabNotes Chrome Extension
 - [backToNature/touchFeedback](https://github.com/backToNature/touchFeedback) - TouchFeedback.js is a library for touch feedback in mobile browsers;All functions are realized only in 2kb;
 - [EvandroLG/pageAccelerator](https://github.com/EvandroLG/pageAccelerator) - A very light solution to load web pages faster
@@ -1841,7 +1841,6 @@
 - [framework7io/framework7](https://github.com/framework7io/framework7) - Full featured HTML framework for building iOS & Android apps
 - [srobbin/jquery-intelligist](https://github.com/srobbin/jquery-intelligist) - a jQuery plugin that makes it easy to share and demo code in-page, using GitHub gists.
 - [fontello/fontello](https://github.com/fontello/fontello) - Iconic fonts scissors
-- [janpaepke/ScrollMagic](https://github.com/janpaepke/ScrollMagic) - The javascript library for magical scroll interactions.
 - [panzi/SocialSharePrivacy](https://github.com/panzi/SocialSharePrivacy) - Fork of "jquery.socialshareprivacy.js | 2 Klicks fuer mehr Datenschutz" http://www.heise.de/extras/socialshareprivacy/ that is extensible.
 - [peachananr/autofix_anything](https://github.com/peachananr/autofix_anything) - Fix position of anything on your website automatically with one js call
 - [powerconsulting/jquery.tabelizer](https://github.com/powerconsulting/jquery.tabelizer) - Multi level grouping indicators for tables.
@@ -2376,7 +2375,7 @@
 ## Nunjucks 
 
 - [h5bp/Front-end-Developer-Interview-Questions](https://github.com/h5bp/Front-end-Developer-Interview-Questions) - A list of helpful front-end related questions you can use to interview potential candidates, test yourself or completely ignore.
-- [remoteintech/remote-jobs](https://github.com/remoteintech/remote-jobs) - A list of semi to fully remote-friendly companies (jobs) in tech.
+- [remoteintech/remote-jobs](https://github.com/remoteintech/remote-jobs) - Source for remoteintech.company — a community-maintained directory of remote-friendly tech companies
 
 ## OCaml 
 
@@ -2938,7 +2937,6 @@
 - [titusfortner/webdrivers](https://github.com/titusfortner/webdrivers) - Keep your Selenium WebDrivers updated automatically
 - [dao-wolf/fun-with-automation-ruby](https://github.com/dao-wolf/fun-with-automation-ruby) - Collection of automation scripts for fun
 - [rohit22g1990/scrapping-with-watir](https://github.com/rohit22g1990/scrapping-with-watir) - 
-- [simonneutert/ruby-headless-watir-chrome](https://github.com/simonneutert/ruby-headless-watir-chrome) - let's you browse the web using ruby, water and chrome
 - [mikkel/razor](https://github.com/mikkel/razor) - A simplistic web scraper built on watir-webdriver.  It is used to power foreclosure listings
 - [rubycdp/ferrum](https://github.com/rubycdp/ferrum) - Headless Chrome Ruby API
 - [jeffnyman/webdriver_manager](https://github.com/jeffnyman/webdriver_manager) - Provides a method of automatically downloading WebDriver binaries.
@@ -3387,7 +3385,7 @@
 - [carmen-ruby/carmen-rails](https://github.com/carmen-ruby/carmen-rails) - NOT ACTIVELY MAINTAINED Rails adapter for Carmen (provides country_select and subregion_select)
 - [moserrya/knod](https://github.com/moserrya/knod) - A Tiny HTTP server for your current directory
 - [dieb/browserlog](https://github.com/dieb/browserlog) - Development halted. Watch rails logs live in your browser.
-- [tilo/smarter_csv](https://github.com/tilo/smarter_csv) - Ruby Gem for convenient reading and writing of CSV files. It has intelligent defaults, and auto-discovery of column and row separators. It imports CSV Files as Array(s) of Hashes, suitable for direct 
+- [tilo/smarter_csv](https://github.com/tilo/smarter_csv) - C-accelerated Ruby Gem for convenient reading and writing of CSV files. It has intelligent defaults, and auto-discovery of column and row separators. It imports CSV Files as Array(s) of Hashes, suitab
 - [pyromaniac/active_data](https://github.com/pyromaniac/active_data) - Working with any data in AR style
 - [diffux/diffux](https://github.com/diffux/diffux) - Perceptual diffs of responsive screenshots made simple.
 - [antirez/redlock-rb](https://github.com/antirez/redlock-rb) - Redlock Redis-based distributed locks implementation in Ruby
@@ -4212,7 +4210,7 @@
 - [sindresorhus/fast-cli](https://github.com/sindresorhus/fast-cli) - Test your download and upload speed using fast.com
 - [GeekyAnts/NativeBase](https://github.com/GeekyAnts/NativeBase) - Mobile-first, accessible components for React Native & Web to build consistent UI across Android, iOS and Web.
 - [dolphin-wood/smooth-scrollbar](https://github.com/dolphin-wood/smooth-scrollbar) - Customizable, Extendable, and High-Performance JavaScript-Based Scrollbar Solution.
-- [kriasoft/react-starter-kit](https://github.com/kriasoft/react-starter-kit) - Modern React starter kit with Bun, TypeScript, Tailwind CSS, tRPC, and Cloudflare Workers. Production-ready monorepo for building fast web apps.
+- [kriasoft/react-starter-kit](https://github.com/kriasoft/react-starter-kit) - Modern React starter kit with Bun, TypeScript, Tailwind CSS, tRPC, Stripe, and Cloudflare Workers. Production-ready monorepo for building fast web apps.
 - [davidedc/Algebrite](https://github.com/davidedc/Algebrite) - Computer Algebra System in Javascript (Typescript)
 - [SBoudrias/Inquirer.js](https://github.com/SBoudrias/Inquirer.js) - A collection of common interactive command line user interfaces.
 - [floating-ui/floating-ui](https://github.com/floating-ui/floating-ui) - A JavaScript library to position floating elements and create interactions for them.
@@ -4246,6 +4244,7 @@
 - [tessera-metrics/tessera](https://github.com/tessera-metrics/tessera) - A dashboard front-end for graphite.
 - [mvasilkov/readability2](https://github.com/mvasilkov/readability2) - Readability2 converts HTML to plain text.
 - [GitbookIO/gitbook](https://github.com/GitbookIO/gitbook) - The open source frontend for GitBook doc sites
+- [janpaepke/ScrollMagic](https://github.com/janpaepke/ScrollMagic) - The javascript library for magical scroll interactions.
 - [vuejs/vue](https://github.com/vuejs/vue) - This is the repo for Vue 2. For Vue 3, go to https://github.com/vuejs/core
 - [jacomyal/sigma.js](https://github.com/jacomyal/sigma.js) - A JavaScript library aimed at visualizing graphs of thousands of nodes and edges
 - [ondras/my-mind](https://github.com/ondras/my-mind) - Online Mindmapping Software
