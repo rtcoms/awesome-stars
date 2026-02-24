@@ -4801,7 +4801,7 @@
 - [huydx/facy](https://github.com/huydx/facy) - command line power tool for facebook
 - [senthilporunan/jRate](https://github.com/senthilporunan/jRate) - Generate SVG based Rating with various customized fancy features. More information @ www.toolitup.com
 - [itteco/iframely](https://github.com/itteco/iframely) - oEmbed proxy. Supports over 1800 domains via custom parsers, oEmbed, Twitter Cards and Open Graph
-- [LeonardoCardoso/Facebook-Link-Preview](https://github.com/LeonardoCardoso/Facebook-Link-Preview) - Go to &gt;&gt; https://github.com/LeonardoCardoso/Link-Preview
+- [leonardocardoso/Facebook-Link-Preview](https://github.com/leonardocardoso/Facebook-Link-Preview) - Go to &gt;&gt; https://github.com/LeonardoCardoso/Link-Preview
 - [Nedomas/databound](https://github.com/Nedomas/databound) - Provides Javascript a simple API to the Ruby on Rails CRUD.
 - [nwidger/nintengo](https://github.com/nwidger/nintengo) - An NES emulator written in Go
 - [siamak/licon](https://github.com/siamak/licon) - Lightness and Useful icons with Pure CSS3
