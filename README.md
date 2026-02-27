@@ -698,7 +698,7 @@
 - [lyzadanger/pragmatist-service-worker](https://github.com/lyzadanger/pragmatist-service-worker) - Pragmatist's Guide to Service Worker
 - [siggy/beatboxer](https://github.com/siggy/beatboxer) - Drum machine in a few hundred lines of html/js/css
 - [FrontendMasters/react-enlightenment](https://github.com/FrontendMasters/react-enlightenment) - A thoughtful and complete introduction to React.
-- [coreui/coreui-free-bootstrap-admin-template](https://github.com/coreui/coreui-free-bootstrap-admin-template) - Free Bootstrap Admin & Dashboard Template
+- [coreui/coreui-free-bootstrap-admin-template](https://github.com/coreui/coreui-free-bootstrap-admin-template) - Free Bootstrap Admin & Dashboard Template Built for AI-Assisted Development
 - [emailmonday/Cerberus](https://github.com/emailmonday/Cerberus) - A few simple, but solid patterns for responsive HTML email templates and newsletters. Even in Outlook and Gmail.
 - [paulkr/overhang.js](https://github.com/paulkr/overhang.js) - 🔔 A jQuery plugin for notifications, prompts and confirmations.
 - [kristoferjoseph/flexboxgrid](https://github.com/kristoferjoseph/flexboxgrid) - Grid based on CSS3 flexbox
@@ -2345,7 +2345,7 @@
 
 ## MDX 
 
-- [yangshun/front-end-interview-handbook](https://github.com/yangshun/front-end-interview-handbook) - Front End interview preparation materials for busy engineers (updated for 2025)
+- [yangshun/front-end-interview-handbook](https://github.com/yangshun/front-end-interview-handbook) - Front End interview preparation materials for busy engineers (updated for 2026)
 - [uidotdev/usehooks](https://github.com/uidotdev/usehooks) - A collection of modern, server-safe React hooks – from the ui.dev team
 - [wix/react-native-navigation](https://github.com/wix/react-native-navigation) - A complete native navigation solution for React Native
 - [react-native-elements/react-native-elements](https://github.com/react-native-elements/react-native-elements) - Cross-Platform React Native UI Toolkit
@@ -3378,7 +3378,7 @@
 - [carmen-ruby/carmen-rails](https://github.com/carmen-ruby/carmen-rails) - NOT ACTIVELY MAINTAINED Rails adapter for Carmen (provides country_select and subregion_select)
 - [moserrya/knod](https://github.com/moserrya/knod) - A Tiny HTTP server for your current directory
 - [dieb/browserlog](https://github.com/dieb/browserlog) - Development halted. Watch rails logs live in your browser.
-- [tilo/smarter_csv](https://github.com/tilo/smarter_csv) - C-accelerated Ruby Gem for convenient reading and writing of CSV files. It has intelligent defaults, and auto-discovery of column and row separators. It imports CSV Files as Array(s) of Hashes, suitab
+- [tilo/smarter_csv](https://github.com/tilo/smarter_csv) - Fastest end-to-end CSV ingestion for Ruby (with C acceleration). SmarterCSV auto-detects formats, applies smart defaults, and returns Rails-ready hashes for seamless use with ActiveRecord, Sidekiq, pa
 - [pyromaniac/active_data](https://github.com/pyromaniac/active_data) - Working with any data in AR style
 - [diffux/diffux](https://github.com/diffux/diffux) - Perceptual diffs of responsive screenshots made simple.
 - [antirez/redlock-rb](https://github.com/antirez/redlock-rb) - Redlock Redis-based distributed locks implementation in Ruby
