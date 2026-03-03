@@ -3508,7 +3508,7 @@
 - [the-trash/the_comments](https://github.com/the-trash/the_comments) - Comments with threading for Rails 4 [Still works but must be replaced with https://github.com/TheComments]
 - [stripe/poncho](https://github.com/stripe/poncho) - Easily create REST APIs
 - [xdite/auto-facebook](https://github.com/xdite/auto-facebook) - auto mount omniauth-facebook
-- [sferik/t-ruby](https://github.com/sferik/t-ruby) - A command-line power tool for Twitter.
+- [sferik/x-cli](https://github.com/sferik/x-cli) - A command-line power tool for Twitter.
 - [7compass/sentimental](https://github.com/7compass/sentimental) - Simple sentiment analysis with Ruby
 - [hermango/shareable](https://github.com/hermango/shareable) - A Social Buttons Gem for Rails. Compatible with Rails 3 and 4.
 - [davidcelis/recommendable](https://github.com/davidcelis/recommendable) - :+1::-1: A recommendation engine using Likes and Dislikes for your Ruby app
