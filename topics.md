@@ -97,6 +97,7 @@
 - [ethereum](#ethereum)
 - [express](#express)
 - [facebook](#facebook)
+- [fastapi](#fastapi)
 - [final-year-project](#final-year-project)
 - [finance](#finance)
 - [firebase](#firebase)
@@ -1737,6 +1738,10 @@
 - [kni-labs/rrssb](https://github.com/kni-labs/rrssb) - :arrow_right_hook: Ridiculously Responsive Social Sharing Buttons
 - [christophery/slide-social-buttons](https://github.com/christophery/slide-social-buttons) - Slide Social Buttons are a fun way to display your social media buttons.
 - [filamentgroup/SocialCount](https://github.com/filamentgroup/SocialCount) - Unmaintained (see the README): Simple barebones project to show share counts from various social networks.
+
+## fastapi 
+
+- [fastapi/full-stack-fastapi-template](https://github.com/fastapi/full-stack-fastapi-template) - Full stack, modern web application template. Using FastAPI, React, SQLModel, PostgreSQL, Docker, GitHub Actions, automatic HTTPS and more.
 
 ## final-year-project 
 
