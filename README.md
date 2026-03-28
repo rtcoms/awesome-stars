@@ -3830,7 +3830,6 @@
 - [jedi4ever/veewee](https://github.com/jedi4ever/veewee) - Easing the building of vagrant boxes
 - [hasgeek/confrouter](https://github.com/hasgeek/confrouter) - Conference Router Project
 - [schacon/whygitisbetter](https://github.com/schacon/whygitisbetter) - the source code for whygitisbetterthanx.com
-- [ryanb/dotfiles](https://github.com/ryanb/dotfiles) - config files for zsh, bash, completions, gem, git, irb, rails
 
 ## Svelte 
 
@@ -3962,7 +3961,7 @@
 - [vercel/swr](https://github.com/vercel/swr) - React Hooks for Data Fetching
 - [gmpetrov/ultimate-saas-ts](https://github.com/gmpetrov/ultimate-saas-ts) - Template to quickstart a SAAS business
 - [theatre-js/theatre](https://github.com/theatre-js/theatre) - Motion design editor for the web
-- [statelyai/xstate](https://github.com/statelyai/xstate) - Actor-based state management & orchestration for complex app logic.
+- [statelyai/xstate](https://github.com/statelyai/xstate) - State machines, statecharts, and actors for complex logic
 - [vuejs/petite-vue](https://github.com/vuejs/petite-vue) - 6kb subset of Vue optimized for progressive enhancement
 - [wpengine/faustjs](https://github.com/wpengine/faustjs) - Faust.js™ - The Headless WordPress Toolkit
 - [kotarella1110/use-custom-compare](https://github.com/kotarella1110/use-custom-compare) - It's React's useEffect/useMemo/useCallback hooks, except using custom comparison on the inputs, not reference equality
@@ -4280,6 +4279,7 @@
 - [aam1r/sachet](https://github.com/aam1r/sachet) - Handcraft your development environment
 - [framallo/Vim-for-Rails](https://github.com/framallo/Vim-for-Rails) - This is the awesome config files to develop Ruby on Rails with vim
 - [spf13/spf13-vim](https://github.com/spf13/spf13-vim) - The ultimate vim distribution
+- [ryanb/dotfiles](https://github.com/ryanb/dotfiles) - config files for zsh, bash, completions, gem, git, irb, rails
 
 ## Vue 
 
