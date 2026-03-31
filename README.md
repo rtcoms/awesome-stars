@@ -550,7 +550,7 @@
 - [authelia/authelia](https://github.com/authelia/authelia) - The Single Sign-On Multi-Factor portal for web apps, now OpenID Certified™
 - [achannarasappa/ticker](https://github.com/achannarasappa/ticker) - Track stocks, crypto, and derivatives prices and positions in real time from your terminal
 - [asdf-vm/asdf](https://github.com/asdf-vm/asdf) - Extendable version manager with support for Ruby, Node.js, Elixir, Erlang & more
-- [nikivdev/go](https://github.com/nikivdev/go) - Go tools, libraries and other code
+- [nikivdev/go](https://github.com/nikivdev/go) - Go tools, libraries
 - [resgateio/resgate](https://github.com/resgateio/resgate) - A Realtime API Gateway used with NATS to build REST, real time, and RPC APIs, where all your clients are synchronized seamlessly.
 - [openfaas/connector-sdk](https://github.com/openfaas/connector-sdk) - SDK for connecting events to functions
 - [rudderlabs/rudder-server](https://github.com/rudderlabs/rudder-server) - Privacy and Security focused Segment-alternative, in Golang and React
@@ -643,6 +643,7 @@
 - [jadjoubran/WebFundamentals](https://github.com/jadjoubran/WebFundamentals) - Best practices for modern web development
 - [wilsonfreitas/awesome-quant](https://github.com/wilsonfreitas/awesome-quant) - A curated list of insanely awesome libraries, packages and resources for Quants (Quantitative Finance)
 - [tabler/tabler](https://github.com/tabler/tabler) - Tabler is free and open-source HTML Dashboard UI Kit built on Bootstrap
+- [zumerlab/zumly](https://github.com/zumerlab/zumly) - Zumly is a JS library for building zooming user interfaces
 - [ivankahl/drawio-notion-embed](https://github.com/ivankahl/drawio-notion-embed) - A super simple project that lets you embed draw.io diagrams directly into Notion.
 - [formio/formio](https://github.com/formio/formio) - A Form and Data Management Platform for Progressive Web Applications.
 - [CodeGuppyPrograms/TurtleGFX](https://github.com/CodeGuppyPrograms/TurtleGFX) - Turtle Graphics for p5.js / JavaScript
@@ -1058,7 +1059,6 @@
 - [richrd/heart-rate-monitor](https://github.com/richrd/heart-rate-monitor) - 💓 A web based heart rate monitor that measures pulse from the fingertip using the phone camera.
 - [PedroBern/react-tiger-transition](https://github.com/PedroBern/react-tiger-transition) - Full page transitions with react-router.
 - [yahoo/react-stickynode](https://github.com/yahoo/react-stickynode) - A performant and comprehensive React sticky component.
-- [zumerlab/zumly](https://github.com/zumerlab/zumly) - Zumly is a JS library for building zooming user interfaces
 - [mikeric/rivets](https://github.com/mikeric/rivets) - A lightweight data binding library.
 - [automerge/automerge-classic](https://github.com/automerge/automerge-classic) - A JSON-like data structure (a CRDT) that can be modified concurrently by different users, and merged again automatically.
 - [lrsjng/pagemap](https://github.com/lrsjng/pagemap) - Mini map for web pages.
@@ -1361,7 +1361,6 @@
 - [c0ncept/swipe3d-samples](https://github.com/c0ncept/swipe3d-samples) - Source code of swipe3d samples
 - [casesandberg/react-color](https://github.com/casesandberg/react-color) - :art: Color Pickers from Sketch, Photoshop, Chrome, Github, Twitter & more
 - [jgthms/marksheet](https://github.com/jgthms/marksheet) - Free tutorial to learn HTML and CSS
-- [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) -  This project is dedicated to collecting high-quality macOS software and organizing them systematically by different categories for easy search and use.
 - [jxnblk/reflexbox](https://github.com/jxnblk/reflexbox) - Moved to https://rebassjs.org
 - [mrmrs/css-system-fonts](https://github.com/mrmrs/css-system-fonts) - A css module for utilizing system fonts across platforms
 - [kylekampy/NewTabNotes](https://github.com/kylekampy/NewTabNotes) - NewTabNotes Chrome Extension
@@ -3844,6 +3843,7 @@
 - [aheze/OpenFind](https://github.com/aheze/OpenFind) - An app to find text in real life.
 - [glushchenko/fsnotes](https://github.com/glushchenko/fsnotes) - Notes manager for macOS/iOS
 - [rxhanson/Rectangle](https://github.com/rxhanson/Rectangle) - Move and resize windows on macOS with keyboard shortcuts and snap areas
+- [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) -  This project is dedicated to collecting high-quality macOS software and organizing them systematically by different categories for easy search and use.
 - [toptal/gitignore.io](https://github.com/toptal/gitignore.io) - Create useful .gitignore files for your project
 
 ## TeX 
@@ -3863,7 +3863,7 @@
 - [rakkasjs/rakkasjs](https://github.com/rakkasjs/rakkasjs) - Bleeding-edge React framework powered by Vite
 - [emilkowalski/sonner](https://github.com/emilkowalski/sonner) - An opinionated toast component for React.
 - [OvidijusParsiunas/deep-chat](https://github.com/OvidijusParsiunas/deep-chat) - Fully customizable AI chatbot component for your website
-- [penge/my-notes](https://github.com/penge/my-notes) - Simple and fast note-taking in Chrome with Google Drive support.
+- [penge/my-notes](https://github.com/penge/my-notes) - Simple and fast note-taking in Chrome. Zero setup, works offline, no account needed.
 - [get-convex/convex-demos](https://github.com/get-convex/convex-demos) - Demo apps built on Convex.
 - [honojs/vite-plugins](https://github.com/honojs/vite-plugins) - Vite Plugins for Hono
 - [a16z-infra/ai-getting-started](https://github.com/a16z-infra/ai-getting-started) - A Javascript AI getting started stack for weekend projects, including image/text models, vector stores, auth, and deployment configs
@@ -3888,7 +3888,7 @@
 - [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE) - There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and r
 - [bitmakerla/estela](https://github.com/bitmakerla/estela) - estela, an elastic web scraping cluster 🕸
 - [total-typescript/beginners-typescript-tutorial](https://github.com/total-typescript/beginners-typescript-tutorial) - An interactive TypeScript tutorial for beginners
-- [novuhq/novu](https://github.com/novuhq/novu) - The open-source notification Inbox infrastructure. E-mail, SMS, Push and Slack Integrations.
+- [novuhq/novu](https://github.com/novuhq/novu) - The open-source notification infrastructure. In-app Inbox component, E-mail, SMS, Push and Slack Integrations.
 - [felixrieseberg/slack-archive](https://github.com/felixrieseberg/slack-archive) - Generate static HTML archives of Slack workspaces
 - [sergejcodes/minze](https://github.com/sergejcodes/minze) - Dead-simple JS framework for native web components.
 - [ConsenSys-archive/ganache](https://github.com/ConsenSys-archive/ganache) - :warning: The Truffle Suite is being sunset. For information on ongoing support, migration options and FAQs, visit the Consensys blog. Thank you for all the support over the years.
@@ -3953,7 +3953,7 @@
 - [pubkey/client-side-databases](https://github.com/pubkey/client-side-databases) - An implementation of the exact same app in Firestore, AWS Datastore, PouchDB, RxDB and WatermelonDB
 - [laurent22/joplin](https://github.com/laurent22/joplin) - Joplin - the privacy-focused note taking app with sync capabilities for Windows, macOS, Linux, Android and iOS.
 - [async-labs/saas](https://github.com/async-labs/saas) - Build your own SaaS business with SaaS boilerplate. Productive stack: React, Material-UI, Next, MobX, WebSockets, Express, Node, Mongoose, MongoDB. Written with TypeScript.
-- [rowyio/rowy](https://github.com/rowyio/rowy) - Low-code backend platform. Manage database on spreadsheet-like UI and build cloud functions workflows in JS/TS, all in your browser.
+- [buildship-ai/rowy](https://github.com/buildship-ai/rowy) - Low-code backend platform. Manage database on spreadsheet-like UI and build cloud functions workflows in JS/TS, all in your browser.
 - [cypress-io/cypress](https://github.com/cypress-io/cypress) - Fast, easy and reliable testing for anything that runs in a browser.
 - [QwikDev/partytown](https://github.com/QwikDev/partytown) - Relocate resource intensive third-party scripts off of the main thread and into a web worker. 🎉
 - [crimx/observable-hooks](https://github.com/crimx/observable-hooks) - ⚛️☯️💪 React hooks for RxJS Observables. Concurrent mode safe.
