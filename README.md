@@ -643,7 +643,6 @@
 - [jadjoubran/WebFundamentals](https://github.com/jadjoubran/WebFundamentals) - Best practices for modern web development
 - [wilsonfreitas/awesome-quant](https://github.com/wilsonfreitas/awesome-quant) - A curated list of insanely awesome libraries, packages and resources for Quants (Quantitative Finance)
 - [tabler/tabler](https://github.com/tabler/tabler) - Tabler is free and open-source HTML Dashboard UI Kit built on Bootstrap
-- [zumerlab/zumly](https://github.com/zumerlab/zumly) - Zumly is a JS library for building zooming user interfaces
 - [ivankahl/drawio-notion-embed](https://github.com/ivankahl/drawio-notion-embed) - A super simple project that lets you embed draw.io diagrams directly into Notion.
 - [formio/formio](https://github.com/formio/formio) - A Form and Data Management Platform for Progressive Web Applications.
 - [CodeGuppyPrograms/TurtleGFX](https://github.com/CodeGuppyPrograms/TurtleGFX) - Turtle Graphics for p5.js / JavaScript
@@ -1059,6 +1058,7 @@
 - [richrd/heart-rate-monitor](https://github.com/richrd/heart-rate-monitor) - 💓 A web based heart rate monitor that measures pulse from the fingertip using the phone camera.
 - [PedroBern/react-tiger-transition](https://github.com/PedroBern/react-tiger-transition) - Full page transitions with react-router.
 - [yahoo/react-stickynode](https://github.com/yahoo/react-stickynode) - A performant and comprehensive React sticky component.
+- [zumerlab/zumly](https://github.com/zumerlab/zumly) - Zoom-based navigation for the web. Turn any site into a spatial zoom interface with just HTML
 - [mikeric/rivets](https://github.com/mikeric/rivets) - A lightweight data binding library.
 - [automerge/automerge-classic](https://github.com/automerge/automerge-classic) - A JSON-like data structure (a CRDT) that can be modified concurrently by different users, and merged again automatically.
 - [lrsjng/pagemap](https://github.com/lrsjng/pagemap) - Mini map for web pages.
@@ -3920,7 +3920,7 @@
 - [typestyle/typestyle](https://github.com/typestyle/typestyle) - Making CSS Typesafe 🌹
 - [appwrite/appwrite](https://github.com/appwrite/appwrite) - Appwrite® - complete cloud infrastructure for your web, mobile and AI apps. Including Auth, Databases, Storage, Functions, Messaging, Hosting, Realtime and more
 - [toomuchdesign/re-reselect](https://github.com/toomuchdesign/re-reselect) - Enhance Reselect selectors with deeper memoization and cache management.
-- [Budibase/budibase](https://github.com/Budibase/budibase) - AI agents that run your operations. Model agnostic.
+- [Budibase/budibase](https://github.com/Budibase/budibase) - AI agents, automations and apps that run your operations. Model agnostic.
 - [Diablow/zustand-store-addons](https://github.com/Diablow/zustand-store-addons) - React state management addons for zustand.
 - [nodegui/svelte-nodegui](https://github.com/nodegui/svelte-nodegui) - Build performant, native and cross-platform desktop applications with native Svelte + powerful CSS-like styling.🚀
 - [HorusGoul/remix-react-native-web-starter](https://github.com/HorusGoul/remix-react-native-web-starter) - An easy to use Remix + React Native Web starter
