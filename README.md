@@ -868,7 +868,6 @@
 - [iluwatar/java-design-patterns](https://github.com/iluwatar/java-design-patterns) - Design patterns implemented in Java
 - [hidroh/materialistic](https://github.com/hidroh/materialistic) - A material-design Hacker News Android reader
 - [julian-klode/dns66](https://github.com/julian-klode/dns66) - DNS-based Host Blocker (and lightweight ad blocker) for Android
-- [dmitrymalk/material-design-dimens](https://github.com/dmitrymalk/material-design-dimens) - Default colors and dimens per Material Design guidelines and Android Design guidelines inside one library.
 - [Nightonke/GithubWidget](https://github.com/Nightonke/GithubWidget) - Contributions, stars, followers, trending etc. on Github.
 - [FWGS/xash3d-android-project](https://github.com/FWGS/xash3d-android-project) - Xash3D Android Project for NDK.
 - [google/physical-web](https://github.com/google/physical-web) - The Physical Web: walk up and use anything
