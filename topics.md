@@ -1572,7 +1572,7 @@
 - [fastapi/full-stack-fastapi-template](https://github.com/fastapi/full-stack-fastapi-template) - Full stack, modern web application template. Using FastAPI, React, SQLModel, PostgreSQL, Docker, GitHub Actions, automatic HTTPS and more.
 - [exoframejs/exoframe](https://github.com/exoframejs/exoframe) - Exoframe is a self-hosted tool that allows simple one-command deployments using Docker
 - [caprover/caprover](https://github.com/caprover/caprover) - Scalable PaaS (automated Docker+nginx) - aka Heroku on Steroids
-- [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) - ToolJet is the open-source foundation of ToolJet AI - the AI-native platform for building internal tools, dashboard, business applications, workflows and AI agents 🚀
+- [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) - ToolJet is the open-source foundation of ToolJet AI - the enterprise app generation platform for building internal tools, dashboard, business applications, workflows and AI agents 🚀
 - [akoidan/pychat](https://github.com/akoidan/pychat) - webchat via WebSockets/WebRTC that allows messaging/video call/screen sharing
 - [nickjj/docker-rails-example](https://github.com/nickjj/docker-rails-example) - A production ready example Rails app that's using Docker and Docker Compose.
 - [h2non/imaginary](https://github.com/h2non/imaginary) - Fast, simple, scalable, Docker-ready HTTP microservice for high-level image processing
@@ -2186,7 +2186,7 @@
 - [noisetorch/NoiseTorch](https://github.com/noisetorch/NoiseTorch) - Real-time microphone noise suppression on Linux.
 - [ruby/reline](https://github.com/ruby/reline) - The compatible library with the API of Ruby's stdlib 'readline'
 - [scenic-views/scenic](https://github.com/scenic-views/scenic) - Versioned database views for Rails
-- [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) - ToolJet is the open-source foundation of ToolJet AI - the AI-native platform for building internal tools, dashboard, business applications, workflows and AI agents 🚀
+- [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) - ToolJet is the open-source foundation of ToolJet AI - the enterprise app generation platform for building internal tools, dashboard, business applications, workflows and AI agents 🚀
 - [bennycode/trading-signals](https://github.com/bennycode/trading-signals) - Technical indicators to run technical analysis with JavaScript & TypeScript. 📈
 - [railsbump/app](https://github.com/railsbump/app) - Check which gems are compatible with which Rails version!
 - [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 A Free & Self-hostable Airtable Alternative
@@ -2592,7 +2592,7 @@
 - [kevinschaich/mintable](https://github.com/kevinschaich/mintable) - 🍃 Automate your personal finances – for free, with no ads, and no data collection.
 - [apostrophecms/apostrophe](https://github.com/apostrophecms/apostrophe) - A full-featured, open-source content management framework built with Node.js that empowers organizations by combining in-context editing and headless architecture in a full-stack JS environment.
 - [epicmaxco/vuestic-ui](https://github.com/epicmaxco/vuestic-ui) - Vuestic UI is an open-source Vue 3 component library designed for rapid development, easy maintenance, and high accessibility. Maintained by Epicmax (@epicmaxco).
-- [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) - ToolJet is the open-source foundation of ToolJet AI - the AI-native platform for building internal tools, dashboard, business applications, workflows and AI agents 🚀
+- [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) - ToolJet is the open-source foundation of ToolJet AI - the enterprise app generation platform for building internal tools, dashboard, business applications, workflows and AI agents 🚀
 - [goldbergyoni/javascript-testing-best-practices](https://github.com/goldbergyoni/javascript-testing-best-practices) - 📗🌐 🚢 Comprehensive and exhaustive JavaScript & Node.js testing best practices (August 2025)
 - [Milkdown/milkdown](https://github.com/Milkdown/milkdown) - 🍼 Plugin driven WYSIWYG  markdown editor framework.
 - [expo/expo](https://github.com/expo/expo) - An open-source framework for making universal native apps with React. Expo runs on Android, iOS, and the web.
@@ -3091,7 +3091,7 @@
 - [MichaelCade/90DaysOfDevOps](https://github.com/MichaelCade/90DaysOfDevOps) - This repository started out as a learning in public project for myself and has now become a structured learning map for many in the community. We have 3 years under our belt covering all things DevOps
 - [vitobotta/hetzner-k3s](https://github.com/vitobotta/hetzner-k3s) - The easiest and fastest way to create production-ready Kubernetes clusters on Hetzner Cloud
 - [nemonik/hands-on-DevOps](https://github.com/nemonik/hands-on-DevOps) - A hands-on DevOps course covering the culture, methods and repeated practices of modern software development involving Packer, Vagrant, VirtualBox, Ansible, Kubernetes, K3s, MetalLB, Traefik, Docker-C
-- [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) - ToolJet is the open-source foundation of ToolJet AI - the AI-native platform for building internal tools, dashboard, business applications, workflows and AI agents 🚀
+- [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) - ToolJet is the open-source foundation of ToolJet AI - the enterprise app generation platform for building internal tools, dashboard, business applications, workflows and AI agents 🚀
 - [authelia/authelia](https://github.com/authelia/authelia) - The Single Sign-On Multi-Factor portal for web apps, now OpenID Certified™
 - [pulumi/pulumi](https://github.com/pulumi/pulumi) - Pulumi - Infrastructure as Code in any programming language 🚀
 - [dokku/dokku](https://github.com/dokku/dokku) - A docker-powered PaaS that helps you build and manage the lifecycle of applications
@@ -3212,7 +3212,7 @@
 - [motor-admin/motor-admin-rails](https://github.com/motor-admin/motor-admin-rails) - Low-code Admin panel and Business intelligence Rails engine. No DSL - configurable from the UI. Rails Admin, Active Admin, Blazer modern alternative.
 - [refinedev/refine](https://github.com/refinedev/refine) - A React Framework for building  internal tools, admin panels, dashboards & B2B apps with unmatched flexibility.
 - [buildship-ai/rowy](https://github.com/buildship-ai/rowy) - Low-code backend platform. Manage database on spreadsheet-like UI and build cloud functions workflows in JS/TS, all in your browser.
-- [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) - ToolJet is the open-source foundation of ToolJet AI - the AI-native platform for building internal tools, dashboard, business applications, workflows and AI agents 🚀
+- [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) - ToolJet is the open-source foundation of ToolJet AI - the enterprise app generation platform for building internal tools, dashboard, business applications, workflows and AI agents 🚀
 - [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 A Free & Self-hostable Airtable Alternative
 - [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Platform to build admin panels, internal tools, and dashboards. Integrates with 25+ databases and any API.
 - [clientIO/joint](https://github.com/clientIO/joint) - A proven SVG-based JavaScript diagramming library powering exceptional UIs
@@ -3526,7 +3526,7 @@
 - [motor-admin/motor-admin](https://github.com/motor-admin/motor-admin) - Deploy a no-code admin panel for any application in less than a minute. Search, create, update, and delete data entries, create custom actions, and build reports.
 - [buildship-ai/rowy](https://github.com/buildship-ai/rowy) - Low-code backend platform. Manage database on spreadsheet-like UI and build cloud functions workflows in JS/TS, all in your browser.
 - [actuallyakash/spacers](https://github.com/actuallyakash/spacers) - 🔳 when you need more __space__. Quick margin/padding for your no-code tools.
-- [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) - ToolJet is the open-source foundation of ToolJet AI - the AI-native platform for building internal tools, dashboard, business applications, workflows and AI agents 🚀
+- [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) - ToolJet is the open-source foundation of ToolJet AI - the enterprise app generation platform for building internal tools, dashboard, business applications, workflows and AI agents 🚀
 - [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 A Free & Self-hostable Airtable Alternative
 - [strapi/strapi](https://github.com/strapi/strapi) - 🚀 Strapi is the leading open-source headless CMS. It’s 100% JavaScript/TypeScript, fully customizable, and developer-first.
 - [GrapesJS/grapesjs](https://github.com/GrapesJS/grapesjs) - Free and Open source Web Builder Framework. Next generation tool for building templates without coding
@@ -3580,7 +3580,7 @@
 - [exoframejs/exoframe](https://github.com/exoframejs/exoframe) - Exoframe is a self-hosted tool that allows simple one-command deployments using Docker
 - [caprover/caprover](https://github.com/caprover/caprover) - Scalable PaaS (automated Docker+nginx) - aka Heroku on Steroids
 - [engineer-man/piston](https://github.com/engineer-man/piston) - A high performance general purpose code execution engine.
-- [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) - ToolJet is the open-source foundation of ToolJet AI - the AI-native platform for building internal tools, dashboard, business applications, workflows and AI agents 🚀
+- [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) - ToolJet is the open-source foundation of ToolJet AI - the enterprise app generation platform for building internal tools, dashboard, business applications, workflows and AI agents 🚀
 - [goldbergyoni/javascript-testing-best-practices](https://github.com/goldbergyoni/javascript-testing-best-practices) - 📗🌐 🚢 Comprehensive and exhaustive JavaScript & Node.js testing best practices (August 2025)
 - [avajs/ava](https://github.com/avajs/ava) - Node.js test runner that lets you develop with confidence 🚀
 - [marko-js/marko](https://github.com/marko-js/marko) - A declarative, HTML-based language that makes building web apps fun
@@ -6853,7 +6853,7 @@
 - [juliencrn/usehooks-ts](https://github.com/juliencrn/usehooks-ts) - React hook library, ready to use, written in Typescript.
 - [Swizec/useAuth](https://github.com/Swizec/useAuth) - The simplest way to add authentication to your React app. Supports various providers.
 - [dai-shi/reactive-react-redux](https://github.com/dai-shi/reactive-react-redux) - [NOT MAINTAINED] React Redux binding with React Hooks and Proxy
-- [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) - ToolJet is the open-source foundation of ToolJet AI - the AI-native platform for building internal tools, dashboard, business applications, workflows and AI agents 🚀
+- [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) - ToolJet is the open-source foundation of ToolJet AI - the enterprise app generation platform for building internal tools, dashboard, business applications, workflows and AI agents 🚀
 - [lostpebble/pullstate](https://github.com/lostpebble/pullstate) - Simple state stores using immer and React hooks - re-use parts of your state by pulling it anywhere you like!
 - [atlassian/react-sweet-state](https://github.com/atlassian/react-sweet-state) - Shared state management solution for React
 - [creativetimofficial/material-tailwind](https://github.com/creativetimofficial/material-tailwind) - @material-tailwind is an easy-to-use components library for Tailwind CSS and Material Design.
@@ -7315,7 +7315,7 @@
 - [knadh/listmonk](https://github.com/knadh/listmonk) - High performance, self-hosted, newsletter and mailing list manager with a modern dashboard. Single binary app.
 - [exoframejs/exoframe](https://github.com/exoframejs/exoframe) - Exoframe is a self-hosted tool that allows simple one-command deployments using Docker
 - [swarmlet/swarmlet](https://github.com/swarmlet/swarmlet) - A self-hosted, open-source Platform as a Service that enables easy swarm deployments, load balancing, automatic SSL, metrics, analytics and more.
-- [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) - ToolJet is the open-source foundation of ToolJet AI - the AI-native platform for building internal tools, dashboard, business applications, workflows and AI agents 🚀
+- [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) - ToolJet is the open-source foundation of ToolJet AI - the enterprise app generation platform for building internal tools, dashboard, business applications, workflows and AI agents 🚀
 - [sharat87/prestige](https://github.com/sharat87/prestige) - A text-based HTTP client in the browser. An interface-less Postman.
 - [TriliumNext/Trilium](https://github.com/TriliumNext/Trilium) - Build your personal knowledge base with Trilium Notes
 - [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Platform to build admin panels, internal tools, and dashboards. Integrates with 25+ databases and any API.
@@ -7716,7 +7716,7 @@
 - [adelsz/pgtyped](https://github.com/adelsz/pgtyped) - pgTyped - Typesafe SQL in TypeScript
 - [Ff00ff/mammoth](https://github.com/Ff00ff/mammoth) - A type-safe Postgres query builder for TypeScript.
 - [epicmaxco/vuestic-ui](https://github.com/epicmaxco/vuestic-ui) - Vuestic UI is an open-source Vue 3 component library designed for rapid development, easy maintenance, and high accessibility. Maintained by Epicmax (@epicmaxco).
-- [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) - ToolJet is the open-source foundation of ToolJet AI - the AI-native platform for building internal tools, dashboard, business applications, workflows and AI agents 🚀
+- [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) - ToolJet is the open-source foundation of ToolJet AI - the enterprise app generation platform for building internal tools, dashboard, business applications, workflows and AI agents 🚀
 - [Milkdown/milkdown](https://github.com/Milkdown/milkdown) - 🍼 Plugin driven WYSIWYG  markdown editor framework.
 - [expo/expo](https://github.com/expo/expo) - An open-source framework for making universal native apps with React. Expo runs on Android, iOS, and the web.
 - [akoidan/pychat](https://github.com/akoidan/pychat) - webchat via WebSockets/WebRTC that allows messaging/video call/screen sharing
