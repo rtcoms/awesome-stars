@@ -361,7 +361,7 @@
 - [ace-subido/css3-microsoft-metro-buttons](https://github.com/ace-subido/css3-microsoft-metro-buttons) - my CSS3 library for making Microsoft-metro themed buttons
 - [sehmaschine/mueller](https://github.com/sehmaschine/mueller) - MUELLER is a modular grid system for responsive/adaptive and non-responsive layouts, based on Compass.
 - [joshuagatcke/HTML-KickStart](https://github.com/joshuagatcke/HTML-KickStart) - Ultra–Lean HTML Building Blocks for Rapid Website Production
-- [ubuwaits/beautiful-web-type](https://github.com/ubuwaits/beautiful-web-type) - In-depth guide to the best open-source typefaces: https://beautifulwebtype.com
+- [ubuwaits/beautiful-web-type](https://github.com/ubuwaits/beautiful-web-type) - In-depth guide to the best open-source typefaces: https://www.beautifulwebtype.com
 - [animate-css/animate.css](https://github.com/animate-css/animate.css) - 🍿 A cross-browser library of CSS animations. As easy to use as an easy thing.
 - [scottparry/Workless](https://github.com/scottparry/Workless) - Workless is a CSS base framework to get your projects up and running as quickly as possible.
 - [jlong/sass-bootstrap-defunct](https://github.com/jlong/sass-bootstrap-defunct) - This project has been superceeded by an official Bootstrap Sass port. Please use:
