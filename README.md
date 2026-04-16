@@ -1412,7 +1412,7 @@
 - [shekhargulati/52-technologies-in-2016](https://github.com/shekhargulati/52-technologies-in-2016) - Let's learn a new technology every week. A new technology blog every Sunday in 2016.
 - [watson-developer-cloud/speech-to-text-nodejs](https://github.com/watson-developer-cloud/speech-to-text-nodejs) - :microphone: Sample Node.js Application for the IBM Watson Speech to Text Service
 - [ritz078/embed-js](https://github.com/ritz078/embed-js) - 🌻  A lightweight plugin to embed emojis, media, maps, tweets, code and more. ✨
-- [nonwip/vidage](https://github.com/nonwip/vidage) - Your solution to full-screen background video & image combined.
+- [nnx0r/vidage](https://github.com/nnx0r/vidage) - Your solution to full-screen background video & image combined.
 - [julkue/mark.js](https://github.com/julkue/mark.js) - JavaScript keyword highlighting. Mark text with options that fit every application. Also available as jQuery plugin.
 - [segmentio/daydream](https://github.com/segmentio/daydream) - A chrome extension to record your actions into a nightmare or puppeteer script
 - [AlloyTeam/AlloyFinger](https://github.com/AlloyTeam/AlloyFinger) - Super tiny size multi-touch gestures library for the web. 　　　You can touch this →
