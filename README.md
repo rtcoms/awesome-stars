@@ -268,7 +268,7 @@
 - [pixelsign/html5-device-mockups](https://github.com/pixelsign/html5-device-mockups) - HTML5 mockups of popular devices, to showcase your portfolio and spice up your website.
 - [AndersSchmidtHansen/Kaidan](https://github.com/AndersSchmidtHansen/Kaidan) - My Toolkit for Ghost Theme Development. Craft your Ghost themes with flexibility of Sass and the expressiveness of CoffeeScript.  Live reloads across multiple devices and browsers thanks to BrowserSyn
 - [erikflowers/weather-icons](https://github.com/erikflowers/weather-icons) - 215 Weather Themed Icons and CSS
-- [vorillaz/devicons](https://github.com/vorillaz/devicons) - Devicons - An iconic font made for developers
+- [vorillaz/devicons](https://github.com/vorillaz/devicons) - devicons - Crisp and clear logos & icons for developers.
 - [sixrevisions/browser-detect-javascript](https://github.com/sixrevisions/browser-detect-javascript) - Techniques for getting browser and operating system information using JavaScript.
 - [lvwzhen/iconpark](https://github.com/lvwzhen/iconpark) - Collection of iconfonts
 - [challengepost/hackstart](https://github.com/challengepost/hackstart) - Resources for Hackers.
@@ -444,6 +444,7 @@
 ## Dart 
 
 - [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) - Bring projects, wikis, and teams together with AI. AppFlowy is the AI collaborative workspace where you achieve more without losing control of your data. The leading open source Notion alternative.
+- [jonataslaw/getx](https://github.com/jonataslaw/getx) - Open screens/snackbars/dialogs/bottomSheets without context, manage states and inject dependencies easily with Get.
 
 ## Dockerfile 
 
