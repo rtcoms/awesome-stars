@@ -268,7 +268,6 @@
 - [pixelsign/html5-device-mockups](https://github.com/pixelsign/html5-device-mockups) - HTML5 mockups of popular devices, to showcase your portfolio and spice up your website.
 - [AndersSchmidtHansen/Kaidan](https://github.com/AndersSchmidtHansen/Kaidan) - My Toolkit for Ghost Theme Development. Craft your Ghost themes with flexibility of Sass and the expressiveness of CoffeeScript.  Live reloads across multiple devices and browsers thanks to BrowserSyn
 - [erikflowers/weather-icons](https://github.com/erikflowers/weather-icons) - 215 Weather Themed Icons and CSS
-- [vorillaz/devicons](https://github.com/vorillaz/devicons) - devicons - Crisp and clear logos & icons for developers.
 - [sixrevisions/browser-detect-javascript](https://github.com/sixrevisions/browser-detect-javascript) - Techniques for getting browser and operating system information using JavaScript.
 - [lvwzhen/iconpark](https://github.com/lvwzhen/iconpark) - Collection of iconfonts
 - [challengepost/hackstart](https://github.com/challengepost/hackstart) - Resources for Hackers.
@@ -2344,6 +2343,7 @@
 - [uidotdev/usehooks](https://github.com/uidotdev/usehooks) - A collection of modern, server-safe React hooks – from the ui.dev team
 - [wix/react-native-navigation](https://github.com/wix/react-native-navigation) - A complete native navigation solution for React Native
 - [react-native-elements/react-native-elements](https://github.com/react-native-elements/react-native-elements) - Cross-Platform React Native UI Toolkit
+- [vorillaz/devicons](https://github.com/vorillaz/devicons) - devicons - Crisp and clear logos & icons for developers.
 - [twbs/bootstrap](https://github.com/twbs/bootstrap) - The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.
 
 ## Makefile 
@@ -3014,7 +3014,7 @@
 - [github/secure_headers](https://github.com/github/secure_headers) - Manages application of security headers with many safe defaults
 - [heartcombo/mail_form](https://github.com/heartcombo/mail_form) - Send e-mail straight from forms in Rails with I18n, validations, attachments and request information.
 - [socketry/async](https://github.com/socketry/async) - An awesome asynchronous event-driven reactor for Ruby.
-- [shakacode/react_on_rails_demo_ssr_hmr](https://github.com/shakacode/react_on_rails_demo_ssr_hmr) - react_on_rails tutorial demonstrating SSR, HMR fast refresh, and Typescript based on the rails/webpacker webpack setup
+- [shakacode/react-on-rails-demo-ssr-hmr](https://github.com/shakacode/react-on-rails-demo-ssr-hmr) - react_on_rails tutorial demonstrating SSR, HMR fast refresh, and Typescript based on the rails/webpacker webpack setup
 - [kumar91gopi/Algorithms-and-Data-Structures-in-Ruby](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby) - Ruby implementation of Algorithms,Data-structures and programming challenges
 - [castwide/solargraph](https://github.com/castwide/solargraph) - A Ruby language server.
 - [wanelo/counter-cache](https://github.com/wanelo/counter-cache) - Counting at scale is hard. Let's do it good.
