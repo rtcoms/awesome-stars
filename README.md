@@ -1517,7 +1517,7 @@
 - [substance/substance](https://github.com/substance/substance) - A JavaScript library for web-based content editing.
 - [ritzyed/ritzy](https://github.com/ritzyed/ritzy) - Collaborative web-based rich text editor
 - [vivin/regula](https://github.com/vivin/regula) - Regula: An annotation-based form-validation framework in Javascript
-- [shakacode/react-webpack-rails-tutorial](https://github.com/shakacode/react-webpack-rails-tutorial) - Example of integration of Rails, react, redux, using the react_on_rails gem, webpack, enabling the es7 and jsx transpilers, and node integration. And React Native! Live Demo:
+- [shakacode/react-webpack-rails-tutorial](https://github.com/shakacode/react-webpack-rails-tutorial) - Legacy full-app React on Rails tutorial repo and live demo. See reactonrails.com/examples for current maintained demos.
 - [kelvinr/React-Todo](https://github.com/kelvinr/React-Todo) - Rails Todo with a modern twist, React/Redux
 - [lukejacksonn/Actuate](https://github.com/lukejacksonn/Actuate) - One line easy actuation of CSS animation sequences
 - [mike-zarandona/StickyStack.js](https://github.com/mike-zarandona/StickyStack.js) - A jQuery plugin that creates a stacking effect by sticking panels as they reach the top of the viewport.
@@ -3014,7 +3014,7 @@
 - [github/secure_headers](https://github.com/github/secure_headers) - Manages application of security headers with many safe defaults
 - [heartcombo/mail_form](https://github.com/heartcombo/mail_form) - Send e-mail straight from forms in Rails with I18n, validations, attachments and request information.
 - [socketry/async](https://github.com/socketry/async) - An awesome asynchronous event-driven reactor for Ruby.
-- [shakacode/react-on-rails-demo-ssr-hmr](https://github.com/shakacode/react-on-rails-demo-ssr-hmr) - react_on_rails tutorial demonstrating SSR, HMR fast refresh, and Typescript based on the rails/webpacker webpack setup
+- [shakacode/react-on-rails-demo-ssr-hmr](https://github.com/shakacode/react-on-rails-demo-ssr-hmr) - Reference tutorial app for React on Rails with SSR, Fast Refresh HMR, and Shakapacker/Webpack.
 - [kumar91gopi/Algorithms-and-Data-Structures-in-Ruby](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby) - Ruby implementation of Algorithms,Data-structures and programming challenges
 - [castwide/solargraph](https://github.com/castwide/solargraph) - A Ruby language server.
 - [wanelo/counter-cache](https://github.com/wanelo/counter-cache) - Counting at scale is hard. Let's do it good.
@@ -3688,7 +3688,7 @@
 - [parseablehq/parseable](https://github.com/parseablehq/parseable) - Parseable is an observability datalake built from first principles.
 - [surrealdb/surrealdb](https://github.com/surrealdb/surrealdb) - A scalable, distributed, collaborative, document-graph database, for the realtime web
 - [pgcentralfoundation/pgrx](https://github.com/pgcentralfoundation/pgrx) - Build Postgres Extensions with Rust!
-- [trane-project/trane](https://github.com/trane-project/trane) - An automated practice system for mastering complex skills
+- [trane-project/trane](https://github.com/trane-project/trane) - A deliberate practice engine for mastering complex skills
 - [Wilfred/difftastic](https://github.com/Wilfred/difftastic) - a structural diff that understands syntax 🟥🟩
 - [portier/portier-broker](https://github.com/portier/portier-broker) - Portier Broker reference implementation, written in Rust
 - [mgdm/htmlq](https://github.com/mgdm/htmlq) - Like jq, but for HTML.
