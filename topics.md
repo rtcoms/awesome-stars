@@ -3800,7 +3800,7 @@
 - [afontcu/awesome-learning](https://github.com/afontcu/awesome-learning) - A curated list of awesome learning material
 - [trailblazer/reform-rails](https://github.com/trailblazer/reform-rails) - Automatically load and include all common Rails form features.
 - [codrops/CoverPageTransition](https://github.com/codrops/CoverPageTransition) - A cover page transition based on Vitalii Burhonskyi's Dribbble shot.
-- [trane-project/trane](https://github.com/trane-project/trane) - An automated practice system for mastering complex skills
+- [trane-project/trane](https://github.com/trane-project/trane) - A deliberate practice engine for mastering complex skills
 - [railsjazz/mega_scaffold](https://github.com/railsjazz/mega_scaffold) - MEGA fast solution how to add CRUD functionality for your Rails models
 - [benpickles/screamshot](https://github.com/benpickles/screamshot) - 😱 A synchronous HTTP screenshot service for headless Chrome
 - [igorkasyanchuk/rails_db](https://github.com/igorkasyanchuk/rails_db) - Rails Database Viewer and SQL Query Runner
@@ -6386,7 +6386,7 @@
 - [elastic/elasticsearch-rails](https://github.com/elastic/elasticsearch-rails) - Elasticsearch integrations for ActiveModel/Record and Ruby on Rails
 - [public-law/asset_ram](https://github.com/public-law/asset_ram) - Reduce Rails allocations by 35%+ and gain a speed boost. Memoizes asset links.
 - [JackHowa/react-actioncable-provider](https://github.com/JackHowa/react-actioncable-provider) - Connect React and Action Cable, with React 16 support
-- [shakacode/react-on-rails-demo-ssr-hmr](https://github.com/shakacode/react-on-rails-demo-ssr-hmr) - react_on_rails tutorial demonstrating SSR, HMR fast refresh, and Typescript based on the rails/webpacker webpack setup
+- [shakacode/react-on-rails-demo-ssr-hmr](https://github.com/shakacode/react-on-rails-demo-ssr-hmr) - Reference tutorial app for React on Rails with SSR, Fast Refresh HMR, and Shakapacker/Webpack.
 - [avmnu-sng/rspec-tracer](https://github.com/avmnu-sng/rspec-tracer) - RSpec Tracer is a specs dependency analyzer, flaky tests detector, tests accelerator, and coverage reporter tool.
 - [x-govuk/govuk-components](https://github.com/x-govuk/govuk-components) - Lightweight Ruby on Rails components for developing with the GOV.UK Design System.
 - [richpeck/exception_handler](https://github.com/richpeck/exception_handler) - Ruby on Rails Custom Error Pages
@@ -6442,6 +6442,7 @@
 - [dtaniwaki/rack-dev-mark](https://github.com/dtaniwaki/rack-dev-mark) - Show dev mark on development env
 - [biglovisa/creact](https://github.com/biglovisa/creact) - crud in Rails and React | Tutorial
 - [remi/her](https://github.com/remi/her) - Her is an ORM (Object Relational Mapper) that maps REST resources to Ruby objects. It is designed to build applications that are powered by a RESTful API instead of a database.
+- [shakacode/react-webpack-rails-tutorial](https://github.com/shakacode/react-webpack-rails-tutorial) - Legacy full-app React on Rails tutorial repo and live demo. See reactonrails.com/examples for current maintained demos.
 - [RailsEventStore/rails_event_store](https://github.com/RailsEventStore/rails_event_store) - A Ruby implementation of an Event Store based on Active Record
 - [SpinaCMS/Spina](https://github.com/SpinaCMS/Spina) - Spina CMS
 - [glebm/rails_email_preview](https://github.com/glebm/rails_email_preview) - Preview and edit app mailer templates in Rails.
@@ -6561,7 +6562,7 @@
 - [laststance/use-app-state](https://github.com/laststance/use-app-state) - 🌏 useAppState() hook. that global version of setState() built on Context.
 - [vercel/swr](https://github.com/vercel/swr) - React Hooks for Data Fetching
 - [JackHowa/react-actioncable-provider](https://github.com/JackHowa/react-actioncable-provider) - Connect React and Action Cable, with React 16 support
-- [shakacode/react-on-rails-demo-ssr-hmr](https://github.com/shakacode/react-on-rails-demo-ssr-hmr) - react_on_rails tutorial demonstrating SSR, HMR fast refresh, and Typescript based on the rails/webpacker webpack setup
+- [shakacode/react-on-rails-demo-ssr-hmr](https://github.com/shakacode/react-on-rails-demo-ssr-hmr) - Reference tutorial app for React on Rails with SSR, Fast Refresh HMR, and Shakapacker/Webpack.
 - [wpengine/faustjs](https://github.com/wpengine/faustjs) - Faust.js™ - The Headless WordPress Toolkit
 - [kotarella1110/use-custom-compare](https://github.com/kotarella1110/use-custom-compare) - It's React's useEffect/useMemo/useCallback hooks, except using custom comparison on the inputs, not reference equality
 - [juliencrn/usehooks-ts](https://github.com/juliencrn/usehooks-ts) - React hook library, ready to use, written in Typescript.
@@ -6775,7 +6776,7 @@
 - [biglovisa/creact](https://github.com/biglovisa/creact) - crud in Rails and React | Tutorial
 - [tylermcginnis/re-base](https://github.com/tylermcginnis/re-base) - :fire: A Relay inspired library for building React.js + Firebase applications. :fire:
 - [benoitvallon/react-native-nw-react-calculator](https://github.com/benoitvallon/react-native-nw-react-calculator) - Mobile, desktop and website Apps with the same code
-- [shakacode/react-webpack-rails-tutorial](https://github.com/shakacode/react-webpack-rails-tutorial) - Example of integration of Rails, react, redux, using the react_on_rails gem, webpack, enabling the es7 and jsx transpilers, and node integration. And React Native! Live Demo:
+- [shakacode/react-webpack-rails-tutorial](https://github.com/shakacode/react-webpack-rails-tutorial) - Legacy full-app React on Rails tutorial repo and live demo. See reactonrails.com/examples for current maintained demos.
 - [FormidableLabs/spectacle](https://github.com/FormidableLabs/spectacle) - A React-based library for creating sleek presentations using JSX syntax that gives you the ability to live demo your code.
 - [jsxstyle/jsxstyle](https://github.com/jsxstyle/jsxstyle) - Inline style system for JSX
 - [mui/material-ui](https://github.com/mui/material-ui) - Material UI: Comprehensive React component library that implements Google's Material Design. Free forever.
@@ -6851,7 +6852,6 @@
 - [imbhargav5/rooks](https://github.com/imbhargav5/rooks) - Over 650k monthly downloads. Collection of awesome react hooks
 - [dai-shi/use-reducer-async](https://github.com/dai-shi/use-reducer-async) - React useReducer with async actions
 - [mithi/react-philosophies](https://github.com/mithi/react-philosophies) - 🧘  Things I think about when I write React code 🧘
-- [shakacode/react-on-rails-demo-ssr-hmr](https://github.com/shakacode/react-on-rails-demo-ssr-hmr) - react_on_rails tutorial demonstrating SSR, HMR fast refresh, and Typescript based on the rails/webpacker webpack setup
 - [juliencrn/usehooks-ts](https://github.com/juliencrn/usehooks-ts) - React hook library, ready to use, written in Typescript.
 - [Swizec/useAuth](https://github.com/Swizec/useAuth) - The simplest way to add authentication to your React app. Supports various providers.
 - [dai-shi/reactive-react-redux](https://github.com/dai-shi/reactive-react-redux) - [NOT MAINTAINED] React Redux binding with React Hooks and Proxy
@@ -7045,7 +7045,6 @@
 - [public-law/asset_ram](https://github.com/public-law/asset_ram) - Reduce Rails allocations by 35%+ and gain a speed boost. Memoizes asset links.
 - [github/secure_headers](https://github.com/github/secure_headers) - Manages application of security headers with many safe defaults
 - [socketry/async](https://github.com/socketry/async) - An awesome asynchronous event-driven reactor for Ruby.
-- [shakacode/react-on-rails-demo-ssr-hmr](https://github.com/shakacode/react-on-rails-demo-ssr-hmr) - react_on_rails tutorial demonstrating SSR, HMR fast refresh, and Typescript based on the rails/webpacker webpack setup
 - [castwide/solargraph](https://github.com/castwide/solargraph) - A Ruby language server.
 - [karafka/sidekiq-backend](https://github.com/karafka/sidekiq-backend) - [Unmaintained] Karafka Sidekiq backend for background messages processing
 - [EthWorks/ethereum.rb](https://github.com/EthWorks/ethereum.rb) - Ethereum library for the Ruby language
@@ -8092,7 +8091,6 @@
 - [thoughtbot/superglue](https://github.com/thoughtbot/superglue) - A productive library for Classic Rails, React and Redux
 - [justalever/kickoff_tailwind](https://github.com/justalever/kickoff_tailwind) - A rapid Rails 7 application template for personal use bundled with Tailwind CSS
 - [themesberg/flowbite](https://github.com/themesberg/flowbite) - Open-source UI component library and front-end development framework based on Tailwind CSS
-- [shakacode/react-on-rails-demo-ssr-hmr](https://github.com/shakacode/react-on-rails-demo-ssr-hmr) - react_on_rails tutorial demonstrating SSR, HMR fast refresh, and Typescript based on the rails/webpacker webpack setup
 - [aeksco/react-typescript-web-extension-starter](https://github.com/aeksco/react-typescript-web-extension-starter) - :desktop_computer: Web Extension starter kit built with React, TypeScript, TailwindCSS, Storybook, Jest, EsLint, Prettier, and Webpack. Supports Google Chrome + Mozilla Firefox + Brave Browser + Micro
 - [akoidan/pychat](https://github.com/akoidan/pychat) - webchat via WebSockets/WebRTC that allows messaging/video call/screen sharing
 - [ryuever/react-tapable-editor](https://github.com/ryuever/react-tapable-editor) - A pluginable, intuitive medium/notion like rich text editor(currently in wip)
@@ -8113,7 +8111,7 @@
 - [uidotdev/react-course](https://github.com/uidotdev/react-course) - Code for ui.dev's "Classic React" course
 - [shakacode/react_on_rails](https://github.com/shakacode/react_on_rails) - Integration of React + Webpack + Rails including server-side rendering of React, enabling a better developer experience and faster client performance.
 - [mojs/mojs](https://github.com/mojs/mojs) - The motion graphics toolbelt for the web
-- [shakacode/react-webpack-rails-tutorial](https://github.com/shakacode/react-webpack-rails-tutorial) - Example of integration of Rails, react, redux, using the react_on_rails gem, webpack, enabling the es7 and jsx transpilers, and node integration. And React Native! Live Demo:
+- [shakacode/react-webpack-rails-tutorial](https://github.com/shakacode/react-webpack-rails-tutorial) - Legacy full-app React on Rails tutorial repo and live demo. See reactonrails.com/examples for current maintained demos.
 
 ## website 
 
