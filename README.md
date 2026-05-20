@@ -412,7 +412,6 @@
 - [rstacruz/safe-async](https://github.com/rstacruz/safe-async) - Provides a standard interface for async APIs that supports promises, callbacks and catches errors properly
 - [steve8708/base](https://github.com/steve8708/base) - Frontend framework for building ultra slick and efficient single page web applications
 - [dmauro/Keypress](https://github.com/dmauro/Keypress) - A keyboard input capturing utility in which any key can be a modifier key.
-- [MikeSilvis/mikes-modal-library](https://github.com/MikeSilvis/mikes-modal-library) - This is a library for creating a facebook like modal box to be used. It features an image on the left and content on the right. The image scales to the largest size possible while still fiting in your
 - [techpines/bone.io](https://github.com/techpines/bone.io) - Realtime HTML5 Framework
 - [nicolaskruchten/pivottable](https://github.com/nicolaskruchten/pivottable) - Open-source Javascript Pivot Table (aka Pivot Grid, Pivot Chart, Cross-Tab) implementation with drag'n'drop.
 - [naoya/boilerplate](https://github.com/naoya/boilerplate) - Application boilerplate for something
