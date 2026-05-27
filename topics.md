@@ -2260,7 +2260,7 @@
 - [milligram/milligram](https://github.com/milligram/milligram) - A minimalist CSS framework.
 - [ruby/did_you_mean](https://github.com/ruby/did_you_mean) - The gem that has been saving people from typos since 2014
 - [academic/awesome-datascience](https://github.com/academic/awesome-datascience) - :memo: An awesome Data Science repository to learn and apply for real world problems.
-- [vira-themes/vira-assets](https://github.com/vira-themes/vira-assets) - Vira Theme is the official successor of the popular Material Theme. This premium version is actively maintained, includes hand-curated icons and more features
+- [vira-soft/vira-assets](https://github.com/vira-soft/vira-assets) - Vira Theme is the official successor of the popular Material Theme. This premium version is actively maintained, includes hand-curated icons and more features
 - [jasny/bootstrap](https://github.com/jasny/bootstrap) - The missing components for your favorite front-end framework.
 - [ipython/ipython](https://github.com/ipython/ipython) - Official repository for IPython itself. Other repos in the IPython organization contain things like the website, documentation builds, etc.
 - [sahat/hackathon-starter](https://github.com/sahat/hackathon-starter) - A boilerplate for Node.js web applications
@@ -7888,7 +7888,7 @@
 
 - [Huachao/vscode-restclient](https://github.com/Huachao/vscode-restclient) - REST Client Extension for Visual Studio Code
 - [taniarascia/new-moon](https://github.com/taniarascia/new-moon) - 🌙 ‎ The optimized dark theme for web development.
-- [vira-themes/vira-assets](https://github.com/vira-themes/vira-assets) - Vira Theme is the official successor of the popular Material Theme. This premium version is actively maintained, includes hand-curated icons and more features
+- [vira-soft/vira-assets](https://github.com/vira-soft/vira-assets) - Vira Theme is the official successor of the popular Material Theme. This premium version is actively maintained, includes hand-curated icons and more features
 
 ## visualization 
 
