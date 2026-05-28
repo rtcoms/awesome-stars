@@ -850,6 +850,7 @@
 ## Java 
 
 - [andOTP/andOTP](https://github.com/andOTP/andOTP) - [Unmaintained] Open source two-factor authentication for Android
+- [ccxt/ccxt](https://github.com/ccxt/ccxt) - A cryptocurrency trading API with more than 100 exchanges in JavaScript / TypeScript / Python / C# / PHP / Go / Java
 - [moduliths/moduliths](https://github.com/moduliths/moduliths) - Building modular, monolithic applications using Spring Boot
 - [Gedsh/InviZible](https://github.com/Gedsh/InviZible) - Android application for online privacy and security
 - [kdn251/interviews](https://github.com/kdn251/interviews) - Everything you need to know to get the job.
@@ -2669,7 +2670,6 @@
 - [iRavinderBrar/Kite_Zerodha](https://github.com/iRavinderBrar/Kite_Zerodha) - 
 - [bregman-arie/devops-exercises](https://github.com/bregman-arie/devops-exercises) - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions
 - [PostHog/posthog](https://github.com/PostHog/posthog) - 🦔 PostHog is an all-in-one developer platform for building successful products. We offer product analytics, web analytics, session replay, error tracking, feature flags, experimentation, surveys, data
-- [ccxt/ccxt](https://github.com/ccxt/ccxt) - A cryptocurrency trading API with more than 100 exchanges in JavaScript / TypeScript / Python / C# / PHP / Go
 - [VarunS2002/Python-NSE-Option-Chain-Analyzer](https://github.com/VarunS2002/Python-NSE-Option-Chain-Analyzer) - The NSE has a website which displays the option chain in near real-time. This program retrieves this data from the NSE site and then generates useful analysis of the Option Chain for the specified Ind
 - [GuyTevet/motion-diffusion-model](https://github.com/GuyTevet/motion-diffusion-model) - The official PyTorch implementation of the paper "Human Motion Diffusion Model"
 - [itsXactlY/Advanced-Tradingview-Webhook](https://github.com/itsXactlY/Advanced-Tradingview-Webhook) - 
@@ -3157,7 +3157,7 @@
 - [automaticmode/active_workflow](https://github.com/automaticmode/active_workflow) - Polyglot workflows without leaving the comfort of your technology stack.
 - [matestack/matestack-ui-core](https://github.com/matestack/matestack-ui-core) - Component based web UIs in pure Ruby for Rails. Boost your productivity & easily create component based web UIs in pure Ruby.
 - [bigbinary/wheel](https://github.com/bigbinary/wheel) - Don't reinvent the wheel for every new Rails project. Use sane Defaults.
-- [GetStream/stream-chat-ruby](https://github.com/GetStream/stream-chat-ruby) - Stream Chat official Ruby API Client
+- [GetStream/stream-chat-ruby](https://github.com/GetStream/stream-chat-ruby) - Official Stream Chat API client for Ruby (maintenance mode). For new projects, see getstream-ruby.
 - [ryanjm/ruby-design-patterns](https://github.com/ryanjm/ruby-design-patterns) - Code for a Springs.rb presentation I gave
 - [piscolomo/ruby-patterns](https://github.com/piscolomo/ruby-patterns) - Examples of Patterns in Ruby
 - [emilsoman/design-patterns-ruby](https://github.com/emilsoman/design-patterns-ruby) - GOF design patterns in Ruby
@@ -3690,7 +3690,7 @@
 - [mgdm/htmlq](https://github.com/mgdm/htmlq) - Like jq, but for HTML.
 - [zellij-org/zellij](https://github.com/zellij-org/zellij) - A terminal workspace with batteries included
 - [osohq/oso](https://github.com/osohq/oso) - Deprecated: See README
-- [launchbadge/sqlx](https://github.com/launchbadge/sqlx) - 🧰 The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without a DSL. Supports PostgreSQL, MySQL, and SQLite.
+- [transact-rs/sqlx](https://github.com/transact-rs/sqlx) - 🧰 The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without a DSL. Supports PostgreSQL, MySQL, and SQLite.
 - [tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop and mobile applications with a web frontend.
 - [H-M-H/Weylus](https://github.com/H-M-H/Weylus) - Use your tablet as graphic tablet/touch screen on your computer.
 - [Y2Z/monolith](https://github.com/Y2Z/monolith) - ⬛️ CLI tool and library for saving complete web pages as a single HTML file
