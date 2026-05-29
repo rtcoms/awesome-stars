@@ -850,7 +850,6 @@
 ## Java 
 
 - [andOTP/andOTP](https://github.com/andOTP/andOTP) - [Unmaintained] Open source two-factor authentication for Android
-- [ccxt/ccxt](https://github.com/ccxt/ccxt) - A cryptocurrency trading API with more than 100 exchanges in JavaScript / TypeScript / Python / C# / PHP / Go / Java
 - [moduliths/moduliths](https://github.com/moduliths/moduliths) - Building modular, monolithic applications using Spring Boot
 - [Gedsh/InviZible](https://github.com/Gedsh/InviZible) - Android application for online privacy and security
 - [kdn251/interviews](https://github.com/kdn251/interviews) - Everything you need to know to get the job.
@@ -1322,7 +1321,7 @@
 - [linuxenko/unstuck-webpack](https://github.com/linuxenko/unstuck-webpack) - Webpack quick project creation GUI tool that guide you throught all the options. Created for those who don't like spend time for project configuration (something like codepen)
 - [marcuswestin/store.js](https://github.com/marcuswestin/store.js) - Cross-browser storage for all use cases, used across the web.
 - [quentint/long-press](https://github.com/quentint/long-press) - jQuery plugin to ease the writing of accented or rare characters.
-- [vmitsaras/js-offcanvas](https://github.com/vmitsaras/js-offcanvas) - A lightweight, flexible jQuery off-canvas navigation plugin which lets you create fully accessible sidebar or top/bottom sliding (or push) panels with keyboard interactions and ARIA attributes.
+- [vmitsaras/js-offcanvas](https://github.com/vmitsaras/js-offcanvas) - An accessible, standards-compliant off-canvas navigation drawer built as a vanilla JavaScript class.
 - [rubentd/radios-to-slider](https://github.com/rubentd/radios-to-slider) - jquery plugin to create a slider using a list of radio buttons
 - [kciter/qart.js](https://github.com/kciter/qart.js) - Generate artistic QR code. 🎨
 - [react-everywhere/re-start](https://github.com/react-everywhere/re-start) - react-native template to target multiple platforms :globe_with_meridians: :iphone: :computer: with single codebase.
@@ -2670,6 +2669,7 @@
 - [iRavinderBrar/Kite_Zerodha](https://github.com/iRavinderBrar/Kite_Zerodha) - 
 - [bregman-arie/devops-exercises](https://github.com/bregman-arie/devops-exercises) - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions
 - [PostHog/posthog](https://github.com/PostHog/posthog) - 🦔 PostHog is an all-in-one developer platform for building successful products. We offer product analytics, web analytics, session replay, error tracking, feature flags, experimentation, surveys, data
+- [ccxt/ccxt](https://github.com/ccxt/ccxt) - A cryptocurrency trading API with more than 100 exchanges in JavaScript / TypeScript / Python / C# / PHP / Go / Java
 - [VarunS2002/Python-NSE-Option-Chain-Analyzer](https://github.com/VarunS2002/Python-NSE-Option-Chain-Analyzer) - The NSE has a website which displays the option chain in near real-time. This program retrieves this data from the NSE site and then generates useful analysis of the Option Chain for the specified Ind
 - [GuyTevet/motion-diffusion-model](https://github.com/GuyTevet/motion-diffusion-model) - The official PyTorch implementation of the paper "Human Motion Diffusion Model"
 - [itsXactlY/Advanced-Tradingview-Webhook](https://github.com/itsXactlY/Advanced-Tradingview-Webhook) - 
