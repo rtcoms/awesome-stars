@@ -145,7 +145,7 @@
 - [ledger/ledger](https://github.com/ledger/ledger) - Double-entry accounting system with a command-line reporting interface
 - [rethinkdb/rethinkdb](https://github.com/rethinkdb/rethinkdb) - The open-source database for the realtime web.
 - [seenaburns/dex-ui](https://github.com/seenaburns/dex-ui) - A science fiction desktop running on Linux. Awesome.
-- [zealdocs/zeal](https://github.com/zealdocs/zeal) - Offline documentation browser inspired by Dash
+- [zealdocs/zeal](https://github.com/zealdocs/zeal) - Offline documentation browser. Your personal reference library, searchable in an instant.
 - [AGWA/git-crypt](https://github.com/AGWA/git-crypt) - Transparent file encryption in git
 - [davidgfnet/whatsapp-purple](https://github.com/davidgfnet/whatsapp-purple) - WhatsApp protocol implementation for libpurple (pidgin)
 - [Sigil-Ebook/Sigil](https://github.com/Sigil-Ebook/Sigil) - Sigil is a multi-platform EPUB ebook editor
@@ -675,7 +675,6 @@
 - [pikock/bootstrap-magic](https://github.com/pikock/bootstrap-magic) - Bootstrap themes generator made with AngularJS
 - [elasticsearch-cn/elasticsearch-definitive-guide](https://github.com/elasticsearch-cn/elasticsearch-definitive-guide) - 欢迎加QQ群：109764489，贡献力量！
 - [ossu/computer-science](https://github.com/ossu/computer-science) - 🎓 Path to a free self-taught education in Computer Science!
-- [froala/design-blocks](https://github.com/froala/design-blocks) - A set of 170+ Bootstrap based design blocks ready to be used to create clean modern websites.
 - [alvarcarto/url-to-pdf-api](https://github.com/alvarcarto/url-to-pdf-api) - Web page PDF/PNG rendering done right. Self-hosted service for rendering receipts, invoices, or any content.
 - [brucewangsg/flexapplayout](https://github.com/brucewangsg/flexapplayout) - Minimalist App Layout Using CSS Display Flex
 - [IonicaBizau/emoji.css](https://github.com/IonicaBizau/emoji.css) - 😋 Your website. ⚡️Emojified. 🎉 Like FontAwesome for emojis. 🚀
@@ -1959,7 +1958,6 @@
 - [codrops/GoogleNexusWebsiteMenu](https://github.com/codrops/GoogleNexusWebsiteMenu) - A tutorial on how to recreate the slide out sidebar menu that can be seen on the Google Nexus 7 website.
 - [Subash/Prepros](https://github.com/Subash/Prepros) - Compile almost any preprocessing language with live browser refresh.
 - [Quartz/Chartbuilder](https://github.com/Quartz/Chartbuilder) - A front-end charting application that facilitates easy creation of simple beautiful charts
-- [sdeering/onscreenkeyboard](https://github.com/sdeering/onscreenkeyboard) - On-screen keyboard powered by jQuery.
 - [VerbalExpressions/JSVerbalExpressions](https://github.com/VerbalExpressions/JSVerbalExpressions) - JavaScript Regular expressions made easy
 - [oauth-io/oauthd](https://github.com/oauth-io/oauthd) - oauthd - The OAuth Daemon is the open source version of the OAuth.io core
 - [Automattic/juice](https://github.com/Automattic/juice) - Juice inlines CSS stylesheets into your HTML source.
