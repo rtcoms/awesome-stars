@@ -278,7 +278,7 @@
 - [HubSpot/drop](https://github.com/HubSpot/drop) - A library for creating dropdowns and other floating elements. #hubspot-open-source
 - [mdo/wtf-forms](https://github.com/mdo/wtf-forms) - Friendlier HTML form controls with a little CSS magic.
 - [m10l/FloatLabel.js](https://github.com/m10l/FloatLabel.js) - A jQuery plugin for floating form labels
-- [hsk81/notex-v2.0](https://github.com/hsk81/notex-v2.0) - A text editor for reStructuredText, Markdown, LaTex and more!
+- [notexeditor/notex-v2.0](https://github.com/notexeditor/notex-v2.0) - A text editor for reStructuredText, Markdown, LaTex and more!
 - [orlandotm/payment-webfont](https://github.com/orlandotm/payment-webfont) - An SVG webfont full of main payment system icons
 - [Grafikart/CSS3-Loaders](https://github.com/Grafikart/CSS3-Loaders) - 
 - [fntneves/jquery-labelauty](https://github.com/fntneves/jquery-labelauty) - A lightweight and beautiful jQuery plugin for radio and checkbox inputs.
