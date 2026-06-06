@@ -5087,7 +5087,7 @@
 - [desandro/classie](https://github.com/desandro/classie) - :tophat: class helper functions
 - [mobify/bellows](https://github.com/mobify/bellows) - A responsive, mobile-first accordion UI module for progressive disclosure on the web.
 - [railsadminteam/rails_admin](https://github.com/railsadminteam/rails_admin) - RailsAdmin is a Rails engine that provides an easy-to-use interface for managing your data
-- [hsk81/notex-v2.0](https://github.com/hsk81/notex-v2.0) - A text editor for reStructuredText, Markdown, LaTex and more!
+- [notexeditor/notex-v2.0](https://github.com/notexeditor/notex-v2.0) - A text editor for reStructuredText, Markdown, LaTex and more!
 - [msubra/jaadi.js](https://github.com/msubra/jaadi.js) - storage abstraction API
 - [colszowka/phantomjs-gem](https://github.com/colszowka/phantomjs-gem) - Phantomjs via Rubygems: Auto-install phantomjs on demand for current platform. Comes with poltergeist integration.
 - [orlandotm/payment-webfont](https://github.com/orlandotm/payment-webfont) - An SVG webfont full of main payment system icons
