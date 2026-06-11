@@ -485,7 +485,7 @@
 
 ## Emacs Lisp 
 
-- [doomemacs/doomemacs](https://github.com/doomemacs/doomemacs) - An Emacs framework for the stubborn martian hacker
+- [doomemacs/core](https://github.com/doomemacs/core) - An Emacs framework for the stubborn martian hacker
 - [alphapapa/matrix-client.el](https://github.com/alphapapa/matrix-client.el) - A Matrix client for Emacs! (deprecated in favor of Ement.el)
 - [munen/emacs.d](https://github.com/munen/emacs.d) - My emacs configuration documented in literate programming style
 - [syl20bnr/spacemacs](https://github.com/syl20bnr/spacemacs) - A community-driven Emacs distribution - The best editor is neither Emacs nor Vim,  it's Emacs *and* Vim!
