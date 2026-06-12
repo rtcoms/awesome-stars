@@ -1680,7 +1680,7 @@
 
 ## emacs 
 
-- [doomemacs/doomemacs](https://github.com/doomemacs/doomemacs) - An Emacs framework for the stubborn martian hacker
+- [doomemacs/core](https://github.com/doomemacs/core) - An Emacs framework for the stubborn martian hacker
 - [alphapapa/matrix-client.el](https://github.com/alphapapa/matrix-client.el) - A Matrix client for Emacs! (deprecated in favor of Ement.el)
 - [munen/emacs.d](https://github.com/munen/emacs.d) - My emacs configuration documented in literate programming style
 - [DanielDe/org-web](https://github.com/DanielDe/org-web) - org-mode on the web, built with React, optimized for mobile, synced with Dropbox and Google Drive
@@ -7867,7 +7867,7 @@
 ## vim 
 
 - [rvaiya/warpd](https://github.com/rvaiya/warpd) - A modal keyboard-driven virtual pointer
-- [doomemacs/doomemacs](https://github.com/doomemacs/doomemacs) - An Emacs framework for the stubborn martian hacker
+- [doomemacs/core](https://github.com/doomemacs/core) - An Emacs framework for the stubborn martian hacker
 - [syl20bnr/spacemacs](https://github.com/syl20bnr/spacemacs) - A community-driven Emacs distribution - The best editor is neither Emacs nor Vim,  it's Emacs *and* Vim!
 - [jez/vim-as-an-ide](https://github.com/jez/vim-as-an-ide) - Workshop on how to use Vim Plugins.
 - [neovim/neovim](https://github.com/neovim/neovim) - Vim-fork focused on extensibility and usability
