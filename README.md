@@ -2741,7 +2741,7 @@
 - [aws/chalice](https://github.com/aws/chalice) - Python Serverless Microframework for AWS
 - [mementum/backtrader](https://github.com/mementum/backtrader) - Python Backtesting library for trading strategies
 - [osnr/horrifying-pdf-experiments](https://github.com/osnr/horrifying-pdf-experiments) - :syringe: Stuff which works in Chrome and maybe Acrobat and Foxit.
-- [coleifer/peewee](https://github.com/coleifer/peewee) - a small, expressive orm -- supports postgresql, mysql, sqlite
+- [coleifer/peewee](https://github.com/coleifer/peewee) - a small, expressive orm -- supports postgresql, mysql, sqlite, now with asyncio
 - [vsjha18/nsetools](https://github.com/vsjha18/nsetools) - Realtime Data From National Stock Exchange (India)
 - [smartshare-labs/aws-serverless-api-template](https://github.com/smartshare-labs/aws-serverless-api-template) - Serverless python template which runs in AWS Lambda. Used for quick API development.
 - [liuzi6612/awesome-web-editor](https://github.com/liuzi6612/awesome-web-editor) - 🔨  Open source WEB editor summary
