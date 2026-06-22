@@ -3690,7 +3690,7 @@
 - [H-M-H/Weylus](https://github.com/H-M-H/Weylus) - Use your tablet as graphic tablet/touch screen on your computer.
 - [Y2Z/monolith](https://github.com/Y2Z/monolith) - ⬛️ CLI tool and library for saving complete web pages as a single HTML file
 - [jacobdeichert/wasm-astar](https://github.com/jacobdeichert/wasm-astar) - 👾 Rust WebAssembly A* Pathfinding Demo
-- [nikivdev/flow](https://github.com/nikivdev/flow) - Everything you need to move your project faster
+- [nikivdev/flow](https://github.com/nikivdev/flow) - Move faster with autonomy
 - [ivanceras/svgbob](https://github.com/ivanceras/svgbob) - Convert your ascii diagram scribbles into happy little SVG
 - [tildeio/helix](https://github.com/tildeio/helix) - Native Ruby extensions without fear
 - [influxdata/influxdb](https://github.com/influxdata/influxdb) - Scalable datastore for metrics, events, and real-time analytics
