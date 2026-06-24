@@ -126,6 +126,7 @@
 
 ## C++ 
 
+- [JPersson77/LGTVCompanion](https://github.com/JPersson77/LGTVCompanion) - Power On and Off WebOS LG TVs together with your PC
 - [7thSamurai/steganography](https://github.com/7thSamurai/steganography) - Simple C++ Image Steganography tool to encrypt and hide files inside images using Least-Significant-Bit encoding.
 - [uNetworking/uWebSockets](https://github.com/uNetworking/uWebSockets) - Simple, secure & standards compliant web server for the most demanding of applications
 - [duckdb/duckdb](https://github.com/duckdb/duckdb) - DuckDB is an analytical in-process SQL database management system
