@@ -3712,6 +3712,7 @@
 
 ## others 
 
+- [JPersson77/LGTVCompanion](https://github.com/JPersson77/LGTVCompanion) - Power On and Off WebOS LG TVs together with your PC
 - [chrisworsey55/atlas-gic](https://github.com/chrisworsey55/atlas-gic) - ATLAS by General Intelligence Capital — Self-improving AI trading agents using Karpathy-style autoresearch
 - [timowhite88/Farnsworth](https://github.com/timowhite88/Farnsworth) - Farnsworth is an autonomous, infinitely-memorable, self-evolving companion AI built entirely with free open-source tools.
 - [jhomra21/DO-better-auth-convex-testing](https://github.com/jhomra21/DO-better-auth-convex-testing) - Simple-ish project showcasing use of Cloudflare Durable Objects w/ Realtime Database per user
