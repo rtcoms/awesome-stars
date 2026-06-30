@@ -1237,7 +1237,6 @@
 - [asfktz/Awaity.js](https://github.com/asfktz/Awaity.js) - A functional, lightweight alternative to bluebird.js, built with async / await in mind.
 - [facebookarchive/prepack](https://github.com/facebookarchive/prepack) - A JavaScript bundle optimizer.
 - [sitexw/FuckAdBlock](https://github.com/sitexw/FuckAdBlock) - Detects ad blockers (AdBlock, ...)
-- [nolimits4web/swiper](https://github.com/nolimits4web/swiper) - Most modern mobile touch slider with hardware accelerated transitions
 - [pixxelfactory/jInvertScroll](https://github.com/pixxelfactory/jInvertScroll) - A lightweight jQuery vertical scroll - horizontal move plugin with parallax effect.
 - [parcel-bundler/parcel](https://github.com/parcel-bundler/parcel) - The zero configuration build tool for the web. 📦🚀
 - [Chalarangelo/30-seconds-of-code](https://github.com/Chalarangelo/30-seconds-of-code) - Coding articles to level up your development skills
@@ -2842,7 +2841,7 @@
 - [rrrene/inch](https://github.com/rrrene/inch) - A documentation analysis tool for the Ruby language
 - [cultureamp/event_framework](https://github.com/cultureamp/event_framework) - The Culture Amp Ruby Event Framework ❤️
 - [Mahaswami/ruby-on-rails-influxdb-grafana-example](https://github.com/Mahaswami/ruby-on-rails-influxdb-grafana-example) - Integration of Ruby on Rails + InfluxDB/Grafana for Metrics Sample
-- [reidmorrison/rails_semantic_logger](https://github.com/reidmorrison/rails_semantic_logger) - Rails Semantic Logger replaces the Rails default logger with Semantic Logger
+- [reidmorrison/rails_semantic_logger](https://github.com/reidmorrison/rails_semantic_logger) - Rails Semantic Logger replaces the Rails default logger with Semantic Logger, so that Rails, your application code, and many common gems all log through structured logging instead of plain text.
 - [chanzuckerberg/redcord](https://github.com/chanzuckerberg/redcord) - A Ruby ORM like Active Record, but for Redis.
 - [github/codespaces-rails](https://github.com/github/codespaces-rails) - 
 - [enquo/active_enquo](https://github.com/enquo/active_enquo) - ActiveRecord extension for encrypted query operations
@@ -2859,7 +2858,7 @@
 - [cheezy/page-object](https://github.com/cheezy/page-object) - Gem to implement PageObject pattern in watir-webdriver and selenium-webdriver
 - [ruby/drb](https://github.com/ruby/drb) - Distributed object system for Ruby
 - [ElMassimo/js_from_routes](https://github.com/ElMassimo/js_from_routes) - 🛣️ Generate path helpers and API methods from your Rails routes
-- [reidmorrison/semantic_logger](https://github.com/reidmorrison/semantic_logger) - Semantic Logger is a feature rich logging framework, and replacement for existing Ruby & Rails loggers.
+- [reidmorrison/semantic_logger](https://github.com/reidmorrison/semantic_logger) - Semantic Logger is a high-performance, asynchronous structured logging framework for Ruby and Rails.
 - [charkost/prosopite](https://github.com/charkost/prosopite) - Rails N+1 queries auto-detection with zero false positives / false negatives
 - [dwbutler/logstash-logger](https://github.com/dwbutler/logstash-logger) - Ruby logger that writes logstash events
 - [grosser/gettext_i18n_rails](https://github.com/grosser/gettext_i18n_rails) - Rails: FastGettext, I18n integration -- simple, threadsafe and fast!
@@ -3053,7 +3052,7 @@
 - [girishso/rails-client-logger](https://github.com/girishso/rails-client-logger) - Rails engine for logging from Browser Javascript to server
 - [nullscreen/epilog](https://github.com/nullscreen/epilog) - A JSON logger with Rails support
 - [Sutto/rocket_pants](https://github.com/Sutto/rocket_pants) - API building tools on top of ActionController. Also, an awesome name.
-- [reidmorrison/rocketjob](https://github.com/reidmorrison/rocketjob) - Ruby's missing background and batch processing system
+- [reidmorrison/rocketjob](https://github.com/reidmorrison/rocketjob) - Process millions of records across thousands of workers.
 - [composite-primary-keys/composite_primary_keys](https://github.com/composite-primary-keys/composite_primary_keys) - Composite Primary Keys support for Active Record
 - [nickjj/docker-rails-example](https://github.com/nickjj/docker-rails-example) - A production ready example Rails app that's using Docker and Docker Compose.
 - [micke/valid_email2](https://github.com/micke/valid_email2) - ActiveModel validation for email. Including MX lookup and disposable email blocklist
@@ -4150,6 +4149,7 @@
 - [brunnolou/react-morph](https://github.com/brunnolou/react-morph) - Morphing Ui transitions made simple
 - [tomazy/xcell](https://github.com/tomazy/xcell) - Tiny library for building reactive, spreadsheet-like calculations in JavaScript
 - [nhn/tui.editor](https://github.com/nhn/tui.editor) - 🍞📝 Markdown WYSIWYG Editor. GFM Standard + Chart & UML Extensible.
+- [nolimits4web/swiper](https://github.com/nolimits4web/swiper) - Most modern mobile touch slider with hardware accelerated transitions
 - [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss) - A utility-first CSS framework for rapid UI development.
 - [jaredpalmer/react-fns](https://github.com/jaredpalmer/react-fns) - Browser API's turned into declarative React components and HoC's
 - [youzan/zent](https://github.com/youzan/zent) - A collection of essential UI components written with React.
