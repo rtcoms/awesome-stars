@@ -2374,7 +2374,6 @@
 - [Jsuresh47/Trading-Strategies](https://github.com/Jsuresh47/Trading-Strategies) - 
 - [ayushidalmia/awesome-fashion-ai](https://github.com/ayushidalmia/awesome-fashion-ai) - A repository to curate and summarise research papers related to fashion and e-commerce
 - [DovAmir/awesome-design-patterns](https://github.com/DovAmir/awesome-design-patterns) - A curated list of software and architecture related design patterns.
-- [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) - Curated list of project-based tutorials
 - [Nithur-M/work-from-anywhere](https://github.com/Nithur-M/work-from-anywhere) - A daily curated list of jobs that allow working from anywhere.
 - [MikaeI/metallicss](https://github.com/MikaeI/metallicss) - Adaptive metallic finish for CSS
 - [pinecoders/pine-utils](https://github.com/pinecoders/pine-utils) - Code Snippets + Tricks & Tips to help Pine Script developers
@@ -2660,6 +2659,7 @@
 - [jchao01/TradingView-data-scraper](https://github.com/jchao01/TradingView-data-scraper) - Extract price and indicator data from TradingView charts to create ML datasets
 - [chrisconlan/algorithmic-trading-with-python](https://github.com/chrisconlan/algorithmic-trading-with-python) - Source code for Algorithmic Trading with Python (2020) by Chris Conlan
 - [iRavinderBrar/Kite_Zerodha](https://github.com/iRavinderBrar/Kite_Zerodha) - 
+- [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) - Curated list of project-based tutorials
 - [bregman-arie/devops-exercises](https://github.com/bregman-arie/devops-exercises) - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions
 - [PostHog/posthog](https://github.com/PostHog/posthog) - 🦔 PostHog is an all-in-one developer platform for building successful products. We offer product analytics, web analytics, session replay, error tracking, feature flags, experimentation, surveys, data
 - [ccxt/ccxt](https://github.com/ccxt/ccxt) - A cryptocurrency trading API with more than 100 exchanges in JavaScript / TypeScript / Python / C# / PHP / Go / Java
