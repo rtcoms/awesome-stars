@@ -2652,7 +2652,7 @@
 
 - [chrisworsey55/atlas-gic](https://github.com/chrisworsey55/atlas-gic) - ATLAS by General Intelligence Capital — Self-improving AI trading agents using Karpathy-style autoresearch
 - [timowhite88/Farnsworth](https://github.com/timowhite88/Farnsworth) - Farnsworth is an autonomous, infinitely-memorable, self-evolving companion AI built entirely with free open-source tools.
-- [gmickel/flow-next](https://github.com/gmickel/flow-next) - Spec-driven AI workflow plugin for Claude Code, OpenAI Codex, and Factory Droid. Zero-dep task tracking, worker subagents, Ralph autonomous mode, cross-model reviews.
+- [gmickel/flow-next](https://github.com/gmickel/flow-next) - Repeatable agentic engineering. The workflow layer that turns AI coding agents into a disciplined factory: durable specs, fresh-context workers, adversarial cross-model reviews, receipts. Everything i
 - [maguowei/starred](https://github.com/maguowei/starred) - Create and maintain your own Awesome-style list from GitHub stars!
 - [sgprasad66/ChartInkScreenerScraper](https://github.com/sgprasad66/ChartInkScreenerScraper) - This repository contains python scripts to carry out automated trading. Includes programmatically placing a Short Straddle for Bank Nifty(Intraday).
 - [kzh-dev/pine-bot-client](https://github.com/kzh-dev/pine-bot-client) - Trading bot using Pine script
@@ -2664,6 +2664,7 @@
 - [PostHog/posthog](https://github.com/PostHog/posthog) - 🦔 PostHog is an all-in-one developer platform for building successful products. We offer product analytics, web analytics, session replay, error tracking, feature flags, experimentation, surveys, data
 - [ccxt/ccxt](https://github.com/ccxt/ccxt) - A cryptocurrency trading API with more than 100 exchanges in JavaScript / TypeScript / Python / C# / PHP / Go / Java
 - [VarunS2002/Python-NSE-Option-Chain-Analyzer](https://github.com/VarunS2002/Python-NSE-Option-Chain-Analyzer) - The NSE has a website which displays the option chain in near real-time. This program retrieves this data from the NSE site and then generates useful analysis of the Option Chain for the specified Ind
+- [invoke-ai/InvokeAI](https://github.com/invoke-ai/InvokeAI) - Invoke is a leading creative engine for Stable Diffusion models, empowering professionals, artists, and enthusiasts to generate and create visual media using the latest AI-driven technologies. The sol
 - [GuyTevet/motion-diffusion-model](https://github.com/GuyTevet/motion-diffusion-model) - The official PyTorch implementation of the paper "Human Motion Diffusion Model"
 - [itsXactlY/Advanced-Tradingview-Webhook](https://github.com/itsXactlY/Advanced-Tradingview-Webhook) - 
 - [joesinghh/AlgoApp](https://github.com/joesinghh/AlgoApp) - Algo trading application for option trading.
@@ -2827,7 +2828,7 @@
 
 - [zarpay/servus](https://github.com/zarpay/servus) - A ruby gem for managing service objects.
 - [envirobly/stepped](https://github.com/envirobly/stepped) - Stepped is a Rails engine for orchestrating complex workflows as a tree of actions
-- [tidewave-ai/tidewave_rails](https://github.com/tidewave-ai/tidewave_rails) - Tidewave for Rails
+- [tidewave-ai/tidewave_rails](https://github.com/tidewave-ai/tidewave_rails) - MCP server with runtime-level tools for Rails development
 - [yjacquin/fast-mcp](https://github.com/yjacquin/fast-mcp) - A Ruby Implementation of the Model Context Protocol
 - [socketry/flappy-bird](https://github.com/socketry/flappy-bird) - 
 - [zendesk/property_sets](https://github.com/zendesk/property_sets) - A way to store attributes in a side table.
@@ -3866,7 +3867,6 @@
 - [outline/outline](https://github.com/outline/outline) - The fastest knowledge base for growing teams. Beautiful, realtime collaborative, feature packed, and markdown compatible.
 - [InboxSDK/InboxSDK](https://github.com/InboxSDK/InboxSDK) - The InboxSDK lets you build apps for Gmail.
 - [microsoft/azure-pipelines-tasks](https://github.com/microsoft/azure-pipelines-tasks) - Tasks for Azure Pipelines
-- [invoke-ai/InvokeAI](https://github.com/invoke-ai/InvokeAI) - Invoke is a leading creative engine for Stable Diffusion models, empowering professionals, artists, and enthusiasts to generate and create visual media using the latest AI-driven technologies. The sol
 - [vercel/satori](https://github.com/vercel/satori) - Enlightened library to convert HTML and CSS to SVG
 - [thibaultyou/tradingview-alerts-processor](https://github.com/thibaultyou/tradingview-alerts-processor) - Minimalist service designed to execute TradingView webhooks and process them to cryptocurrencies exchanges.
 - [gilbarbara/react-joyride](https://github.com/gilbarbara/react-joyride) - Create guided tours in your apps
