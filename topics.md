@@ -3112,7 +3112,7 @@
 
 ## language 
 
-- [amperser/proselint](https://github.com/amperser/proselint) - A linter for prose.
+- [amperser/proselint](https://github.com/amperser/proselint) - [Mirror] A linter for prose.
 - [wooorm/franc](https://github.com/wooorm/franc) - Natural language detection
 - [rust-lang/rust](https://github.com/rust-lang/rust) - Empowering everyone to build reliable and efficient software.
 
