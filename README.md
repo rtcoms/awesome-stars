@@ -1441,7 +1441,7 @@
 - [marmelab/EventDrops](https://github.com/marmelab/EventDrops) - A time based / event series interactive visualization using d3.js
 - [fdansv/marginotes](https://github.com/fdansv/marginotes) - Quick, cool margin notes with jQuery
 - [uber/react-vis](https://github.com/uber/react-vis) - Data Visualization Components
-- [amperser/proselint](https://github.com/amperser/proselint) - A linter for prose.
+- [amperser/proselint](https://github.com/amperser/proselint) - [Mirror] A linter for prose.
 - [UDST/vizicities](https://github.com/UDST/vizicities) - A framework for 3D geospatial visualization in the browser
 - [uidotdev/react-course](https://github.com/uidotdev/react-course) - Code for ui.dev's "Classic React" course
 - [markedjs/marked](https://github.com/markedjs/marked) - A markdown parser and compiler. Built for speed.
