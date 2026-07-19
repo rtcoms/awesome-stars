@@ -244,6 +244,7 @@
 - [derekeder/csv-to-html-table](https://github.com/derekeder/csv-to-html-table) - :arrow_down_small: Display any CSV (comma separated values) file as a searchable, filterable, pretty HTML table
 - [odewahn/docker-jumpstart](https://github.com/odewahn/docker-jumpstart) - A quick introduction to Docker
 - [horst3180/arc-theme](https://github.com/horst3180/arc-theme) - A flat theme with transparent elements
+- [mblode/marx](https://github.com/mblode/marx) - The classless CSS reset (perfect for Communists).
 - [azu/pdf-markdown-annotator](https://github.com/azu/pdf-markdown-annotator) - [nw.js] pdf viewer + markdown editor
 - [corysimmons/boy](https://github.com/corysimmons/boy) - :boy: A very opinionated, lightweight version of HTML5 Boilerplate with conditionally-loaded polyfills and an opinionated CSS reset for firing up web projects in no time.
 - [blivesta/animsition](https://github.com/blivesta/animsition) - A simple and easy jQuery plugin for CSS animated page transitions.
@@ -726,7 +727,6 @@
 - [egoist/biu](https://github.com/egoist/biu) - :rotating_light: An alert replacement
 - [ruby-rdf/rdf-tabular](https://github.com/ruby-rdf/rdf-tabular) - Tabular Data RDF Reader and JSON serializer
 - [englishextra/typeboost.css](https://github.com/englishextra/typeboost.css) - Typeboost.css is a set of CSS rules to ensure readable, scalable and responsive typography. REMs are used for font sizes, paddings, and margins. It's like typography normalizer. No dependencies. Wrap 
-- [mblode/marx](https://github.com/mblode/marx) - The classless CSS reset (perfect for Communists).
 - [anandrajana/javascript-demos](https://github.com/anandrajana/javascript-demos) - Describes basic to advanced JavaScript concepts.
 - [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
 - [icons8/flat-color-icons](https://github.com/icons8/flat-color-icons) - Free Flat Color Icons
