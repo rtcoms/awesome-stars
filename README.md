@@ -881,6 +881,7 @@
 - [affaan-m/ECC](https://github.com/affaan-m/ECC) - The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
 - [ykdojo/kaguya](https://github.com/ykdojo/kaguya) - A ChatGPT plugin that allows you to load and edit your local files in a controlled way, as well as run any Python, JavaScript, and bash script. (No longer active - check https://github.com/ykdojo/safe
 - [pdparchitect/ChatGPT-Assistant](https://github.com/pdparchitect/ChatGPT-Assistant) - 
+- [MikaeI/metallicss](https://github.com/MikaeI/metallicss) - Adaptive metallic finish for CSS
 - [moleculerjs/moleculer](https://github.com/moleculerjs/moleculer) - :rocket: Progressive microservices framework for Node.js
 - [bevry-trading/automated-trading](https://github.com/bevry-trading/automated-trading) - Automated Trading: Trading View Strategies =&gt; Bitfinex, itBit, DriveWealth
 - [thisisindrajit/Evolve](https://github.com/thisisindrajit/Evolve) - Evolve is an online investment portfolio management system where users can keep track of all the assets that they have invested in and how well their assets are performing.
@@ -1170,7 +1171,7 @@
 - [Telichkin/remold](https://github.com/Telichkin/remold) - OOP for React applications
 - [mikolajdobrucki/ikonate](https://github.com/mikolajdobrucki/ikonate) - Fully customisable & accessible vector icons
 - [anseki/leader-line](https://github.com/anseki/leader-line) - Draw a leader line in your web page.
-- [jorgebucaran/hyperapp](https://github.com/jorgebucaran/hyperapp) - 1kB-ish JavaScript framework for building hypertext applications
+- [hyperapp/hyperapp](https://github.com/hyperapp/hyperapp) - 1kB-ish JavaScript framework for building hypertext applications
 - [vigetlabs/colonel-kurtz](https://github.com/vigetlabs/colonel-kurtz) - A Block Editor
 - [smooth-code/smooth-ui](https://github.com/smooth-code/smooth-ui) - Modern React UI library 💅👩‍🎤🍭
 - [FredKSchott/snowpack](https://github.com/FredKSchott/snowpack) - ESM-powered frontend build tool. Instant, lightweight, unbundled development. ✌️
@@ -2373,7 +2374,6 @@
 - [ayushidalmia/awesome-fashion-ai](https://github.com/ayushidalmia/awesome-fashion-ai) - A repository to curate and summarise research papers related to fashion and e-commerce
 - [DovAmir/awesome-design-patterns](https://github.com/DovAmir/awesome-design-patterns) - A curated list of software and architecture related design patterns.
 - [Nithur-M/work-from-anywhere](https://github.com/Nithur-M/work-from-anywhere) - A daily curated list of jobs that allow working from anywhere.
-- [MikaeI/metallicss](https://github.com/MikaeI/metallicss) - Adaptive metallic finish for CSS
 - [pinecoders/pine-utils](https://github.com/pinecoders/pine-utils) - Code Snippets + Tricks & Tips to help Pine Script developers
 - [Al0010/pine-code-easy-strategy](https://github.com/Al0010/pine-code-easy-strategy) - An example of strategy code in Pine Script.
 - [editorconfig/editorconfig](https://github.com/editorconfig/editorconfig) - EditorConfig universal issue tracker and wiki
