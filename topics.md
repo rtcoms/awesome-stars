@@ -1150,7 +1150,7 @@
 - [taniarascia/primitive](https://github.com/taniarascia/primitive) - ⛏️ ‎ A front-end design toolkit for developing web apps.
 - [jh3y/driveway](https://github.com/jh3y/driveway) - pure CSS masonry layouts
 - [dohliam/dropin-minimal-css](https://github.com/dohliam/dropin-minimal-css) - Drop-in switcher for previewing minimal CSS frameworks
-- [tabler/tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 6000 free MIT-licensed high-quality SVG icons for you to use in your web projects.
+- [tabler/tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 6100 free MIT-licensed high-quality SVG icons for you to use in your web projects.
 - [Iconscout/unicons](https://github.com/Iconscout/unicons) - Discover Unicons, a free collection of beautifully crafted 7000+ SVG icons, 3D icons, animated icons and icon fonts. Perfect for websites, apps, and creative projects. Start designing with Unicons tod
 - [mavoweb/mavo](https://github.com/mavoweb/mavo) - Create web applications entirely by writing HTML and CSS!
 - [astrit/css.gg](https://github.com/astrit/css.gg) - 700+ Pure CSS, SVG & Figma UI Icons, 6000+ glyphs, patterns, colors and layouts.
@@ -4006,7 +4006,6 @@
 - [supabase/postgres](https://github.com/supabase/postgres) - Unmodified Postgres with some useful extensions
 - [karafka/example-apps](https://github.com/karafka/example-apps) - Karafka and WaterDrop example applications
 - [bensmithett/coexist](https://github.com/bensmithett/coexist) - Unobtrusively server-render JS pages from non-JS frameworks.
-- [PhonePe/pulse](https://github.com/PhonePe/pulse) - A home for the data that powers the PhonePe Pulse website.
 - [ZilvinasKucinskas/FRP-EventSourcing](https://github.com/ZilvinasKucinskas/FRP-EventSourcing) - Functional Reactive Programming in Event Sourcing Systems
 - [hugo53/awesome-RemoteWork](https://github.com/hugo53/awesome-RemoteWork) - Resources for remote workers: approaches, hiring page, remote life and more.
 - [jetthoughts/react-typescript-rails-simple-integration](https://github.com/jetthoughts/react-typescript-rails-simple-integration) - Rails + Typescript + React.js
@@ -6571,7 +6570,7 @@
 - [roadmanfong/zustand-persist](https://github.com/roadmanfong/zustand-persist) - Persist and rehydrate state
 - [flareact/flareact](https://github.com/flareact/flareact) - Edge-rendered React framework built for Cloudflare Workers
 - [refinedev/refine](https://github.com/refinedev/refine) - A React Framework for building  internal tools, admin panels, dashboards & B2B apps with unmatched flexibility.
-- [imbhargav5/rooks](https://github.com/imbhargav5/rooks) - Over 890k monthly downloads. Collection of awesome react hooks
+- [imbhargav5/rooks](https://github.com/imbhargav5/rooks) - Over 1 Million monthly downloads. Collection of awesome react hooks
 - [betula/use-between](https://github.com/betula/use-between) - Sharing state between React components
 - [dai-shi/use-reducer-async](https://github.com/dai-shi/use-reducer-async) - React useReducer with async actions
 - [radix-ui/primitives](https://github.com/radix-ui/primitives) - Radix Primitives is an open-source UI component library for building high-quality, accessible design systems and web apps. Maintained by @workos.
@@ -6662,7 +6661,7 @@
 - [localjo/react-tater](https://github.com/localjo/react-tater) - A React component to add annotations to any element on a page 🥔
 - [blitz-js/blitz](https://github.com/blitz-js/blitz) - ⚡️ The Missing Fullstack Toolkit for Next.js
 - [gridstack/gridstack.js](https://github.com/gridstack/gridstack.js) - Build interactive dashboards in minutes.
-- [tabler/tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 6000 free MIT-licensed high-quality SVG icons for you to use in your web projects.
+- [tabler/tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 6100 free MIT-licensed high-quality SVG icons for you to use in your web projects.
 - [adrians5j/react-butterfiles](https://github.com/adrians5j/react-butterfiles) - 🦋 Component for building file fields - from basic file inputs to drag and drop image galleries.
 - [pixelass/react-stickyroll](https://github.com/pixelass/react-stickyroll) - A react implementation of stickyroll (original)
 - [martinnov92/React-Splitters](https://github.com/martinnov92/React-Splitters) - React splitter component, written in TypeScript.
@@ -6871,7 +6870,7 @@
 - [imranhsayed/react-mmenu](https://github.com/imranhsayed/react-mmenu) - :roller_coaster: React mmenu
 - [heroui-inc/heroui](https://github.com/heroui-inc/heroui) - 🚀 Beautiful, fast and modern React UI library. (Previously NextUI)
 - [dai-shi/react-hooks-worker](https://github.com/dai-shi/react-hooks-worker) - React custom hooks for web workers
-- [imbhargav5/rooks](https://github.com/imbhargav5/rooks) - Over 890k monthly downloads. Collection of awesome react hooks
+- [imbhargav5/rooks](https://github.com/imbhargav5/rooks) - Over 1 Million monthly downloads. Collection of awesome react hooks
 - [dai-shi/use-reducer-async](https://github.com/dai-shi/use-reducer-async) - React useReducer with async actions
 - [mithi/react-philosophies](https://github.com/mithi/react-philosophies) - 🧘  Things I think about when I write React code 🧘
 - [juliencrn/usehooks-ts](https://github.com/juliencrn/usehooks-ts) - React hook library, ready to use, written in Typescript.
@@ -7512,7 +7511,7 @@
 - [konstaui/konsta](https://github.com/konstaui/konsta) - Mobile UI components made with Tailwind CSS
 - [windicss/windicss](https://github.com/windicss/windicss) - Next generation utility-first CSS framework.
 - [xyflow/xyflow](https://github.com/xyflow/xyflow) - React Flow | Svelte Flow - Powerful open source libraries for building node-based UIs with React (https://reactflow.dev) or Svelte (https://svelteflow.dev). Ready out-of-the-box and infinitely customi
-- [tabler/tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 6000 free MIT-licensed high-quality SVG icons for you to use in your web projects.
+- [tabler/tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 6100 free MIT-licensed high-quality SVG icons for you to use in your web projects.
 - [TanStack/query](https://github.com/TanStack/query) - 🤖 Powerful asynchronous state management, server-state utilities and data fetching for the web. TS/JS, React Query, Solid Query, Svelte Query and Vue Query.
 - [redux-zero/redux-zero](https://github.com/redux-zero/redux-zero) - A lightweight state container based on Redux
 - [jackocnr/intl-tel-input](https://github.com/jackocnr/intl-tel-input) - For entering, formatting, and validating international telephone numbers. Available in vanilla JavaScript, or as React, Vue, Angular, and Svelte components.
@@ -7720,7 +7719,7 @@
 - [wellyshen/react-cool-portal](https://github.com/wellyshen/react-cool-portal) - 😎 🍒 React hook for Portals, which renders modals, dropdowns, tooltips etc. to &lt;body&gt; or else.
 - [AsyncBanana/microdiff](https://github.com/AsyncBanana/microdiff) - A fast, zero dependency object and array comparison library. Significantly faster than most other deep comparison libraries and has full TypeScript support.
 - [refinedev/refine](https://github.com/refinedev/refine) - A React Framework for building  internal tools, admin panels, dashboards & B2B apps with unmatched flexibility.
-- [imbhargav5/rooks](https://github.com/imbhargav5/rooks) - Over 890k monthly downloads. Collection of awesome react hooks
+- [imbhargav5/rooks](https://github.com/imbhargav5/rooks) - Over 1 Million monthly downloads. Collection of awesome react hooks
 - [klis87/redux-requests](https://github.com/klis87/redux-requests) - Declarative AJAX requests and automatic network state management for single-page applications
 - [async-labs/saas](https://github.com/async-labs/saas) - Build your own SaaS business with SaaS boilerplate. Productive stack: React, Material-UI, Next, MobX, WebSockets, Express, Node, Mongoose, MongoDB. Written with TypeScript.
 - [buildship-ai/rowy](https://github.com/buildship-ai/rowy) - Low-code backend platform. Manage database on spreadsheet-like UI and build cloud functions workflows in JS/TS, all in your browser.
