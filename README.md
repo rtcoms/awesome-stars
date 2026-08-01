@@ -2328,7 +2328,6 @@
 
 ## MDX 
 
-- [heroui-inc/heroui](https://github.com/heroui-inc/heroui) - 🚀 Beautiful, fast and modern React UI library. (Previously NextUI)
 - [yangshun/front-end-interview-handbook](https://github.com/yangshun/front-end-interview-handbook) - Front End interview preparation materials for busy engineers (updated for 2026)
 - [uidotdev/usehooks](https://github.com/uidotdev/usehooks) - A collection of modern, server-safe React hooks – from the ui.dev team
 - [thedaviddias/Front-End-Checklist](https://github.com/thedaviddias/Front-End-Checklist) - 🗂 The essential checklist for modern web development, for humans and AI agents
@@ -3923,6 +3922,7 @@
 - [DefinitelyTyped/DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped) - The repository for high quality TypeScript type definitions.
 - [maxsteenbergen/pebble-icons](https://github.com/maxsteenbergen/pebble-icons) - A free funky formalicious icon set for React (& plain ol' SVG & PNG)
 - [anil1kuppa/kha-ching](https://github.com/anil1kuppa/kha-ching) - Algotrading strategies for Indian Stock Markets
+- [heroui-inc/heroui](https://github.com/heroui-inc/heroui) - 🚀 Beautiful, fast and modern React UI library. (Previously NextUI)
 - [romac/react-if](https://github.com/romac/react-if) - 🌗 Render React components conditionally
 - [tinyplex/tinybase](https://github.com/tinyplex/tinybase) - A reactive data store & sync engine.
 - [wellyshen/react-cool-portal](https://github.com/wellyshen/react-cool-portal) - 😎 🍒 React hook for Portals, which renders modals, dropdowns, tooltips etc. to &lt;body&gt; or else.
