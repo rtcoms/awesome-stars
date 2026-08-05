@@ -1722,7 +1722,6 @@
 - [nytimes/ice](https://github.com/nytimes/ice) - track changes with javascript
 - [medialab/artoo](https://github.com/medialab/artoo) - artoo.js - the client-side scraping companion.
 - [montagejs/collections](https://github.com/montagejs/collections) - This package contains JavaScript implementations of common data structures with idiomatic interfaces.
-- [primer/octicons](https://github.com/primer/octicons) - A scalable set of icons handcrafted with ❤️ by GitHub
 - [CartoDB/odyssey.js](https://github.com/CartoDB/odyssey.js) - Making it easy to merge map and narrative
 - [TTLabs/EvaporateJS](https://github.com/TTLabs/EvaporateJS) - Javascript library for browser to S3 multipart resumable uploads
 - [jdorn/json-editor](https://github.com/jdorn/json-editor) - JSON Schema Based Editor
@@ -4230,6 +4229,7 @@
 - [yocontra/react-responsive](https://github.com/yocontra/react-responsive) - CSS media queries in react - for responsive design, and more.
 - [tessera-metrics/tessera](https://github.com/tessera-metrics/tessera) - A dashboard front-end for graphite.
 - [TalAter/annyang](https://github.com/TalAter/annyang) - 💬 Speech recognition for your site
+- [primer/octicons](https://github.com/primer/octicons) - A scalable set of icons handcrafted with ❤️ by GitHub
 - [matthewhudson/current-device](https://github.com/matthewhudson/current-device) - 📱 The easiest way to write conditional CSS and/or JavaScript based on device operating system (iOS, Android, Blackberry, Windows, Firefox OS, MeeGo), orientation (Portrait vs. Landscape), and type (Ta
 - [mvasilkov/readability2](https://github.com/mvasilkov/readability2) - Readability2 converts HTML to plain text.
 - [GitbookIO/gitbook](https://github.com/GitbookIO/gitbook) - The open source frontend for GitBook doc sites
