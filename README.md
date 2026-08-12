@@ -1459,7 +1459,7 @@
 - [fluffgfx/jolteon](https://github.com/fluffgfx/jolteon) - :bulb: Babel + Electron + React + Browserify + SASS application stack. Electron Made Easy :tm:
 - [ellisonleao/sharer.js](https://github.com/ellisonleao/sharer.js) - :on: :bookmark: Create your own social share buttons. No jquery. Just vanilla JS
 - [jakiestfu/himawari.js](https://github.com/jakiestfu/himawari.js) - Download real-time images of Earth from the Himawari-8 satellite
-- [mjmlio/mjml](https://github.com/mjmlio/mjml) - MJML: the only framework that makes responsive-email easy
+- [mjmlio/mjml](https://github.com/mjmlio/mjml) - MJML: the only framework that makes responsive email easy
 - [denysdovhan/bash-handbook](https://github.com/denysdovhan/bash-handbook) - :book: For those who wanna learn Bash
 - [brijeshb42/kattappa](https://github.com/brijeshb42/kattappa) - A block based rich text editor.
 - [dmvaldman/samsara](https://github.com/dmvaldman/samsara) - Continuous UI
