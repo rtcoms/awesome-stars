@@ -4625,7 +4625,7 @@
 - [fluffgfx/jolteon](https://github.com/fluffgfx/jolteon) - :bulb: Babel + Electron + React + Browserify + SASS application stack. Electron Made Easy :tm:
 - [istarkov/html-hint](https://github.com/istarkov/html-hint) - css hint (tooltip) based on hint.css with html content support
 - [rbiggs/chocolatechip-ui](https://github.com/rbiggs/chocolatechip-ui) - Mobile Web App Framework for Webkit Browsers
-- [mjmlio/mjml](https://github.com/mjmlio/mjml) - MJML: the only framework that makes responsive-email easy
+- [mjmlio/mjml](https://github.com/mjmlio/mjml) - MJML: the only framework that makes responsive email easy
 - [rrrene/elixir-style-guide](https://github.com/rrrene/elixir-style-guide) - Style Guide for the Elixir language, implemented by Credo
 - [jbranchaud/til](https://github.com/jbranchaud/til) - :memo: Today I Learned
 - [hahuang65/beaker](https://github.com/hahuang65/beaker) - A mirror for https://git.sr.ht/~hwrd/beaker
