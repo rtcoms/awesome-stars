@@ -1891,7 +1891,7 @@
 - [adobe-webplatform/Snap.svg](https://github.com/adobe-webplatform/Snap.svg) - The JavaScript library for modern SVG graphics.
 - [Snugug/eq.js](https://github.com/Snugug/eq.js) - Lightweight JavaScript powered element queries
 - [HRDeprecated/core](https://github.com/HRDeprecated/core) - Build large client-side applications in a structured way
-- [seyedi/Covering-Bad](https://github.com/seyedi/Covering-Bad) - A simple jQuery Plugin for covering an item with another item by dragging it
+- [seyedi/Covering-Bad](https://github.com/seyedi/Covering-Bad) - A small vanilla JS library for covering an item with another item by dragging it
 - [sofish/pen](https://github.com/sofish/pen) - enjoy live editing (+markdown)
 - [madebymany/sir-trevor-js](https://github.com/madebymany/sir-trevor-js) - Rich content editing entirely re-imagined for the web
 - [michael-lynch/tunez](https://github.com/michael-lynch/tunez) - A simple, lightweight jQuery plugin to display a user's recently scrobbled tracks on Last.fm.
@@ -3968,7 +3968,7 @@
 - [rahuldkjain/github-profile-readme-generator](https://github.com/rahuldkjain/github-profile-readme-generator) - 🚀 Generate GitHub profile README easily with the latest add-ons like visitors count, GitHub stats, etc using minimal UI.
 - [sdelements/flan](https://github.com/sdelements/flan) - A tasty tool that lets you save, load and share postgres snapshots with ease
 - [box-icons/boxicons](https://github.com/box-icons/boxicons) - High Quality web friendly icons
-- [fastapi/full-stack-fastapi-template](https://github.com/fastapi/full-stack-fastapi-template) - Full stack, modern web application template. Using FastAPI, React, SQLModel, PostgreSQL, Docker, GitHub Actions, automatic HTTPS and more.
+- [fastapi/full-stack-fastapi-template](https://github.com/fastapi/full-stack-fastapi-template) - Full-stack web application template with FastAPI, React, SQLModel, PostgreSQL, Vite, Tailwind CSS, shadcn/ui, FastAPI Cloud, and Docker Compose.
 - [rehooks/local-storage](https://github.com/rehooks/local-storage) - React hook which syncs localStorage[key] with the comp.
 - [jpribyl/react-hook-dragula](https://github.com/jpribyl/react-hook-dragula) - Provides named parameters and strong typing + declarative usage to dragula within React.
 - [radix-ui/colors](https://github.com/radix-ui/colors) - A gorgeous, accessible color system.
