@@ -1131,6 +1131,7 @@
 - [timqian/resumd](https://github.com/timqian/resumd) - Write resume with markdown
 - [davidtheclark/react-aria-tabpanel](https://github.com/davidtheclark/react-aria-tabpanel) - A fully accessible, extravagantly flexible, React-powered Tab Panel component
 - [gokulkrishh/demo-progressive-web-app](https://github.com/gokulkrishh/demo-progressive-web-app) - 🎉 Demo for Progressive Web Application and its features.
+- [yangshun/front-end-interview-handbook](https://github.com/yangshun/front-end-interview-handbook) - Front End interview preparation materials for busy engineers (updated for 2026)
 - [donavon/use-prev-prop](https://github.com/donavon/use-prev-prop) - A custom React Hook that maintains a previous value for a prop (or any other value).
 - [jspreadsheet/ce](https://github.com/jspreadsheet/ce) - Jspreadsheet is a lightweight JavaScript data grid component for creating interactive data grids with advanced spreadsheet controls.
 - [axios/axios](https://github.com/axios/axios) - Promise based HTTP client for the browser and node.js
@@ -2326,7 +2327,6 @@
 
 ## MDX 
 
-- [yangshun/front-end-interview-handbook](https://github.com/yangshun/front-end-interview-handbook) - Front End interview preparation materials for busy engineers (updated for 2026)
 - [uidotdev/usehooks](https://github.com/uidotdev/usehooks) - A collection of modern, server-safe React hooks – from the ui.dev team
 - [thedaviddias/Front-End-Checklist](https://github.com/thedaviddias/Front-End-Checklist) - 🗂 The essential checklist for modern web development, for humans and AI agents
 - [wix/react-native-navigation](https://github.com/wix/react-native-navigation) - A complete native navigation solution for React Native
@@ -3688,7 +3688,7 @@
 - [tildeio/helix](https://github.com/tildeio/helix) - Native Ruby extensions without fear
 - [influxdata/influxdb](https://github.com/influxdata/influxdb) - Scalable datastore for metrics, events, and real-time analytics
 - [miselin/rustic](https://github.com/miselin/rustic) - Rustic Embedded Framework
-- [lopatin/Snaketron](https://github.com/lopatin/Snaketron) - The code for SnakeTron.com, a multi-player implementation of the classic Snake in Node.js and MooTools.
+- [lopatin/Snaketron](https://github.com/lopatin/Snaketron) - The code for Snaketron.io, a multiplayer competitive Snake game written with Rust and Typescript.
 - [rust-lang/rust](https://github.com/rust-lang/rust) - Empowering everyone to build reliable and efficient software.
 
 ## SCSS 
