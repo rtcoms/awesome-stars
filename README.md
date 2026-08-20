@@ -82,6 +82,7 @@
 
 ## Astro 
 
+- [markmead/hyperui](https://github.com/markmead/hyperui) - Free Tailwind CSS v4 components for your next project, designed to enhance your web development with the latest features and styles 🚀
 - [nas5w/interview-guide](https://github.com/nas5w/interview-guide) - An opinionated, actionable guide for software engineering interviews.
 - [tabler/tabler](https://github.com/tabler/tabler) - Tabler is free and open-source HTML Dashboard UI Kit built on Bootstrap
 - [neiesc/awesome-minimalist](https://github.com/neiesc/awesome-minimalist) - A curated list of awesome minimalist frameworks (simple and lightweight).
@@ -606,7 +607,6 @@
 - [themesberg/flowbite-admin-dashboard](https://github.com/themesberg/flowbite-admin-dashboard) - Free and open-source admin dashboard template built with Tailwind CSS and Flowbite
 - [hopsoft/turbo_boost-commands](https://github.com/hopsoft/turbo_boost-commands) - Commands to help you build robust reactive applications with Rails & Hotwire.
 - [ChartsCSS/charts.css](https://github.com/ChartsCSS/charts.css) - Open source CSS framework for data visualization.
-- [markmead/hyperui](https://github.com/markmead/hyperui) - Free Tailwind CSS v4 components for your next project, designed to enhance your web development with the latest features and styles 🚀
 - [aadityatamrakar/option_chain_analysis](https://github.com/aadityatamrakar/option_chain_analysis) - NSE Nifty Option chain analysis on the web page.
 - [propublica/daybreak](https://github.com/propublica/daybreak) - A simple-dimple key value store for ruby.
 - [vighneshwho/clones](https://github.com/vighneshwho/clones) - UI Clones from dribble created using pure HTML & CSS
@@ -2093,7 +2093,7 @@
 - [wilwaldon/flatstrap](https://github.com/wilwaldon/flatstrap) - Bootstrap without all the extra stuff
 - [ozoneplatform/owf-framework](https://github.com/ozoneplatform/owf-framework) - OZONE Widget Framework
 - [WolframHempel/photobooth-js](https://github.com/WolframHempel/photobooth-js) - A widget that allows users to take their avatar pictures on your site
-- [andreas-pihlstrom/Nested](https://github.com/andreas-pihlstrom/Nested) - Gap free multi column grid
+- [suprb/Nested](https://github.com/suprb/Nested) - Gap free multi column grid
 - [gelus/scrobMaster](https://github.com/gelus/scrobMaster) - Master your scroll events.
 - [cbrauckmuller/helium](https://github.com/cbrauckmuller/helium) - A responsive frontend framework that won't weigh you down.
 - [vitalets/x-editable](https://github.com/vitalets/x-editable) - In-place editing with Twitter Bootstrap, jQuery UI or pure jQuery
