@@ -2841,7 +2841,6 @@
 - [enquo/active_enquo](https://github.com/enquo/active_enquo) - ActiveRecord extension for encrypted query operations
 - [metricfu/metric_fu](https://github.com/metricfu/metric_fu) - A fist full of code metrics
 - [devmasx/brakeman-linter-action](https://github.com/devmasx/brakeman-linter-action) - GitHub Action to run Rubocop against your code.
-- [brightcove-archive/ooyala_retries](https://github.com/brightcove-archive/ooyala_retries) - A tiny Rubygem for retrying code with randomized, exponential backoff.
 - [spriteCloud/lapis-lazuli](https://github.com/spriteCloud/lapis-lazuli) - Cucumber helper functions and scaffolding for easier test automation suite development.
 - [debbbbie/awesome-ruby-toolbox](https://github.com/debbbbie/awesome-ruby-toolbox) - A collection of awesome Ruby libraries from www.ruby-toolbox.com , with removing DRPRECATED libraries.
 - [byroot/activerecord-typedstore](https://github.com/byroot/activerecord-typedstore) - ActiveRecord::Store but with type definition
