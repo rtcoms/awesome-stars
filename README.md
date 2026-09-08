@@ -542,6 +542,7 @@
 - [hashicorp/waypoint](https://github.com/hashicorp/waypoint) - A tool to build, deploy, and release any application on any platform.
 - [knadh/listmonk](https://github.com/knadh/listmonk) - High performance, self-hosted, newsletter and mailing list manager with a modern dashboard. Single binary app.
 - [reviewdog/reviewdog](https://github.com/reviewdog/reviewdog) - 🐶 Automated code review tool integrated with any code analysis tools regardless of programming language
+- [nhost/nhost](https://github.com/nhost/nhost) - The Open Source Firebase Alternative with GraphQL.
 - [rqlite/rqlite](https://github.com/rqlite/rqlite) - The lightweight, fault-tolerant database built on SQLite. Designed to keep your data highly available with minimal effort.
 - [kha7iq/pingme](https://github.com/kha7iq/pingme) - PingMe - A unified CLI and web service for sending notifications across multiple messaging platforms
 - [h2non/imaginary](https://github.com/h2non/imaginary) - Fast, simple, scalable, Docker-ready HTTP microservice for high-level image processing
@@ -1880,7 +1881,6 @@
 - [yields/redact-popover](https://github.com/yields/redact-popover) - medium inspired editor popover
 - [yields/on-select](https://github.com/yields/on-select) - Invoke a callback when a user selects some text.
 - [davidgilbertson/fireball](https://github.com/davidgilbertson/fireball) - 
-- [TryGhost/Ghost](https://github.com/TryGhost/Ghost) - Independent technology for modern publishing, memberships, subscriptions and newsletters.
 - [Addepar/ember-charts](https://github.com/Addepar/ember-charts) - 
 - [maccman/jquery.magicmove](https://github.com/maccman/jquery.magicmove) - Animate DOM transitions.
 - [jaridmargolin/formatter.js](https://github.com/jaridmargolin/formatter.js) - Format html inputs to match a specified pattern
@@ -2654,6 +2654,7 @@
 - [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) - Curated list of project-based tutorials
 - [bregman-arie/devops-exercises](https://github.com/bregman-arie/devops-exercises) - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions
 - [PostHog/posthog](https://github.com/PostHog/posthog) - :hedgehog: PostHog is the leading platform for building self-driving products. Our developer tools – AI observability, analytics, session replay, flags, experiments, error tracking, logs, and more – c
+- [ccxt/ccxt](https://github.com/ccxt/ccxt) - A unified trading API with more than 100 crypto exchanges and prediction markets in JavaScript / TypeScript / Python / C# / PHP / Go / Java / Rust
 - [VarunS2002/Python-NSE-Option-Chain-Analyzer](https://github.com/VarunS2002/Python-NSE-Option-Chain-Analyzer) - The NSE has a website which displays the option chain in near real-time. This program retrieves this data from the NSE site and then generates useful analysis of the Option Chain for the specified Ind
 - [invoke-ai/InvokeAI](https://github.com/invoke-ai/InvokeAI) - Invoke is a leading creative engine for Stable Diffusion models, empowering professionals, artists, and enthusiasts to generate and create visual media using the latest AI-driven technologies. The sol
 - [GuyTevet/motion-diffusion-model](https://github.com/GuyTevet/motion-diffusion-model) - The official PyTorch implementation of the paper "Human Motion Diffusion Model"
@@ -3661,7 +3662,6 @@
 ## Rust 
 
 - [neondatabase/neon](https://github.com/neondatabase/neon) - Neon: Serverless Postgres. We separated storage and compute to offer autoscaling, code-like database branching, and scale to zero.
-- [ccxt/ccxt](https://github.com/ccxt/ccxt) - A unified trading API with more than 100 crypto exchanges and prediction markets in JavaScript / TypeScript / Python / C# / PHP / Go / Java / Rust
 - [Schniz/fnm](https://github.com/Schniz/fnm) - 🚀 Fast and simple Node.js version manager, built in Rust
 - [happenslol/qwer](https://github.com/happenslol/qwer) - 
 - [enquo/pg_enquo](https://github.com/enquo/pg_enquo) - Postgres extension to allow encrypted query operations
@@ -3971,7 +3971,6 @@
 - [jpribyl/react-hook-dragula](https://github.com/jpribyl/react-hook-dragula) - Provides named parameters and strong typing + declarative usage to dragula within React.
 - [radix-ui/colors](https://github.com/radix-ui/colors) - A gorgeous, accessible color system.
 - [themesberg/glass-ui](https://github.com/themesberg/glass-ui) - CSS UI library based on the glassmorphism design specifications
-- [nhost/nhost](https://github.com/nhost/nhost) - The Open Source Firebase Alternative with GraphQL.
 - [jawj/zapatos](https://github.com/jawj/zapatos) - Zero-abstraction Postgres for TypeScript: a non-ORM database library
 - [andoshin11/sqlpture](https://github.com/andoshin11/sqlpture) - Type Level SQL interpreter & validator.
 - [codemix/ts-sql](https://github.com/codemix/ts-sql) - A SQL database implemented purely in TypeScript type annotations.
@@ -4157,7 +4156,7 @@
 - [rjsf-team/react-jsonschema-form](https://github.com/rjsf-team/react-jsonschema-form) - A React component for building Web forms from JSON Schema.
 - [airbnb/visx](https://github.com/airbnb/visx) - 🐯 visx | visualization components
 - [schickling/chromeless](https://github.com/schickling/chromeless) - 🖥  Chrome automation made simple. Runs locally or headless on AWS Lambda.
-- [nuxt/nuxt](https://github.com/nuxt/nuxt) - the full-stack Vue framework
+- [nuxt/nuxt](https://github.com/nuxt/nuxt) - The full-stack Vue framework.
 - [react-page/react-page](https://github.com/react-page/react-page) - Next-gen, highly customizable content editor for the browser - based on React and written in TypeScript. WYSIWYG on steroids.
 - [realworld-apps/realworld](https://github.com/realworld-apps/realworld) - "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more
 - [ramonszo/zuck.js](https://github.com/ramonszo/zuck.js) - A javascript library that lets you add stories EVERYWHERE.
@@ -4237,6 +4236,7 @@
 - [inorganik/countUp.js](https://github.com/inorganik/countUp.js) - Animates a numerical value by counting to it
 - [briangonzalez/rgbaster.js](https://github.com/briangonzalez/rgbaster.js) - 🎨 A simple library for extracting dominant colors from images.
 - [ionic-team/ionic-framework](https://github.com/ionic-team/ionic-framework) - A powerful cross-platform UI toolkit for building native-quality iOS, Android, and Progressive Web Apps with HTML, CSS, and JavaScript.
+- [TryGhost/Ghost](https://github.com/TryGhost/Ghost) - Independent technology for modern publishing, memberships, subscriptions and newsletters.
 - [ionic-team/ionicons](https://github.com/ionic-team/ionicons) - Premium hand-crafted icons built by Ionic, for Ionic apps and web apps everywhere 🌎
 - [yuku/textcomplete](https://github.com/yuku/textcomplete) - Autocomplete for HTMLTextAreaElement and more.
 - [glen-cheney/Shuffle](https://github.com/glen-cheney/Shuffle) - Categorize, sort, and filter a responsive grid of items
