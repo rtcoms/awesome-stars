@@ -42,7 +42,6 @@
 - [Markdown](#markdown)
 - [Nix](#nix)
 - [Nunjucks](#nunjucks)
-- [OCaml](#ocaml)
 - [Objective-C](#objective-c)
 - [Others](#others)
 - [PHP](#php)
@@ -100,6 +99,7 @@
 - [du-song/pg_cjk_parser](https://github.com/du-song/pg_cjk_parser) - Postgres CJK Parser pg_cjk_parser is a fts (full text search) parser derived from the default parser in PostgreSQL 11. When a postgres database uses utf-8 encoding, this parser supports all the featur
 - [microsoft/PowerToys](https://github.com/microsoft/PowerToys) - Microsoft PowerToys is a collection of utilities that supercharge productivity and customization on Windows
 - [peerdavid/Watchy](https://github.com/peerdavid/Watchy) - Watchy - An Open Source E-Ink Smartwatch
+- [semgrep/semgrep](https://github.com/semgrep/semgrep) - Lightweight static analysis for many languages. Find bug variants with patterns that look like source code.
 - [google/iconvg](https://github.com/google/iconvg) - IconVG is a compact, binary format for simple vector graphics: icons, logos, glyphs and emoji.
 - [debauchee/barrier](https://github.com/debauchee/barrier) - Open-source KVM software
 - [HypoPG/hypopg](https://github.com/HypoPG/hypopg) - Hypothetical Indexes for PostgreSQL
@@ -838,7 +838,7 @@
 
 ## Haskell 
 
-- [plaintextaccounting/hledger](https://github.com/plaintextaccounting/hledger) - Robust, fast, intuitive plain text accounting tool with CLI, TUI and web interfaces.
+- [hledgerorg/hledger](https://github.com/hledgerorg/hledger) - Robust, fast, intuitive plain text accounting tool with CLI, TUI and web interfaces.
 - [caiorss/Functional-Programming](https://github.com/caiorss/Functional-Programming) - Functional Programming concepts, examples and patterns illustrated in Haskell, Ocaml and Python
 - [PostgREST/postgrest](https://github.com/PostgREST/postgrest) - REST API for any Postgres database
 
@@ -2351,10 +2351,6 @@
 
 - [h5bp/Front-end-Developer-Interview-Questions](https://github.com/h5bp/Front-end-Developer-Interview-Questions) - A list of helpful front-end related questions you can use to interview potential candidates, test yourself or completely ignore.
 
-## OCaml 
-
-- [semgrep/semgrep](https://github.com/semgrep/semgrep) - Lightweight static analysis for many languages. Find bug variants with patterns that look like source code.
-
 ## Objective-C 
 
 - [anishathalye/lumen](https://github.com/anishathalye/lumen) - Magic auto brightness based on screen contents 💡
@@ -2653,7 +2649,6 @@
 - [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) - Curated list of project-based tutorials
 - [bregman-arie/devops-exercises](https://github.com/bregman-arie/devops-exercises) - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions
 - [PostHog/posthog](https://github.com/PostHog/posthog) - :hedgehog: PostHog is the leading platform for building self-driving products. Our developer tools – AI observability, analytics, session replay, flags, experiments, error tracking, logs, and more – c
-- [ccxt/ccxt](https://github.com/ccxt/ccxt) - A unified trading API with more than 100 crypto exchanges and prediction markets in JavaScript / TypeScript / Python / C# / PHP / Go / Java / Rust
 - [VarunS2002/Python-NSE-Option-Chain-Analyzer](https://github.com/VarunS2002/Python-NSE-Option-Chain-Analyzer) - The NSE has a website which displays the option chain in near real-time. This program retrieves this data from the NSE site and then generates useful analysis of the Option Chain for the specified Ind
 - [invoke-ai/InvokeAI](https://github.com/invoke-ai/InvokeAI) - Invoke is a leading creative engine for Stable Diffusion models, empowering professionals, artists, and enthusiasts to generate and create visual media using the latest AI-driven technologies. The sol
 - [GuyTevet/motion-diffusion-model](https://github.com/GuyTevet/motion-diffusion-model) - The official PyTorch implementation of the paper "Human Motion Diffusion Model"
@@ -3661,6 +3656,7 @@
 ## Rust 
 
 - [neondatabase/neon](https://github.com/neondatabase/neon) - Neon: Serverless Postgres. We separated storage and compute to offer autoscaling, code-like database branching, and scale to zero.
+- [ccxt/ccxt](https://github.com/ccxt/ccxt) - A unified trading API with more than 100 crypto exchanges and prediction markets in JavaScript / TypeScript / Python / C# / PHP / Go / Java / Rust
 - [Schniz/fnm](https://github.com/Schniz/fnm) - 🚀 Fast and simple Node.js version manager, built in Rust
 - [happenslol/qwer](https://github.com/happenslol/qwer) - 
 - [enquo/pg_enquo](https://github.com/enquo/pg_enquo) - Postgres extension to allow encrypted query operations
