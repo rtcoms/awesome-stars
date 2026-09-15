@@ -695,7 +695,7 @@
 - [siggy/beatboxer](https://github.com/siggy/beatboxer) - Drum machine in a few hundred lines of html/js/css
 - [FrontendMasters/react-enlightenment](https://github.com/FrontendMasters/react-enlightenment) - A thoughtful and complete introduction to React.
 - [coreui/coreui-free-bootstrap-admin-template](https://github.com/coreui/coreui-free-bootstrap-admin-template) - Free Bootstrap Admin & Dashboard Template Built for AI-Assisted Development
-- [emailmonday/Cerberus](https://github.com/emailmonday/Cerberus) - A few simple, but solid patterns for responsive HTML email templates and newsletters. Even in Outlook and Gmail.
+- [emailmonday/Cerberus](https://github.com/emailmonday/Cerberus) - Simple, but solid patterns for responsive HTML email templates and newsletters. Even in Outlook and Gmail.
 - [paulkr/overhang.js](https://github.com/paulkr/overhang.js) - 🔔 A jQuery plugin for notifications, prompts and confirmations.
 - [kristoferjoseph/flexboxgrid](https://github.com/kristoferjoseph/flexboxgrid) - Grid based on CSS3 flexbox
 - [iJackUA/rwdtow](https://github.com/iJackUA/rwdtow) - Ruby Web Dev: The Other Way. Personal best practices guide.
@@ -913,7 +913,6 @@
 - [xtendui/xtendui](https://github.com/xtendui/xtendui) - Xtend UI is a powerful frontend library of Tailwind CSS components enhanced by vanilla js. It helps you build interfaces with advanced interactions and animations.
 - [prettier/plugin-ruby](https://github.com/prettier/plugin-ruby) - Prettier Ruby Plugin
 - [PostHog/squeak](https://github.com/PostHog/squeak) - A Q&A widget for your docs
-- [danhumphrey/page-modeller](https://github.com/danhumphrey/page-modeller) - ⚙️ Browser DevTools extension for modelling web pages for automation.
 - [primus/primus](https://github.com/primus/primus) - :zap: Primus, the creator god of the transformers & an abstraction layer for real-time to prevent module lock-in.
 - [PipedreamHQ/pipedream](https://github.com/PipedreamHQ/pipedream) - Connect APIs, remarkably fast.  Free for developers.
 - [wudududu/chrome-recoder-crawler](https://github.com/wudududu/chrome-recoder-crawler) - Based on Google Chrome recorder, implement UI interface capture and notify the result to the target mailbox
@@ -1007,7 +1006,7 @@
 - [jhu-ep-coursera/fullstack-course4](https://github.com/jhu-ep-coursera/fullstack-course4) - Example code for HTML, CSS, and Javascript for Web Developers Coursera Course
 - [engineer-man/piston](https://github.com/engineer-man/piston) - A high performance general purpose code execution engine.
 - [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) - Open-source foundation of ToolJet AI - the enterprise app generation platform for internal tools, dashboards, business applications, workflows and AI agents. Build visually, from a prompt, or from Cla
-- [google-map-react/google-map-react](https://github.com/google-map-react/google-map-react) - Google map library for react that allows rendering components as markers :tada:
+- [GoogleMapReact/google-map-react](https://github.com/GoogleMapReact/google-map-react) - Google map library for react that allows rendering components as markers :tada:
 - [goldbergyoni/javascript-testing-best-practices](https://github.com/goldbergyoni/javascript-testing-best-practices) - 📗🌐 🚢 Comprehensive and exhaustive JavaScript & Node.js testing best practices (August 2025)
 - [atulmy/oauth](https://github.com/atulmy/oauth) - 🔗  OAuth 2.0 implementation for various providers in one place.
 - [fly-apps/edge-apollo-cache](https://github.com/fly-apps/edge-apollo-cache) - Run and cache results from your Apollo GraphQL server on the edge with Fly
@@ -3885,6 +3884,7 @@
 - [mui/mui-x](https://github.com/mui/mui-x) - MUI X: Build complex and data-rich applications using a growing list of advanced React components, like the Data Grid, Date and Time Pickers, Charts, and more!
 - [Huachao/vscode-restclient](https://github.com/Huachao/vscode-restclient) - REST Client Extension for Visual Studio Code
 - [dev-bjoern/react-transition-value](https://github.com/dev-bjoern/react-transition-value) - 🚀 Transition number values using easing functions
+- [danhumphrey/page-modeller](https://github.com/danhumphrey/page-modeller) - ⚙️ Browser DevTools extension for modelling web pages for automation.
 - [mattermost/mattermost](https://github.com/mattermost/mattermost) - Mattermost is an open source platform for secure collaboration across the entire software development lifecycle..
 - [sergiodxa/use-mutation](https://github.com/sergiodxa/use-mutation) - 🧬 Run side-effects safely in React
 - [lissy93/personal-security-checklist](https://github.com/lissy93/personal-security-checklist) - 🔒 A compiled checklist of 300+ tips for protecting digital security and privacy in 2026
