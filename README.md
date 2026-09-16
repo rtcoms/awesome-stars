@@ -2588,6 +2588,7 @@
 
 ## PHP 
 
+- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Appwrite® - complete cloud infrastructure for your web, mobile and AI apps. Including Auth, Databases, Storage, Functions, Messaging, Hosting, Realtime and more
 - [crater-invoice-inc/crater](https://github.com/crater-invoice-inc/crater) - Open Source Invoicing Solution for Individuals & Businesses
 - [victorqribeiro/imageCounter](https://github.com/victorqribeiro/imageCounter) - A simple page view counter that store data as text and shows data as a PNG image
 - [nextcloud/fulltextsearch_elasticsearch](https://github.com/nextcloud/fulltextsearch_elasticsearch) - 🔍 Use Elasticsearch to index the content of your Nextcloud
@@ -3893,7 +3894,6 @@
 - [shoelace-style/shoelace](https://github.com/shoelace-style/shoelace) - Shoelace is now Web Awesome. Come see what’s new!
 - [baptisteArno/typebot.io](https://github.com/baptisteArno/typebot.io) - 💬 Typebot is a powerful chatbot builder that you can self-host.
 - [typestyle/typestyle](https://github.com/typestyle/typestyle) - Making CSS Typesafe 🌹
-- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Appwrite® - complete cloud infrastructure for your web, mobile and AI apps. Including Auth, Databases, Storage, Functions, Messaging, Hosting, Realtime and more
 - [toomuchdesign/re-reselect](https://github.com/toomuchdesign/re-reselect) - Enhance Reselect selectors with deeper memoization and cache management.
 - [Budibase/budibase](https://github.com/Budibase/budibase) - AI agents, automations and apps that run your operations. Model agnostic.
 - [Diablow/zustand-store-addons](https://github.com/Diablow/zustand-store-addons) - React state management addons for zustand.
