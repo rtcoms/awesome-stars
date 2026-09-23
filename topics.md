@@ -1154,7 +1154,7 @@
 - [taniarascia/primitive](https://github.com/taniarascia/primitive) - ⛏️ ‎ A front-end design toolkit for developing web apps.
 - [jh3y/driveway](https://github.com/jh3y/driveway) - pure CSS masonry layouts
 - [dohliam/dropin-minimal-css](https://github.com/dohliam/dropin-minimal-css) - Drop-in switcher for previewing minimal CSS frameworks
-- [tabler/tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 6100 free MIT-licensed high-quality SVG icons for you to use in your web projects.
+- [tabler/tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 6200 free MIT-licensed high-quality SVG icons for you to use in your web projects.
 - [Iconscout/unicons](https://github.com/Iconscout/unicons) - Discover Unicons, a free collection of beautifully crafted 7000+ SVG icons, 3D icons, animated icons and icon fonts. Perfect for websites, apps, and creative projects. Start designing with Unicons tod
 - [mavoweb/mavo](https://github.com/mavoweb/mavo) - Create web applications entirely by writing HTML and CSS!
 - [astrit/css.gg](https://github.com/astrit/css.gg) - 700+ Pure CSS, SVG & Figma UI Icons, 6000+ glyphs, patterns, colors and layouts.
@@ -6469,7 +6469,7 @@
 - [glebm/rails_email_preview](https://github.com/glebm/rails_email_preview) - Preview and edit app mailer templates in Rails.
 - [claudiob/bh](https://github.com/claudiob/bh) - Bootstrap Helpers for Ruby
 - [DefactoSoftware/Hours](https://github.com/DefactoSoftware/Hours) - Time registration that doesn't suck
-- [activerecord-hackery/ransack](https://github.com/activerecord-hackery/ransack) - Object-based searching.
+- [activerecord-hackery/ransack](https://github.com/activerecord-hackery/ransack) - Search everywhere and in a hurry!
 - [gramantin/awesome-rails](https://github.com/gramantin/awesome-rails) - A curated list of awesome things related to Ruby on Rails
 - [rpush/rpush](https://github.com/rpush/rpush) - The push notification service for Ruby.
 - [dreikanter/ruby-bookmarks](https://github.com/dreikanter/ruby-bookmarks) - Ruby and Ruby on Rails bookmarks collection
@@ -6659,7 +6659,7 @@
 - [localjo/react-tater](https://github.com/localjo/react-tater) - A React component to add annotations to any element on a page 🥔
 - [blitz-js/blitz](https://github.com/blitz-js/blitz) - ⚡️ The Missing Fullstack Toolkit for Next.js
 - [gridstack/gridstack.js](https://github.com/gridstack/gridstack.js) - Build interactive dashboards in minutes.
-- [tabler/tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 6100 free MIT-licensed high-quality SVG icons for you to use in your web projects.
+- [tabler/tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 6200 free MIT-licensed high-quality SVG icons for you to use in your web projects.
 - [adrians5j/react-butterfiles](https://github.com/adrians5j/react-butterfiles) - 🦋 Component for building file fields - from basic file inputs to drag and drop image galleries.
 - [pixelass/react-stickyroll](https://github.com/pixelass/react-stickyroll) - A react implementation of stickyroll (original)
 - [martinnov92/React-Splitters](https://github.com/martinnov92/React-Splitters) - React splitter component, written in TypeScript.
@@ -7175,7 +7175,7 @@
 - [leonid-shevtsov/headless](https://github.com/leonid-shevtsov/headless) - Create a virtual X screen from Ruby, record videos and take screenshots.
 - [AaronLasseigne/active_interaction](https://github.com/AaronLasseigne/active_interaction) - :briefcase: Manage application specific business logic.
 - [DefactoSoftware/Hours](https://github.com/DefactoSoftware/Hours) - Time registration that doesn't suck
-- [activerecord-hackery/ransack](https://github.com/activerecord-hackery/ransack) - Object-based searching.
+- [activerecord-hackery/ransack](https://github.com/activerecord-hackery/ransack) - Search everywhere and in a hurry!
 - [whitesmith/rubycritic](https://github.com/whitesmith/rubycritic) - A Ruby code quality reporter
 - [deivid-rodriguez/byebug](https://github.com/deivid-rodriguez/byebug) - Debugging in Ruby
 - [rpush/rpush](https://github.com/rpush/rpush) - The push notification service for Ruby.
@@ -7448,7 +7448,7 @@
 - [BedquiltDB/bedquilt-core](https://github.com/BedquiltDB/bedquilt-core) - A JSON document store on PostgreSQL
 - [zombodb/zombodb](https://github.com/zombodb/zombodb) - Making Postgres and Elasticsearch work together like it's 2023
 - [PostgREST/postgrest](https://github.com/PostgREST/postgrest) - REST API for any Postgres database
-- [activerecord-hackery/ransack](https://github.com/activerecord-hackery/ransack) - Object-based searching.
+- [activerecord-hackery/ransack](https://github.com/activerecord-hackery/ransack) - Search everywhere and in a hurry!
 - [sql-js/sql.js](https://github.com/sql-js/sql.js) - A javascript library to run SQLite on the web.
 - [mechanicles/ruby_simple_search](https://github.com/mechanicles/ruby_simple_search) - The simplest way to search the data (ActiveRecord)
 - [knex/knex](https://github.com/knex/knex) - A query builder for PostgreSQL, MySQL, CockroachDB, SQL Server, SQLite3 and Oracle, designed to be flexible, portable, and fun to use.
@@ -7508,7 +7508,7 @@
 - [konstaui/konsta](https://github.com/konstaui/konsta) - Mobile UI components made with Tailwind CSS
 - [windicss/windicss](https://github.com/windicss/windicss) - Next generation utility-first CSS framework.
 - [xyflow/xyflow](https://github.com/xyflow/xyflow) - React Flow | Svelte Flow - Powerful open source libraries for building node-based UIs with React (https://reactflow.dev) or Svelte (https://svelteflow.dev). Ready out-of-the-box and infinitely customi
-- [tabler/tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 6100 free MIT-licensed high-quality SVG icons for you to use in your web projects.
+- [tabler/tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 6200 free MIT-licensed high-quality SVG icons for you to use in your web projects.
 - [TanStack/query](https://github.com/TanStack/query) - 🤖 Powerful asynchronous state management, server-state utilities and data fetching for the web. TS/JS, React Query, Solid Query, Svelte Query and Vue Query.
 - [redux-zero/redux-zero](https://github.com/redux-zero/redux-zero) - A lightweight state container based on Redux
 - [jackocnr/intl-tel-input](https://github.com/jackocnr/intl-tel-input) - For entering, formatting, and validating international telephone numbers. Available in vanilla JavaScript, or as React, Vue, Angular, and Svelte components.
