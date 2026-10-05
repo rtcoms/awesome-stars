@@ -2637,7 +2637,7 @@
 
 - [chrisworsey55/atlas-gic](https://github.com/chrisworsey55/atlas-gic) - ATLAS by General Intelligence Capital — Self-improving AI trading agents using Karpathy-style autoresearch
 - [timowhite88/Farnsworth](https://github.com/timowhite88/Farnsworth) - Farnsworth is an autonomous, infinitely-memorable, self-evolving companion AI built entirely with free open-source tools.
-- [gmickel/flow-next](https://github.com/gmickel/flow-next) - Repeatable agentic engineering. The workflow layer that turns AI coding agents into a disciplined factory: durable specs, fresh-context workers, adversarial cross-model reviews, receipts. Everything i
+- [gmickel/flow-next](https://github.com/gmickel/flow-next) - Faster than your agent alone. And better. A workflow plugin that takes a bug, idea or ticket to a verified pull request: specs, cross-model review by risk, live QA, receipts in your repo. Claude Code 
 - [maguowei/starred](https://github.com/maguowei/starred) - Create and maintain your own Awesome-style list from GitHub stars!
 - [sgprasad66/ChartInkScreenerScraper](https://github.com/sgprasad66/ChartInkScreenerScraper) - This repository contains python scripts to carry out automated trading. Includes programmatically placing a Short Straddle for Bank Nifty(Intraday).
 - [kzh-dev/pine-bot-client](https://github.com/kzh-dev/pine-bot-client) - Trading bot using Pine script
@@ -2649,7 +2649,6 @@
 - [PostHog/posthog](https://github.com/PostHog/posthog) - :hedgehog: PostHog is the leading platform for building self-driving products. Our developer tools – AI observability, analytics, session replay, flags, experiments, error tracking, logs, and more – c
 - [ccxt/ccxt](https://github.com/ccxt/ccxt) - A unified trading API with more than 100 crypto exchanges and prediction markets in JavaScript / TypeScript / Python / C# / PHP / Go / Java / Rust
 - [VarunS2002/Python-NSE-Option-Chain-Analyzer](https://github.com/VarunS2002/Python-NSE-Option-Chain-Analyzer) - The NSE has a website which displays the option chain in near real-time. This program retrieves this data from the NSE site and then generates useful analysis of the Option Chain for the specified Ind
-- [invoke-ai/InvokeAI](https://github.com/invoke-ai/InvokeAI) - Invoke is a leading creative engine for Stable Diffusion models, empowering professionals, artists, and enthusiasts to generate and create visual media using the latest AI-driven technologies. The sol
 - [GuyTevet/motion-diffusion-model](https://github.com/GuyTevet/motion-diffusion-model) - The official PyTorch implementation of the paper "Human Motion Diffusion Model"
 - [itsXactlY/Advanced-Tradingview-Webhook](https://github.com/itsXactlY/Advanced-Tradingview-Webhook) - 
 - [joesinghh/AlgoApp](https://github.com/joesinghh/AlgoApp) - Algo trading application for option trading.
@@ -3702,7 +3701,6 @@
 - [fortrabbit/teutonic-css](https://github.com/fortrabbit/teutonic-css) - A modern CSS framework — versatile, well documented.
 - [madeas/box-shadows.css](https://github.com/madeas/box-shadows.css) - :pisces: A cross-browser collection of CSS box-shadows
 - [papercss/papercss](https://github.com/papercss/papercss) - The Less Formal CSS Framework
-- [rstacruz/cheatsheets](https://github.com/rstacruz/cheatsheets) - Cheatsheets for web development - devhints.io
 - [lumenwrites/nulis](https://github.com/lumenwrites/nulis) - Mind-mapping software that helps writers collect and organize their knowledge, develop their ideas. Built with React, Redux, Node.js, hosted on Digital Ocean.
 - [nordtheme/nord](https://github.com/nordtheme/nord) - An arctic, north-bluish color palette.
 - [silvio-r/spop](https://github.com/silvio-r/spop) - A lightweight small pop up widget with no dependencies, create notifications easily with this javascript plugin.
@@ -3850,6 +3848,7 @@
 - [outline/outline](https://github.com/outline/outline) - The fastest knowledge base for growing teams. Beautiful, realtime collaborative, feature packed, and markdown compatible.
 - [InboxSDK/InboxSDK](https://github.com/InboxSDK/InboxSDK) - The InboxSDK lets you build apps for Gmail.
 - [microsoft/azure-pipelines-tasks](https://github.com/microsoft/azure-pipelines-tasks) - Tasks for Azure Pipelines
+- [invoke-ai/InvokeAI](https://github.com/invoke-ai/InvokeAI) - Invoke is a leading creative engine for Stable Diffusion models, empowering professionals, artists, and enthusiasts to generate and create visual media using the latest AI-driven technologies. The sol
 - [vercel/satori](https://github.com/vercel/satori) - Enlightened library to convert HTML and CSS to SVG
 - [thibaultyou/tradingview-alerts-processor](https://github.com/thibaultyou/tradingview-alerts-processor) - Minimalist service designed to execute TradingView webhooks and process them to cryptocurrencies exchanges.
 - [gilbarbara/react-joyride](https://github.com/gilbarbara/react-joyride) - Create guided tours in your apps
@@ -3906,7 +3905,7 @@
 - [malloydata/malloy](https://github.com/malloydata/malloy) - Malloy is a modern open source language for describing data relationships and transformations.
 - [YousefED/SyncedStore](https://github.com/YousefED/SyncedStore) - SyncedStore CRDT is an easy-to-use library for building live, collaborative applications that sync automatically.
 - [YousefED/Matrix-CRDT](https://github.com/YousefED/Matrix-CRDT) - Use Matrix as a backend for local-first applications with the Matrix-CRDT Yjs provider.
-- [omgovich/react-colorful](https://github.com/omgovich/react-colorful) - 🎨 A tiny (2,8 KB) color picker component for React and Preact apps
+- [omgovich/react-colorful](https://github.com/omgovich/react-colorful) - 🎨 A tiny (3,1 KB) color picker component for React and Preact apps
 - [ValentinH/react-easy-crop](https://github.com/ValentinH/react-easy-crop) - A React component to crop images/videos with easy interactions
 - [DefinitelyTyped/DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped) - The repository for high quality TypeScript type definitions.
 - [maxsteenbergen/pebble-icons](https://github.com/maxsteenbergen/pebble-icons) - A free funky formalicious icon set for React (& plain ol' SVG & PNG)
@@ -3921,7 +3920,7 @@
 - [inrupt-archived/solid-ui-react](https://github.com/inrupt-archived/solid-ui-react) - React SDK using @inrupt/solid-client
 - [unocss/unocss](https://github.com/unocss/unocss) - The instant on-demand atomic CSS engine.
 - [refinedev/refine](https://github.com/refinedev/refine) - A React Framework for building  internal tools, admin panels, dashboards & B2B apps with unmatched flexibility.
-- [imbhargav5/rooks](https://github.com/imbhargav5/rooks) - Over 700 k monthly downloads. Collection of awesome react hooks
+- [imbhargav5/rooks](https://github.com/imbhargav5/rooks) - Over 800 k monthly downloads. Collection of awesome react hooks
 - [betula/use-between](https://github.com/betula/use-between) - Sharing state between React components
 - [dai-shi/use-reducer-async](https://github.com/dai-shi/use-reducer-async) - React useReducer with async actions
 - [radix-ui/primitives](https://github.com/radix-ui/primitives) - Radix Primitives is an open-source UI component library for building high-quality, accessible design systems and web apps. Maintained by @workos.
@@ -4142,6 +4141,7 @@
 - [youzan/zent](https://github.com/youzan/zent) - A collection of essential UI components written with React.
 - [infinitered/ignite](https://github.com/infinitered/ignite) - Infinite Red's battle-tested React Native project boilerplate, along with a CLI, component/model generators, and more! 9 years of continuous development and counting.
 - [nilbuild/developer-roadmap](https://github.com/nilbuild/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
+- [rstacruz/cheatsheets](https://github.com/rstacruz/cheatsheets) - Cheatsheets for web development - devhints.io
 - [ustbhuangyi/better-scroll](https://github.com/ustbhuangyi/better-scroll) - :scroll: inspired by iscroll, and it supports more features and has a better scroll perfermance
 - [clintonwoo/hackernews-react-graphql](https://github.com/clintonwoo/hackernews-react-graphql) - Hacker News clone rewritten with universal JavaScript, using React and GraphQL.
 - [react-dnd/react-dnd](https://github.com/react-dnd/react-dnd) - Drag and Drop for React
