@@ -4995,7 +4995,7 @@
 - [KittyGiraudel/awesome-sass](https://github.com/KittyGiraudel/awesome-sass) - A curated list of awesome Sass.
 - [julianshapiro/blast](https://github.com/julianshapiro/blast) - Blast text apart to make it manipulable.
 - [ankane/pghero](https://github.com/ankane/pghero) - A performance dashboard for Postgres
-- [kangax/html-minifier](https://github.com/kangax/html-minifier) - Javascript-based HTML compressor/minifier (with Node.js support)
+- [kangax/html-minifier](https://github.com/kangax/html-minifier) - The original html-minifier (2010–2019). No longer maintained; succeeded by HTML Minifier Next.
 - [jasonmayes/Smart-Content-Placer](https://github.com/jasonmayes/Smart-Content-Placer) - A small JavaScript class to programmatically position content with variable widths and heights and minimizing whitespace gaps. Imagine Pinterest on steroids (Pinterest only allows for variable height)
 - [yosssi/ace](https://github.com/yosssi/ace) - HTML template engine for Go
 - [Wisembly/basil.js](https://github.com/Wisembly/basil.js) - The missing Javascript smart persistent layer
