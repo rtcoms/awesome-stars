@@ -83,7 +83,7 @@
 
 - [markmead/hyperui](https://github.com/markmead/hyperui) - Free Tailwind CSS v4 components for your next project, designed to enhance your web development with the latest features and styles 🚀
 - [nas5w/interview-guide](https://github.com/nas5w/interview-guide) - An opinionated, actionable guide for software engineering interviews.
-- [tabler/tabler](https://github.com/tabler/tabler) - Tabler is free and open-source HTML Dashboard UI Kit built on Bootstrap
+- [tabler/tabler](https://github.com/tabler/tabler) - Free and open source admin dashboard UI kit built on Bootstrap: 100+ pages, 5,000+ icons, dark mode, RTL.
 - [neiesc/awesome-minimalist](https://github.com/neiesc/awesome-minimalist) - A curated list of awesome minimalist frameworks (simple and lightweight).
 
 ## C 
@@ -1440,6 +1440,7 @@
 - [amperser/proselint](https://github.com/amperser/proselint) - [Mirror] A linter for prose.
 - [UDST/vizicities](https://github.com/UDST/vizicities) - A framework for 3D geospatial visualization in the browser
 - [uidotdev/react-course](https://github.com/uidotdev/react-course) - Code for ui.dev's "Classic React" course
+- [markedjs/marked](https://github.com/markedjs/marked) - A markdown parser and compiler. Built for speed.
 - [raphamorim/origami.js](https://github.com/raphamorim/origami.js) - Powerful and Lightweight Library to create using HTML5 Canvas
 - [fiduswriter/fiduswriter](https://github.com/fiduswriter/fiduswriter) - Fidus Writer is an online collaborative editor for academics.
 - [bringking/react-web-animation](https://github.com/bringking/react-web-animation) - React components for the Web Animations API - http://react-web-animation.surge.sh
@@ -1578,7 +1579,7 @@
 - [jbt/markdown-editor](https://github.com/jbt/markdown-editor) - Live (Github-flavored) Markdown Editor
 - [ded/reqwest](https://github.com/ded/reqwest) - browser asynchronous http requests
 - [browserstate/history.js](https://github.com/browserstate/history.js) - History.js gracefully supports the HTML5 History/State APIs (pushState, replaceState, onPopState) in all browsers. Including continued support for data, titles, replaceState. Supports jQuery, MooTools
-- [sampotts/plyr](https://github.com/sampotts/plyr) - A simple HTML5, YouTube and Vimeo player
+- [sampotts/plyr](https://github.com/sampotts/plyr) - Deprecated in favour of Video.js 10; security updates only. Simple HTML5, YouTube and Vimeo player.
 - [sahat/hackathon-starter](https://github.com/sahat/hackathon-starter) - A boilerplate for Node.js web applications
 - [ejci/favico.js](https://github.com/ejci/favico.js) - Make use of your favicon with badges, images or videos
 - [mui/material-ui](https://github.com/mui/material-ui) - Material UI: Comprehensive React component library that implements Google's Material Design. Free forever.
@@ -1682,7 +1683,7 @@
 - [darsain/espy](https://github.com/darsain/espy) - jQuery plugin for on-scroll detecting whether the element entered or left the viewport.
 - [forcedotcom/scrollerjs](https://github.com/forcedotcom/scrollerjs) - A JavaScript library that helps you build performant UI components for the web.
 - [julianshapiro/blast](https://github.com/julianshapiro/blast) - Blast text apart to make it manipulable.
-- [kangax/html-minifier](https://github.com/kangax/html-minifier) - Javascript-based HTML compressor/minifier (with Node.js support)
+- [kangax/html-minifier](https://github.com/kangax/html-minifier) - The original html-minifier (2010–2019). No longer maintained; succeeded by HTML Minifier Next.
 - [jasonmayes/Smart-Content-Placer](https://github.com/jasonmayes/Smart-Content-Placer) - A small JavaScript class to programmatically position content with variable widths and heights and minimizing whitespace gaps. Imagine Pinterest on steroids (Pinterest only allows for variable height)
 - [localForage/localForage](https://github.com/localForage/localForage) - 💾 Offline storage, improved. Wraps IndexedDB, WebSQL, or localStorage using a simple but powerful API.
 - [Wisembly/basil.js](https://github.com/Wisembly/basil.js) - The missing Javascript smart persistent layer
@@ -2248,7 +2249,6 @@
 - [CSS-Tricks/MovingBoxes](https://github.com/CSS-Tricks/MovingBoxes) - Simple horizontal slider which grows up the current box when it's in focus (image, title & text) and back down when it's not in focus.
 - [FineUploader/fine-uploader](https://github.com/FineUploader/fine-uploader) - Multiple file upload plugin with image previews, drag and drop, progress bars. S3 and Azure support, image scaling, form support, chunking, resume, pause, and tons of other features.
 - [wbotelhos/raty](https://github.com/wbotelhos/raty) - :star2: Raty - A Star Rating Plugin
-- [videojs/video.js](https://github.com/videojs/video.js) - Video.js - open source HTML5 video player
 - [tuupola/jquery_chained](https://github.com/tuupola/jquery_chained) - Chained Selects for jQuery and Zepto
 - [mmurph211/Grid](https://github.com/mmurph211/Grid) - HTML-based table with fixed headers, fixed footers, fixed left columns, row selection, sorting and more.
 - [mrdoob/three.js](https://github.com/mrdoob/three.js) - JavaScript 3D Library.
@@ -3671,7 +3671,7 @@
 - [transact-rs/sqlx](https://github.com/transact-rs/sqlx) - 🧰 The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without a DSL. Supports PostgreSQL, MySQL, and SQLite.
 - [tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop and mobile applications with a web frontend.
 - [H-M-H/Weylus](https://github.com/H-M-H/Weylus) - Use your tablet as graphic tablet/touch screen on your computer.
-- [Y2Z/monolith](https://github.com/Y2Z/monolith) - ⬛️ CLI tool and library for saving complete web pages as a single HTML file
+- [Y2Z/monolith](https://github.com/Y2Z/monolith) - ⬛️ GUI/CLI tool and library for saving complete web pages as a single HTML file
 - [jacobdeichert/wasm-astar](https://github.com/jacobdeichert/wasm-astar) - 👾 Rust WebAssembly A* Pathfinding Demo
 - [nikivdev/code](https://github.com/nikivdev/code) - 
 - [ivanceras/svgbob](https://github.com/ivanceras/svgbob) - Convert your ascii diagram scribbles into happy little SVG
@@ -4190,7 +4190,6 @@
 - [floating-ui/floating-ui](https://github.com/floating-ui/floating-ui) - A JavaScript library to position floating elements and create interactions for them.
 - [este/este](https://github.com/este/este) - This repo is suspended.
 - [DKirwan/calendar-heatmap](https://github.com/DKirwan/calendar-heatmap) - A d3 heatmap for representing time series data similar to github's contribution chart
-- [markedjs/marked](https://github.com/markedjs/marked) - A markdown parser and compiler. Built for speed.
 - [JedWatson/react-select](https://github.com/JedWatson/react-select) - The Select Component for React.js
 - [ichub/tply](https://github.com/ichub/tply) - typewriter effect for your websites
 - [GrapesJS/grapesjs](https://github.com/GrapesJS/grapesjs) - Free and Open source Web Builder Framework. Next generation tool for building templates without coding
@@ -4245,6 +4244,7 @@
 - [peers/peerjs](https://github.com/peers/peerjs) - Simple peer-to-peer with WebRTC.
 - [stutrek/scrollmonitor](https://github.com/stutrek/scrollmonitor) - A simple and fast API to monitor elements as you scroll
 - [fabricjs/fabric.js](https://github.com/fabricjs/fabric.js) - Javascript Canvas Library, SVG-to-Canvas (& canvas-to-SVG) Parser
+- [videojs/video.js](https://github.com/videojs/video.js) - Video.js v10 - open source media player framework for HTML and React.
 
 ## Vala 
 
