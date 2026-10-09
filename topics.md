@@ -4450,7 +4450,7 @@
 - [dixonandmoe/rellax](https://github.com/dixonandmoe/rellax) - Lightweight, vanilla javascript parallax library
 - [jvilk/BrowserFS](https://github.com/jvilk/BrowserFS) - BrowserFS is an in-browser filesystem that emulates the Node JS filesystem API and supports storing and retrieving files from various backends.
 - [mtyugaev/jquery-number-divider](https://github.com/mtyugaev/jquery-number-divider) - jQuery number divider plugin
-- [video-react/video-react](https://github.com/video-react/video-react) - A web video player built for the HTML5 world using React library.
+- [video-react/video-react](https://github.com/video-react/video-react) - Deprecated in favour of Video.js 10; security fixes only. A web video player built for the HTML5 world using React library.
 - [255kb/stack-on-a-budget](https://github.com/255kb/stack-on-a-budget) - A collection of services with great free tiers for developers on a budget. Sponsored by Mockoon, the best mock API tool. https://mockoon.com
 - [space10-community/conversational-form](https://github.com/space10-community/conversational-form) - Turning web forms into conversations
 - [usablica/kissui.position](https://github.com/usablica/kissui.position) - Track element(s) on the page like a boss.
