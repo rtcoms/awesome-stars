@@ -634,6 +634,7 @@
 - [dankito/Readability4J](https://github.com/dankito/Readability4J) - A Kotlin port of Mozilla‘s Readability. It extracts a website‘s relevant content and removes all clutter from it.
 - [WebReflection/hyperHTML](https://github.com/WebReflection/hyperHTML) - A Fast & Light Virtual DOM Alternative
 - [justalever/kickoff_vite_rails](https://github.com/justalever/kickoff_vite_rails) - A rapid Rails 6.1+ application template bundled with Vite and WindiCSS
+- [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) - Open-source foundation of ToolJet AI - the enterprise app generation platform for internal tools, dashboards, business applications, workflows and AI agents. Build visually, from a prompt, or from Cla
 - [Bramjetten/Spina](https://github.com/Bramjetten/Spina) - Spina CMS
 - [HoangTran0410/3DCarousel](https://github.com/HoangTran0410/3DCarousel) - 3D Carousel with mouse controls
 - [dwyl/learn-javascript](https://github.com/dwyl/learn-javascript) - A Series of Simple Steps in JavaScript :-)
@@ -1004,7 +1005,6 @@
 - [apostrophecms/apostrophe](https://github.com/apostrophecms/apostrophe) - A full-featured, open-source content management framework built with Node.js that empowers organizations by combining in-context editing and headless architecture in a full-stack JS environment.
 - [jhu-ep-coursera/fullstack-course4](https://github.com/jhu-ep-coursera/fullstack-course4) - Example code for HTML, CSS, and Javascript for Web Developers Coursera Course
 - [engineer-man/piston](https://github.com/engineer-man/piston) - A high performance general purpose code execution engine.
-- [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) - Open-source foundation of ToolJet AI - the enterprise app generation platform for internal tools, dashboards, business applications, workflows and AI agents. Build visually, from a prompt, or from Cla
 - [GoogleMapReact/google-map-react](https://github.com/GoogleMapReact/google-map-react) - Google map library for react that allows rendering components as markers :tada:
 - [goldbergyoni/javascript-testing-best-practices](https://github.com/goldbergyoni/javascript-testing-best-practices) - 📗🌐 🚢 Comprehensive and exhaustive JavaScript & Node.js testing best practices (August 2025)
 - [atulmy/oauth](https://github.com/atulmy/oauth) - 🔗  OAuth 2.0 implementation for various providers in one place.
@@ -1598,7 +1598,7 @@
 - [rkusa/pdfjs](https://github.com/rkusa/pdfjs) - A Portable Document Format (PDF) generation library targeting both the server- and client-side.
 - [senthilporunan/jRate](https://github.com/senthilporunan/jRate) - Generate SVG based Rating with various customized fancy features. More information @ www.toolitup.com
 - [arendjr/selectivity](https://github.com/arendjr/selectivity) - Modular and light-weight selection library
-- [itteco/iframely](https://github.com/itteco/iframely) - oEmbed proxy. Supports over 1800 domains via custom parsers, oEmbed, Twitter Cards and Open Graph
+- [itteco/iframely](https://github.com/itteco/iframely) - The URL engine behind Iframely. Self-hosted parsers that turn links into metadata, previews and embeds.
 - [gnab/remark](https://github.com/gnab/remark) - A simple, in-browser, markdown-driven slideshow tool.
 - [ryanve/verge](https://github.com/ryanve/verge) - get viewport dimensions...detect elements in the viewport...trust in &lt;!DOCTYPE html&gt;
 - [daniel-lundin/snabbt.js](https://github.com/daniel-lundin/snabbt.js) - Fast animations with javascript and CSS transforms
@@ -3017,7 +3017,7 @@
 - [teoljungberg/fx](https://github.com/teoljungberg/fx) - Versioned database functions and triggers for Rails
 - [qertoip/transaction_retry](https://github.com/qertoip/transaction_retry) - Retries database transaction on deadlock and transaction serialization errors. Supports MySQL, PostgreSQL and SQLite.
 - [increments/active_interactor](https://github.com/increments/active_interactor) - Simple use case interactor for Rails apps based on ActiveModel.
-- [marcoschicote/capistrano3-autoscaling-deploy](https://github.com/marcoschicote/capistrano3-autoscaling-deploy) - Capistrano 3 plugin for AWS Auto Scaling
+- [marcoschicote/capistrano3-autoscaling-deploy](https://github.com/marcoschicote/capistrano3-autoscaling-deploy) - Capistrano 3 plugin that deploys to the in-service instances of an AWS Auto Scaling group
 - [dry-rb/dry-container](https://github.com/dry-rb/dry-container) - A simple, configurable object container implemented in Ruby
 - [panorama-ed/memo_wise](https://github.com/panorama-ed/memo_wise) - The wise choice for Ruby memoization
 - [enriclluelles/route_translator](https://github.com/enriclluelles/route_translator) - Translate your rails app route to various languages without the hassle
@@ -3889,7 +3889,7 @@
 - [shoelace-style/shoelace](https://github.com/shoelace-style/shoelace) - Shoelace is now Web Awesome. Come see what’s new!
 - [baptisteArno/typebot.io](https://github.com/baptisteArno/typebot.io) - 💬 Typebot is a powerful chatbot builder that you can self-host.
 - [typestyle/typestyle](https://github.com/typestyle/typestyle) - Making CSS Typesafe 🌹
-- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Appwrite® - complete cloud infrastructure for your web, mobile and AI apps. Including Auth, Databases, Storage, Functions, Messaging, Hosting, Realtime and more
+- [appwrite/appwrite](https://github.com/appwrite/appwrite) - The open-source cloud for agents & devs. Including Auth, Databases, Storage, Functions, Messaging, Hosting, Realtime, WAF and more
 - [toomuchdesign/re-reselect](https://github.com/toomuchdesign/re-reselect) - Enhance Reselect selectors with deeper memoization and cache management.
 - [Budibase/budibase](https://github.com/Budibase/budibase) - AI agents, automations and apps that run your operations. Model agnostic.
 - [Diablow/zustand-store-addons](https://github.com/Diablow/zustand-store-addons) - React state management addons for zustand.
