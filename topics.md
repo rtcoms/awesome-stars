@@ -879,7 +879,6 @@
 - [schickling/chromeless](https://github.com/schickling/chromeless) - 🖥  Chrome automation made simple. Runs locally or headless on AWS Lambda.
 - [casesandberg/react-color](https://github.com/casesandberg/react-color) - :art: Color Pickers from Sketch, Photoshop, Chrome, Github, Twitter & more
 - [takempf/GIFit](https://github.com/takempf/GIFit) - Make GIFs from &lt;video&gt; on the web with this extension for Google Chrome and Firefox.
-- [segment-boneyard/nightmare](https://github.com/segment-boneyard/nightmare) - A high-level browser automation library.
 - [google/WebFundamentals](https://github.com/google/WebFundamentals) - Former git repo for WebFundamentals on developers.google.com
 
 ## chrome-extension 
@@ -1687,7 +1686,6 @@
 - [bluedaniel/Kakapo-app](https://github.com/bluedaniel/Kakapo-app) - :musical_note: [Web & Desktop] An open source ambient sound mixer
 - [nativefier/nativefier](https://github.com/nativefier/nativefier) - Make any web page a desktop application
 - [benoitvallon/react-native-nw-react-calculator](https://github.com/benoitvallon/react-native-nw-react-calculator) - Mobile, desktop and website Apps with the same code
-- [segment-boneyard/nightmare](https://github.com/segment-boneyard/nightmare) - A high-level browser automation library.
 - [typicode/lowdb](https://github.com/typicode/lowdb) - Simple and fast JSON database
 - [atom/atom](https://github.com/atom/atom) - :atom: The hackable text editor
 
@@ -4516,7 +4514,6 @@
 - [wvanbergen/node-vertica](https://github.com/wvanbergen/node-vertica) - Pure javascript Vertica database client. Except it is written in CoffeeScript.
 - [proshoumma/Asprov-Notes](https://github.com/proshoumma/Asprov-Notes) - A simple notes taking application. Built on top of react-native, redux, native android navigator and redux-store for persistent data storage.
 - [voormedia/rails-erd](https://github.com/voormedia/rails-erd) - Generate Entity-Relationship Diagrams for Rails applications
-- [urre/checkbix](https://github.com/urre/checkbix) - Simple lightweight vanilla Javascript plugin for enhancing checkboxes.
 - [guivr/Chameleon](https://github.com/guivr/Chameleon) - 🌈  Use Chameleon on elements that need to change their style inheriting properties of other elements through jQuery.
 - [kristoferjoseph/flexboxgrid](https://github.com/kristoferjoseph/flexboxgrid) - Grid based on CSS3 flexbox
 - [anishathalye/lumen](https://github.com/anishathalye/lumen) - Magic auto brightness based on screen contents 💡
@@ -5395,7 +5392,6 @@
 - [dowjones/intentionjs](https://github.com/dowjones/intentionjs) - A library for intentionally dealing with responsive design
 - [mauricecruz/chrome-devtools-zerodarkmatrix-theme](https://github.com/mauricecruz/chrome-devtools-zerodarkmatrix-theme) - A highly customized dark theme for Chrome
 - [dgorissen/coursera-dl](https://github.com/dgorissen/coursera-dl) - A script for downloading course material (video's, pdfs, quizzes, etc) from coursera.org
-- [segment-boneyard/sheet](https://github.com/segment-boneyard/sheet) - A special modal that slides out from the right or left side of the screen.
 - [simplefocus/FlowType.JS](https://github.com/simplefocus/FlowType.JS) - Web typography at its finest: font-size and line-height based on element width.
 - [rickyrauch/nodejs-starter](https://github.com/rickyrauch/nodejs-starter) - Single Page App setup using industry's best practices and modules. Node.js, Express, Mongoose, passport.js, component.io, Jade, Stylus and Bootstrap.
 - [cheerful/zprogress](https://github.com/cheerful/zprogress) - Thin-line progress bar for Zepto
@@ -7685,7 +7681,6 @@
 - [ellisonleao/sharer.js](https://github.com/ellisonleao/sharer.js) - :on: :bookmark: Create your own social share buttons. No jquery. Just vanilla JS
 - [kni-labs/rrssb](https://github.com/kni-labs/rrssb) - :arrow_right_hook: Ridiculously Responsive Social Sharing Buttons
 - [christophery/slide-social-buttons](https://github.com/christophery/slide-social-buttons) - Slide Social Buttons are a fun way to display your social media buttons.
-- [huginn/huginn](https://github.com/huginn/huginn) - Create agents that monitor and act on your behalf.  Your agents are standing by!
 - [filamentgroup/SocialCount](https://github.com/filamentgroup/SocialCount) - Unmaintained (see the README): Simple barebones project to show share counts from various social networks.
 
 ## typescript 
