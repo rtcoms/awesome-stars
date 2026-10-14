@@ -209,7 +209,6 @@
 - [mobi-css/mobi.css](https://github.com/mobi-css/mobi.css) - A lightweight, scalable, mobile-first CSS framework
 - [BuckyMaler/global](https://github.com/BuckyMaler/global) - HTML5 website template
 - [AdamMarsden/simple-typography](https://github.com/AdamMarsden/simple-typography) - A simple starting ground for beautiful typography on the web using Sass.
-- [urre/checkbix](https://github.com/urre/checkbix) - Simple lightweight vanilla Javascript plugin for enhancing checkboxes.
 - [vas3k/GodMode2](https://github.com/vas3k/GodMode2) - Semi-automatic admin site generator for any SQL database
 - [egoist/hack](https://github.com/egoist/hack) - ⛷ Dead simple CSS framework.
 - [ruanyf/jstutorial](https://github.com/ruanyf/jstutorial) - Javascript tutorial book
@@ -1489,7 +1488,6 @@
 - [garbles/yolk](https://github.com/garbles/yolk) - :egg: A library for building asynchronous user interfaces.
 - [sparksuite/simplemde-markdown-editor](https://github.com/sparksuite/simplemde-markdown-editor) - A simple, beautiful, and embeddable JavaScript Markdown editor. Delightful editing for beginners and experts alike. Features built-in autosaving and spell checking.
 - [cheeaun/mooeditable](https://github.com/cheeaun/mooeditable) - [DISCONTINUED] A simple web-based WYSIWYG editor, written in MooTools.
-- [segment-boneyard/nightmare](https://github.com/segment-boneyard/nightmare) - A high-level browser automation library.
 - [runemadsen/rune.js](https://github.com/runemadsen/rune.js) - A JavaScript library for programming graphic design systems with SVG
 - [jwagner/smartcrop.js](https://github.com/jwagner/smartcrop.js) - Content aware image cropping
 - [s-yadav/ScrollMenu](https://github.com/s-yadav/ScrollMenu) - A new interface to replace your old boring scrollbar
@@ -1924,7 +1922,6 @@
 - [briangonzalez/jquery.arbitrary-anchor.js](https://github.com/briangonzalez/jquery.arbitrary-anchor.js) - ⚓ Arbitrary anchors for any element on your page using a little jQuery magic.
 - [bitwiseshiftleft/sjcl](https://github.com/bitwiseshiftleft/sjcl) - [DEPRECATED] Stanford Javascript Crypto Library
 - [mauricecruz/chrome-devtools-zerodarkmatrix-theme](https://github.com/mauricecruz/chrome-devtools-zerodarkmatrix-theme) - A highly customized dark theme for Chrome
-- [segment-boneyard/sheet](https://github.com/segment-boneyard/sheet) - A special modal that slides out from the right or left side of the screen.
 - [simplefocus/FlowType.JS](https://github.com/simplefocus/FlowType.JS) - Web typography at its finest: font-size and line-height based on element width.
 - [rickyrauch/nodejs-starter](https://github.com/rickyrauch/nodejs-starter) - Single Page App setup using industry's best practices and modules. Node.js, Express, Mongoose, passport.js, component.io, Jade, Stylus and Bootstrap.
 - [cheerful/zprogress](https://github.com/cheerful/zprogress) - Thin-line progress bar for Zepto
