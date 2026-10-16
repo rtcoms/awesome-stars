@@ -83,7 +83,7 @@
 
 - [markmead/hyperui](https://github.com/markmead/hyperui) - Free Tailwind CSS v4 components for your next project, designed to enhance your web development with the latest features and styles 🚀
 - [nas5w/interview-guide](https://github.com/nas5w/interview-guide) - An opinionated, actionable guide for software engineering interviews.
-- [tabler/tabler](https://github.com/tabler/tabler) - Free and open source admin dashboard UI kit built on Bootstrap: 100+ pages, 5,000+ icons, dark mode, RTL.
+- [tabler/tabler](https://github.com/tabler/tabler) - Free and open source admin dashboard UI kit built on Bootstrap: 100+ pages, 6,000+ icons, dark mode, RTL.
 - [neiesc/awesome-minimalist](https://github.com/neiesc/awesome-minimalist) - A curated list of awesome minimalist frameworks (simple and lightweight).
 
 ## C 
@@ -738,7 +738,6 @@
 - [jxnblk/fitter-happier-text](https://github.com/jxnblk/fitter-happier-text) - Performant, fully fluid headings
 - [maciej-gurban/responsive-bootstrap-toolkit](https://github.com/maciej-gurban/responsive-bootstrap-toolkit) - Responsive Bootstrap Toolkit allows for easy breakpoint detection in JavaScript
 - [chromawoods/instaFilta](https://github.com/chromawoods/instaFilta) - jQuery plugin for performing in-page filtering
-- [chartist-js/chartist](https://github.com/chartist-js/chartist) - Simple responsive charts
 - [mailgun/transactional-email-templates](https://github.com/mailgun/transactional-email-templates) - Responsive transactional HTML email templates
 - [invertase/rdash-angular](https://github.com/invertase/rdash-angular) - AngularJS implementation of the RDash admin dashboard theme
 - [ResponsiveBP/Responsive](https://github.com/ResponsiveBP/Responsive) - :iphone: A super lightweight HTML, Sass, CSS, and JavaScript framework for building responsive websites
@@ -1989,7 +1988,6 @@
 - [codrops/YouTubeLeftSideMenu](https://github.com/codrops/YouTubeLeftSideMenu) - A tutorial on how to recreate the effect of YouTube's little left side menu. The idea is to slide a little menu icon to the right side while revealing some menu item list beneath.
 - [vasyl-zubach/tFormer.js](https://github.com/vasyl-zubach/tFormer.js) - tFormer.js - Empower your HTML forms
 - [jakiestfu/Mention.js](https://github.com/jakiestfu/Mention.js) - Lightweight wrapper for adding @user mention functionality to Twitter Bootstraps Typeahead plugin
-- [handsontable/handsontable](https://github.com/handsontable/handsontable) - JavaScript Data Grid / Data Table with a Spreadsheet Look & Feel. Works with React, Angular, and Vue. Supported by the Handsontable team ⚡
 - [starfishmod/jquery-oembed-all](https://github.com/starfishmod/jquery-oembed-all) - A fork with improvements of the jquery-oembed project
 - [cinely/mule-uploader](https://github.com/cinely/mule-uploader) - Stubborn HTML5 Amazon S3 uploader
 - [ender-js/Ender](https://github.com/ender-js/Ender) - the no-library library: open module JavaScript framework
@@ -3831,7 +3829,7 @@
 - [emilkowalski/sonner](https://github.com/emilkowalski/sonner) - An opinionated toast component for React.
 - [OvidijusParsiunas/deep-chat](https://github.com/OvidijusParsiunas/deep-chat) - Fully customizable AI chatbot component for your website
 - [penge/my-notes](https://github.com/penge/my-notes) - Simple and fast note-taking in Chrome. Zero setup, works offline, no account needed.
-- [get-convex/convex-demos](https://github.com/get-convex/convex-demos) - Demo apps built on Convex.
+- [convex/convex-demos](https://github.com/convex/convex-demos) - Demo apps built on Convex.
 - [honojs/vite-plugins](https://github.com/honojs/vite-plugins) - Vite Plugins for Hono
 - [a16z-infra/ai-getting-started](https://github.com/a16z-infra/ai-getting-started) - A Javascript AI getting started stack for weekend projects, including image/text models, vector stores, auth, and deployment configs
 - [tremorlabs/tremor-npm](https://github.com/tremorlabs/tremor-npm) - React components to build charts and dashboards
@@ -4213,6 +4211,7 @@
 - [sindresorhus/pageres](https://github.com/sindresorhus/pageres) - Capture website screenshots
 - [t4t5/sweetalert](https://github.com/t4t5/sweetalert) - A beautiful replacement for JavaScript's "alert"
 - [KaTeX/KaTeX](https://github.com/KaTeX/KaTeX) - Fast math typesetting for the web.
+- [chartist-js/chartist](https://github.com/chartist-js/chartist) - Simple responsive charts
 - [sahat/satellizer](https://github.com/sahat/satellizer) - Token-based AngularJS Authentication
 - [yocontra/react-responsive](https://github.com/yocontra/react-responsive) - CSS media queries in react - for responsive design, and more.
 - [tessera-metrics/tessera](https://github.com/tessera-metrics/tessera) - A dashboard front-end for graphite.
@@ -4237,6 +4236,7 @@
 - [apache/echarts](https://github.com/apache/echarts) - Apache ECharts is a powerful, interactive charting and data visualization library for browser
 - [serkanyersen/sync](https://github.com/serkanyersen/sync) - syncs your local folder with remote folder using scp
 - [usablica/intro.js](https://github.com/usablica/intro.js) - Lightweight, user-friendly onboarding tour library
+- [handsontable/handsontable](https://github.com/handsontable/handsontable) - JavaScript Data Grid / Data Table with a Spreadsheet Look & Feel. Works with React, Angular, and Vue. Supported by the Handsontable team ⚡
 - [derbyjs/derby](https://github.com/derbyjs/derby) - MVC framework making it easy to write realtime, collaborative applications that run in both Node.js and browsers
 - [ether/etherpad](https://github.com/ether/etherpad) - Etherpad: A modern really-real-time collaborative document editor.
 - [peers/peerjs](https://github.com/peers/peerjs) - Simple peer-to-peer with WebRTC.
