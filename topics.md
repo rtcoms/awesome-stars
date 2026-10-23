@@ -4060,7 +4060,7 @@
 - [brettz9/miller-columns](https://github.com/brettz9/miller-columns) - Miller Columns in ES6 Modules JavaScript
 - [UnforeseenOcean/revvid](https://github.com/UnforeseenOcean/revvid) - Automatically generate reddit youtube videos!
 - [HA6Bots/Automatic-Youtube-Reddit-Text-To-Speech-Video-Generator-and-Uploader](https://github.com/HA6Bots/Automatic-Youtube-Reddit-Text-To-Speech-Video-Generator-and-Uploader) - A series of 3 programs that will automatically receive scripts from Reddit, allow the user to edit them, then be sent off to a video generator where they will be uploaded to YouTube automatically.
-- [osohq/oso](https://github.com/osohq/oso) - Deprecated: See README
+- [osohq/oso](https://github.com/osohq/oso) - Legacy Oso open source library (archived)
 - [emms007/Telegram2GdriveOrgMarkDown](https://github.com/emms007/Telegram2GdriveOrgMarkDown) - 
 - [cies/low-code-backend-dockered](https://github.com/cies/low-code-backend-dockered) - Fully dockered starter kit for Elm with Hasura
 - [amit0rana/betterOptionsTrading](https://github.com/amit0rana/betterOptionsTrading) - This repository has 2 userscripts. (1) To add features to kite.zerodha.com (2) To add features to pro.upstox.com
