@@ -2560,6 +2560,7 @@
 
 ## javascript 
 
+- [Dhaxor/super-utils-plus](https://github.com/Dhaxor/super-utils-plus) - Modern typed utility library in the spirit of Lodash — 140+ array/object/string/function helpers with zero dependencies (ESM + CJS)
 - [codescandy/Dash-UI](https://github.com/codescandy/Dash-UI) - Bootstrap 5 Admin & Dashboard Template Free - Dash-UI. Dash UI Kit is a free and open-source components and templates kit fully coded with Bootstrap 5.
 - [themesberg/flowbite-admin-dashboard](https://github.com/themesberg/flowbite-admin-dashboard) - Free and open-source admin dashboard template built with Tailwind CSS and Flowbite
 - [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) - Curated list of project-based tutorials
@@ -3761,7 +3762,6 @@
 - [snarktank/ralph](https://github.com/snarktank/ralph) - Ralph is an autonomous AI agent loop that runs repeatedly until all PRD items are complete.
 - [zarpay/servus](https://github.com/zarpay/servus) - A ruby gem for managing service objects.
 - [moasq/production-saas-starter](https://github.com/moasq/production-saas-starter) - Production-ready B2B SaaS Starter Kit (Go + Next.js). Modular Monolith. Hexagonal Arch.
-- [Dhaxor/super-utils-plus](https://github.com/Dhaxor/super-utils-plus) - 
 - [tidewave-ai/tidewave_rails](https://github.com/tidewave-ai/tidewave_rails) - MCP server with runtime-level tools for Rails development
 - [socketry/flappy-bird](https://github.com/socketry/flappy-bird) - 
 - [kzh-dev/pine-bot-client](https://github.com/kzh-dev/pine-bot-client) - Trading bot using Pine script
@@ -7693,6 +7693,7 @@
 ## typescript 
 
 - [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) - OmO: Just type "mass ulw" keyword with your prompt. Now you are the master of graph engineering.
+- [Dhaxor/super-utils-plus](https://github.com/Dhaxor/super-utils-plus) - Modern typed utility library in the spirit of Lodash — 140+ array/object/string/function helpers with zero dependencies (ESM + CJS)
 - [penge/my-notes](https://github.com/penge/my-notes) - Simple and fast note-taking in Chrome. Zero setup, works offline, no account needed.
 - [tremorlabs/tremor-npm](https://github.com/tremorlabs/tremor-npm) - React components to build charts and dashboards
 - [apify/crawlee](https://github.com/apify/crawlee) - Crawlee—A web scraping and browser automation library for Node.js to build reliable crawlers. In JavaScript and TypeScript. Extract data for AI, LLMs, RAG, or GPTs. Download HTML, PDF, JPG, PNG, and o
