@@ -3823,7 +3823,7 @@
 - [jhomra21/DO-better-auth-convex-testing](https://github.com/jhomra21/DO-better-auth-convex-testing) - Simple-ish project showcasing use of Cloudflare Durable Objects w/ Realtime Database per user
 - [snarktank/ralph](https://github.com/snarktank/ralph) - Ralph is an autonomous AI agent loop that runs repeatedly until all PRD items are complete.
 - [moasq/production-saas-starter](https://github.com/moasq/production-saas-starter) - Production-ready B2B SaaS Starter Kit (Go + Next.js). Modular Monolith. Hexagonal Arch.
-- [Dhaxor/super-utils-plus](https://github.com/Dhaxor/super-utils-plus) - 
+- [Dhaxor/super-utils-plus](https://github.com/Dhaxor/super-utils-plus) - Modern typed utility library in the spirit of Lodash — 140+ array/object/string/function helpers with zero dependencies (ESM + CJS)
 - [rakkasjs/rakkasjs](https://github.com/rakkasjs/rakkasjs) - Bleeding-edge React framework powered by Vite
 - [emilkowalski/sonner](https://github.com/emilkowalski/sonner) - An opinionated toast component for React.
 - [OvidijusParsiunas/deep-chat](https://github.com/OvidijusParsiunas/deep-chat) - Fully customizable AI chatbot component for your website
