@@ -1438,6 +1438,7 @@
 - [amperser/proselint](https://github.com/amperser/proselint) - [Mirror] A linter for prose.
 - [UDST/vizicities](https://github.com/UDST/vizicities) - A framework for 3D geospatial visualization in the browser
 - [uidotdev/react-course](https://github.com/uidotdev/react-course) - Code for ui.dev's "Classic React" course
+- [markedjs/marked](https://github.com/markedjs/marked) - A markdown parser and compiler. Built for speed.
 - [raphamorim/origami.js](https://github.com/raphamorim/origami.js) - Powerful and Lightweight Library to create using HTML5 Canvas
 - [fiduswriter/fiduswriter](https://github.com/fiduswriter/fiduswriter) - Fidus Writer is an online collaborative editor for academics.
 - [bringking/react-web-animation](https://github.com/bringking/react-web-animation) - React components for the Web Animations API - http://react-web-animation.surge.sh
@@ -3059,7 +3060,6 @@
 - [mohitjain/leetcode_solutions](https://github.com/mohitjain/leetcode_solutions) - 
 - [alexrudall/ruby-openai](https://github.com/alexrudall/ruby-openai) - OpenAI API + Ruby! 🤖❤️ GPT-5 & Realtime WebRTC compatible!
 - [pawurb/rails-pg-extras](https://github.com/pawurb/rails-pg-extras) - Rails PostgreSQL database performance insights. Locks, index usage, buffer cache hit ratios, vacuum stats and more.
-- [code-and-effect/effective_logging](https://github.com/code-and-effect/effective_logging) - Automatically log all sent emails, user logins, and page views. This also will log custom events from Ruby and JavaScript.
 - [teespring-labs/active_record_replica](https://github.com/teespring-labs/active_record_replica) - Redirect ActiveRecord (Rails) reads to replica databases while ensuring all writes go to the primary database.
 - [palkan/store_attribute](https://github.com/palkan/store_attribute) - ActiveRecord extension which adds typecasting to store accessors
 - [igorkasyanchuk/execution_time](https://github.com/igorkasyanchuk/execution_time) - How fast is your code? See it directly in Rails console.
@@ -3895,7 +3895,7 @@
 - [ionic-team/capacitor](https://github.com/ionic-team/capacitor) - Build cross-platform Native Progressive Web Apps for iOS, Android, and the Web ⚡️
 - [clintonwoo/hackernews-remix-react](https://github.com/clintonwoo/hackernews-remix-react) - Hacker News clone written with universal TypeScript, using React and Remix.
 - [stimulus-use/stimulus-use](https://github.com/stimulus-use/stimulus-use) - A collection of composable behaviors for your Stimulus Controllers.
-- [beekai-oss/little-state-machine](https://github.com/beekai-oss/little-state-machine) - 📠 React custom hook for persist state management
+- [bluebill1049/little-state-machine](https://github.com/bluebill1049/little-state-machine) - 📠 React custom hook for persist state management
 - [malloydata/malloy](https://github.com/malloydata/malloy) - Malloy is a modern open source language for describing data relationships and transformations.
 - [YousefED/SyncedStore](https://github.com/YousefED/SyncedStore) - SyncedStore CRDT is an easy-to-use library for building live, collaborative applications that sync automatically.
 - [YousefED/Matrix-CRDT](https://github.com/YousefED/Matrix-CRDT) - Use Matrix as a backend for local-first applications with the Matrix-CRDT Yjs provider.
@@ -4185,7 +4185,6 @@
 - [floating-ui/floating-ui](https://github.com/floating-ui/floating-ui) - A JavaScript library to position floating elements and create interactions for them.
 - [este/este](https://github.com/este/este) - This repo is suspended.
 - [DKirwan/calendar-heatmap](https://github.com/DKirwan/calendar-heatmap) - A d3 heatmap for representing time series data similar to github's contribution chart
-- [markedjs/marked](https://github.com/markedjs/marked) - A markdown parser and compiler. Built for speed.
 - [JedWatson/react-select](https://github.com/JedWatson/react-select) - The Select Component for React.js
 - [ichub/tply](https://github.com/ichub/tply) - typewriter effect for your websites
 - [GrapesJS/grapesjs](https://github.com/GrapesJS/grapesjs) - Free and Open source Web Builder Framework. Next generation tool for building templates without coding
