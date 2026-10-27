@@ -4133,7 +4133,6 @@
 - [mohitjain/api_layers](https://github.com/mohitjain/api_layers) - This gem is inspired by Use Case Driven and Layered Architecture
 - [mohitjain/leetcode_solutions](https://github.com/mohitjain/leetcode_solutions) - 
 - [square/cubism](https://github.com/square/cubism) - Cubism.js: A JavaScript library for time series visualization.
-- [code-and-effect/effective_logging](https://github.com/code-and-effect/effective_logging) - Automatically log all sent emails, user logins, and page views. This also will log custom events from Ruby and JavaScript.
 - [rishiip/ruby-on-rails-interview-questions](https://github.com/rishiip/ruby-on-rails-interview-questions) - A list of common questions with answers ask during interview of ruby on rails job.
 - [TrumpClone/ruby-rails-interview-questions](https://github.com/TrumpClone/ruby-rails-interview-questions) - Curated list of Ruby/Rails interview questions. Feel free to contribute! ⛏ 💎
 - [ninadsp/thrift-vpn](https://github.com/ninadsp/thrift-vpn) - Cheap Wireguard VPN server with AWS Spot Instances
@@ -6567,7 +6566,7 @@
 - [rstacruz/remount](https://github.com/rstacruz/remount) - Mount React components to the DOM using custom elements
 - [nfl/react-helmet](https://github.com/nfl/react-helmet) - A document head manager for React
 - [clintonwoo/hackernews-remix-react](https://github.com/clintonwoo/hackernews-remix-react) - Hacker News clone written with universal TypeScript, using React and Remix.
-- [beekai-oss/little-state-machine](https://github.com/beekai-oss/little-state-machine) - 📠 React custom hook for persist state management
+- [bluebill1049/little-state-machine](https://github.com/bluebill1049/little-state-machine) - 📠 React custom hook for persist state management
 - [YousefED/SyncedStore](https://github.com/YousefED/SyncedStore) - SyncedStore CRDT is an easy-to-use library for building live, collaborative applications that sync automatically.
 - [omgovich/react-colorful](https://github.com/omgovich/react-colorful) - 🎨 A tiny (3,1 KB) color picker component for React and Preact apps
 - [ValentinH/react-easy-crop](https://github.com/ValentinH/react-easy-crop) - A React component to crop images/videos with easy interactions
