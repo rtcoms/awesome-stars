@@ -19,6 +19,7 @@
 - [analytics](#analytics)
 - [android](#android)
 - [angular](#angular)
+- [animation](#animation)
 - [ansible](#ansible)
 - [api](#api)
 - [arduino](#arduino)
@@ -502,6 +503,47 @@
 - [ionic-team/ionic-framework](https://github.com/ionic-team/ionic-framework) - A powerful cross-platform UI toolkit for building native-quality iOS, Android, and Progressive Web Apps with HTML, CSS, and JavaScript.
 - [victorb/ngProgress](https://github.com/victorb/ngProgress) - ⏳ Angular provider for slim loading bar at the top of the page ( inspired by https://github.com/rstacruz/nprogress )
 - [linnovate/mean](https://github.com/linnovate/mean) - The MEAN stack uses Mongo, Express, Angular(6) and Node for simple and scalable fullstack js applications
+
+## animation 
+
+- [formkit/auto-animate](https://github.com/formkit/auto-animate) - A zero-config, drop-in animation utility that adds smooth transitions to your web app. You can use it with React, Vue, or any other JavaScript application.
+- [BMSVieira/lwder.js](https://github.com/BMSVieira/lwder.js) - Lightweight Loading Animation
+- [theatre-js/theatre](https://github.com/theatre-js/theatre) - Motion design editor for the web
+- [Steveeeie/react-page-transition](https://github.com/Steveeeie/react-page-transition) - A React component that makes it easy to use the page transitions from the Codedrops page transitions demo with React
+- [PedroBern/react-tiger-transition](https://github.com/PedroBern/react-tiger-transition) - Full page transitions with react-router.
+- [dgpedro/react-component-transition](https://github.com/dgpedro/react-component-transition) - Easy animations between react component transitions.
+- [motiondivision/motion](https://github.com/motiondivision/motion) - A modern animation library for React and JavaScript
+- [anater/tachyons-animate](https://github.com/anater/tachyons-animate) - Single purpose classes to help you orchestrate CSS animations
+- [codrops/GridRevealEffects](https://github.com/codrops/GridRevealEffects) - Some experiments with the new staggering system of Anime.js
+- [tweenrex/tweenrex](https://github.com/tweenrex/tweenrex) - Reactive Tweening Engine
+- [nbedos/termtosvg](https://github.com/nbedos/termtosvg) - Record terminal sessions as SVG animations
+- [alexcambose/motus](https://github.com/alexcambose/motus) - Animation library that mimics CSS keyframes when scrolling.
+- [layerJS/layerJS](https://github.com/layerJS/layerJS) - layerJS: Javascript UI composition framework
+- [kristofferandreasen/wickedCSS](https://github.com/kristofferandreasen/wickedCSS) - A library for CSS3 animations. The animations are more vibrant than most simple animations.
+- [webkul/micron](https://github.com/webkul/micron) - a [μ] microInteraction library built with CSS Animations and controlled by JavaScript Power
+- [xtianmiller/emergence.js](https://github.com/xtianmiller/emergence.js) - Detect element visibility in the browser
+- [lokesh-coder/pretty-checkbox](https://github.com/lokesh-coder/pretty-checkbox) - A pure CSS library to beautify checkbox and radio buttons.
+- [sghall/resonance](https://github.com/sghall/resonance) - :black_medium_small_square:Resonance | 5kb React animation library
+- [sghall/react-move](https://github.com/sghall/react-move) - React Move | Beautiful, data-driven animations for React
+- [hsnaydd/moveTo](https://github.com/hsnaydd/moveTo) - A lightweight scroll animation javascript library without any dependency
+- [sarcadass/granim.js](https://github.com/sarcadass/granim.js) - Create fluid and interactive gradient animations with this small javascript library.
+- [sachinchoolur/lightgallery.js](https://github.com/sachinchoolur/lightgallery.js) - Full featured JavaScript image & video gallery. No dependencies
+- [barbajs/barba](https://github.com/barbajs/barba) - Create badass, fluid and smooth transitions between your website’s pages
+- [juliangarnier/anime](https://github.com/juliangarnier/anime) - JavaScript animation engine
+- [algorithm-visualizer/algorithm-visualizer](https://github.com/algorithm-visualizer/algorithm-visualizer) - :fireworks:Interactive Online Platform that Visualizes Algorithms from Code
+- [jonsuh/hamburgers](https://github.com/jonsuh/hamburgers) - Tasty CSS-animated Hamburgers
+- [raphamorim/origami.js](https://github.com/raphamorim/origami.js) - Powerful and Lightweight Library to create using HTML5 Canvas
+- [joshwcomeau/react-flip-move](https://github.com/joshwcomeau/react-flip-move) - Effortless animation between DOM changes (eg. list reordering) using the FLIP technique.
+- [mojs/mojs](https://github.com/mojs/mojs) - The motion graphics toolbelt for the web
+- [lukejacksonn/Actuate](https://github.com/lukejacksonn/Actuate) - One line easy actuation of CSS animation sequences
+- [patrickkunka/mixitup](https://github.com/patrickkunka/mixitup) - A high-performance, dependency-free library for animated filtering, sorting, insertion, removal and more
+- [Rich-Harris/ramjet](https://github.com/Rich-Harris/ramjet) - Morph DOM elements from one state to another with smooth animations and transitions
+- [kimmobrunfeldt/progressbar.js](https://github.com/kimmobrunfeldt/progressbar.js) - Responsive and slick progress bars
+- [jlmakes/scrollreveal](https://github.com/jlmakes/scrollreveal) - Animate elements as they scroll into view.
+- [miniMAC/magic](https://github.com/miniMAC/magic) - CSS3 Animations with special effects
+- [jonobr1/two.js](https://github.com/jonobr1/two.js) - A renderer agnostic two-dimensional drawing api for the web
+- [merri-ment/lazy-line-painter](https://github.com/merri-ment/lazy-line-painter) - Lazy Line Painter - A Modern JS library for SVG path animation
+- [animate-css/animate.css](https://github.com/animate-css/animate.css) - 🍿 A cross-browser library of CSS animations. As easy to use as an easy thing.
 
 ## ansible 
 
@@ -3940,7 +3982,6 @@
 - [jpillora/xhook](https://github.com/jpillora/xhook) - Easily intercept and modify XHR request and response
 - [rails/kredis](https://github.com/rails/kredis) - Higher-level data structures built on Redis
 - [nschloe/tiptop](https://github.com/nschloe/tiptop) - :desktop_computer: Command-line system monitoring
-- [BMSVieira/lwder.js](https://github.com/BMSVieira/lwder.js) - Lightweight Loading Animation
 - [TheRusskiy/json_dumper](https://github.com/TheRusskiy/json_dumper) - Serialize Ruby into JSON
 - [TheRusskiy/imgproxy](https://github.com/TheRusskiy/imgproxy) - Fast and secure standalone server for resizing and converting remote images
 - [Faveod/arel-extensions](https://github.com/Faveod/arel-extensions) - Extending Arel
@@ -4000,7 +4041,6 @@
 - [heartcombo/mail_form](https://github.com/heartcombo/mail_form) - Send e-mail straight from forms in Rails with I18n, validations, attachments and request information.
 - [oban-bg/oban](https://github.com/oban-bg/oban) - 💎 Robust job processing in Elixir, backed by modern PostgreSQL, SQLite3, and MySQL
 - [fly-hiring/phoenix-full-stack-work-sample](https://github.com/fly-hiring/phoenix-full-stack-work-sample) - 
-- [theatre-js/theatre](https://github.com/theatre-js/theatre) - Motion design editor for the web
 - [tejesh0/experiments](https://github.com/tejesh0/experiments) - 
 - [humaans/react-machine](https://github.com/humaans/react-machine) - A state machine hook for React applications.
 - [vuejs/petite-vue](https://github.com/vuejs/petite-vue) - 6kb subset of Vue optimized for progressive enhancement
@@ -4285,7 +4325,7 @@
 - [adomokos/DesignPatterns-Ruby](https://github.com/adomokos/DesignPatterns-Ruby) - Design Patterns in Ruby - Code samples based on the book with the same title
 - [tutsplus/gof-design-patterns-ruby](https://github.com/tutsplus/gof-design-patterns-ruby) - Source code for the "Gang of Four Design Patterns in Ruby" course.
 - [rtomayko/tilt](https://github.com/rtomayko/tilt) - Generic interface to multiple Ruby template engines
-- [maltize/sublime-text-2-ruby-tests](https://github.com/maltize/sublime-text-2-ruby-tests) - Sublime Text 2 plugin for running ruby tests! (Unit, RSpec, Cucumber)
+- [maltize/sublime-text-2-ruby-tests](https://github.com/maltize/sublime-text-2-ruby-tests) - Ruby test runner for Sublime Text with Minitest, Test::Unit, RSpec, and Cucumber support, single-test execution, and code/test switching.
 - [gautam-ndk/ruby-patterns](https://github.com/gautam-ndk/ruby-patterns) - Examples of Patterns in Ruby
 - [swechhasingh/Handwriting-synthesis](https://github.com/swechhasingh/Handwriting-synthesis) - Implementation of "Generating Sequences With Recurrent Neural Networks" https://arxiv.org/abs/1308.0850
 - [silviopaganini/maths](https://github.com/silviopaganini/maths) - learning maths again
@@ -4442,7 +4482,6 @@
 - [alexgreene/WikiQuiz](https://github.com/alexgreene/WikiQuiz) - Generates a quiz for a Wikipedia page using parts of speech and text chunking.
 - [yakovlevga/letterpic](https://github.com/yakovlevga/letterpic) - LetterPic is a small jQuery plugin that converts user's name to userpic, using it's initials.
 - [asciimath/asciimathml](https://github.com/asciimath/asciimathml) - A new home for asciimathml
-- [hsnaydd/moveTo](https://github.com/hsnaydd/moveTo) - A lightweight scroll animation javascript library without any dependency
 - [metafizzy/flickity](https://github.com/metafizzy/flickity) - :leaves: Touch, responsive, flickable carousels
 - [bmorelli25/Become-A-Full-Stack-Web-Developer](https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer) - Free resources for learning Full Stack Web Development
 - [mkrogemann/couchdb_connector](https://github.com/mkrogemann/couchdb_connector) - A couchdb connector for Elixir
@@ -4503,7 +4542,6 @@
 - [danielgtaylor/aglio](https://github.com/danielgtaylor/aglio) - An API Blueprint renderer with theme support that outputs static HTML
 - [ebidel/appmetrics.js](https://github.com/ebidel/appmetrics.js) - A small (&lt; 1kb) library for measuring things in your web app and reporting the results to Google Analytics.
 - [slab/quill](https://github.com/slab/quill) - Quill is a modern WYSIWYG editor built for compatibility and extensibility
-- [sarcadass/granim.js](https://github.com/sarcadass/granim.js) - Create fluid and interactive gradient animations with this small javascript library.
 - [afeld/emoji-css](https://github.com/afeld/emoji-css) - An easy way to include emoji in your HTML
 - [reminyborg/dom-minimap](https://github.com/reminyborg/dom-minimap) - simply lovely dom minimap
 - [KyleAMathews/react-sparkline](https://github.com/KyleAMathews/react-sparkline) - React component for rendering simple sparklines
@@ -4792,7 +4830,6 @@
 - [CultivateLabs/rails-fed-chef](https://github.com/CultivateLabs/rails-fed-chef) - Chef kitchen for setting up servers for use with a rails stack
 - [microsoft/TouchDevelop](https://github.com/microsoft/TouchDevelop) - TouchDevelop is a touch-friendly app creation environment for iPad, iPhone, Android, Windows, Mac, Linux. Our mobile-friendly editor makes coding fun, even on your phone or tablet!
 - [thbishop/knife-solo_data_bag](https://github.com/thbishop/knife-solo_data_bag) - A knife plugin to ease working with data bags and chef solo
-- [patrickkunka/mixitup](https://github.com/patrickkunka/mixitup) - A high-performance, dependency-free library for animated filtering, sorting, insertion, removal and more
 - [myurasov/Chromestrap](https://github.com/myurasov/Chromestrap) - Chrome App Bootstrap (with AngularJS, Material Design, Gulp)
 - [aldonline/syncify](https://github.com/aldonline/syncify) - A radically simpler way to deal with asynchronous functions in js ( deprecated. see: www.radioactivejs.org )
 - [zhy0216/OhMyPocket](https://github.com/zhy0216/OhMyPocket) - bookmark your favorit article
@@ -7130,7 +7167,7 @@
 - [artagnon/clayoven](https://github.com/artagnon/clayoven) - 💎 beautiful website generator aimed at math-heavy sites
 - [matestack/matestack-ui-core](https://github.com/matestack/matestack-ui-core) - Component based web UIs in pure Ruby for Rails. Boost your productivity & easily create component based web UIs in pure Ruby.
 - [bigbinary/wheel](https://github.com/bigbinary/wheel) - Don't reinvent the wheel for every new Rails project. Use sane Defaults.
-- [GetStream/stream-chat-ruby](https://github.com/GetStream/stream-chat-ruby) - Official Stream Chat API client for Ruby (maintenance mode). For new projects, see getstream-ruby.
+- [GetStream/stream-chat-ruby](https://github.com/GetStream/stream-chat-ruby) - Legacy Stream Chat API client for Ruby (deprecated). Use getstream-ruby instead.
 - [nullobject/rein](https://github.com/nullobject/rein) - Database constraints made easy for ActiveRecord.
 - [madeindjs/api_on_rails](https://github.com/madeindjs/api_on_rails) - Learn best practices to build an API using Ruby on Rails 5/6
 - [arbox/nlp-with-ruby](https://github.com/arbox/nlp-with-ruby) - Curated List: Practical Natural Language Processing done in Ruby
