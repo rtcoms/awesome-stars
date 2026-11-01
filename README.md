@@ -268,7 +268,6 @@
 - [miguel-perez/smoothState.js](https://github.com/miguel-perez/smoothState.js) - Unobtrusive page transitions with jQuery.
 - [fians/marka](https://github.com/fians/marka) - Beautiful transformable icons built for the web.
 - [csswizardry/csswizardry-grids](https://github.com/csswizardry/csswizardry-grids) - Simple, fluid, nestable, flexible, Sass-based, responsive grid system.
-- [pixelsign/html5-device-mockups](https://github.com/pixelsign/html5-device-mockups) - HTML5 mockups of popular devices, to showcase your portfolio and spice up your website.
 - [AndersSchmidtHansen/Kaidan](https://github.com/AndersSchmidtHansen/Kaidan) - My Toolkit for Ghost Theme Development. Craft your Ghost themes with flexibility of Sass and the expressiveness of CoffeeScript.  Live reloads across multiple devices and browsers thanks to BrowserSyn
 - [erikflowers/weather-icons](https://github.com/erikflowers/weather-icons) - 215 Weather Themed Icons and CSS
 - [sixrevisions/browser-detect-javascript](https://github.com/sixrevisions/browser-detect-javascript) - Techniques for getting browser and operating system information using JavaScript.
@@ -540,6 +539,7 @@
 - [hashicorp/waypoint](https://github.com/hashicorp/waypoint) - A tool to build, deploy, and release any application on any platform.
 - [knadh/listmonk](https://github.com/knadh/listmonk) - High performance, self-hosted, newsletter and mailing list manager with a modern dashboard. Single binary app.
 - [reviewdog/reviewdog](https://github.com/reviewdog/reviewdog) - 🐶 Automated code review tool integrated with any code analysis tools regardless of programming language
+- [nhost/nhost](https://github.com/nhost/nhost) - The Open Source Firebase Alternative with GraphQL.
 - [rqlite/rqlite](https://github.com/rqlite/rqlite) - The lightweight, fault-tolerant database built on SQLite. Designed to keep your data highly available with minimal effort.
 - [kha7iq/pingme](https://github.com/kha7iq/pingme) - PingMe - A unified CLI and web service for sending notifications across multiple messaging platforms
 - [h2non/imaginary](https://github.com/h2non/imaginary) - Fast, simple, scalable, Docker-ready HTTP microservice for high-level image processing
@@ -743,6 +743,7 @@
 - [invertase/rdash-angular](https://github.com/invertase/rdash-angular) - AngularJS implementation of the RDash admin dashboard theme
 - [ResponsiveBP/Responsive](https://github.com/ResponsiveBP/Responsive) - :iphone: A super lightweight HTML, Sass, CSS, and JavaScript framework for building responsive websites
 - [sendwithus/templates](https://github.com/sendwithus/templates) - Sendwithus Open Source Email Templates
+- [pixelsign/html5-device-mockups](https://github.com/pixelsign/html5-device-mockups) - HTML5 mockups of popular devices, to showcase your portfolio and spice up your website.
 - [brunjo/rowGrid.js](https://github.com/brunjo/rowGrid.js) - A small, lightweight JavaScript plugin for placing items in straight rows (jQuery and vanilla JS version) – Demo:
 - [coderLMN/CSS3dTimeMachine](https://github.com/coderLMN/CSS3dTimeMachine) - 基于 CSS3 3D 的时光机器效果演示
 - [alchaplinsky/polymer-rails](https://github.com/alchaplinsky/polymer-rails) - Polymer and web components for Ruby on Rails
@@ -818,7 +819,6 @@
 - [Prinzhorn/skrollr](https://github.com/Prinzhorn/skrollr) - Stand-alone parallax scrolling library for mobile (Android + iOS) and desktop. No jQuery. Just plain JavaScript (and some love).
 - [Foliotek/AjaxQ](https://github.com/Foliotek/AjaxQ) - A tiny, simple jQuery plugin for sequential ajax requests
 - [ftlabs/fastclick](https://github.com/ftlabs/fastclick) - Polyfill to remove click delays on browsers with touch UIs
-- [ubuwaits/beautiful-web-type](https://github.com/ubuwaits/beautiful-web-type) - In-depth guide to the best open-source typefaces: https://www.beautifulwebtype.com
 - [freqdec/slabText](https://github.com/freqdec/slabText) - A jQuery plugin for producing big, bold & responsive headlines
 - [jquery-ui-bootstrap/jquery-ui-bootstrap](https://github.com/jquery-ui-bootstrap/jquery-ui-bootstrap) - A jQuery UI theme based on Twitter Bootstrap
 - [tmort/Socialite](https://github.com/tmort/Socialite) - 
@@ -2726,7 +2726,7 @@
 - [deezer/spleeter](https://github.com/deezer/spleeter) - Deezer source separation library including pretrained models.
 - [brettkromkamp/contextualise](https://github.com/brettkromkamp/contextualise) - Contextualise is an effective tool particularly suited for organising information-heavy projects and activities consisting of unstructured and widely diverse data and information resources
 - [brettkromkamp/topic-db](https://github.com/brettkromkamp/topic-db) - TopicDB is a topic maps-based semantic graph store (using SQLite for persistence)
-- [maltize/sublime-text-2-ruby-tests](https://github.com/maltize/sublime-text-2-ruby-tests) - Sublime Text 2 plugin for running ruby tests! (Unit, RSpec, Cucumber)
+- [maltize/sublime-text-2-ruby-tests](https://github.com/maltize/sublime-text-2-ruby-tests) - Ruby test runner for Sublime Text with Minitest, Test::Unit, RSpec, and Cucumber support, single-test execution, and code/test switching.
 - [nuno-faria/tiler](https://github.com/nuno-faria/tiler) - 👷 Build images with images
 - [Ichaelus/video-colorization](https://github.com/Ichaelus/video-colorization) - Applying the machine learning tool "DeOldify" on videos, frame by frame.
 - [jantic/DeOldify](https://github.com/jantic/DeOldify) - A Deep Learning based project for colorizing and restoring old images (and video!)
@@ -3129,7 +3129,7 @@
 - [automaticmode/active_workflow](https://github.com/automaticmode/active_workflow) - Polyglot workflows without leaving the comfort of your technology stack.
 - [matestack/matestack-ui-core](https://github.com/matestack/matestack-ui-core) - Component based web UIs in pure Ruby for Rails. Boost your productivity & easily create component based web UIs in pure Ruby.
 - [bigbinary/wheel](https://github.com/bigbinary/wheel) - Don't reinvent the wheel for every new Rails project. Use sane Defaults.
-- [GetStream/stream-chat-ruby](https://github.com/GetStream/stream-chat-ruby) - Official Stream Chat API client for Ruby (maintenance mode). For new projects, see getstream-ruby.
+- [GetStream/stream-chat-ruby](https://github.com/GetStream/stream-chat-ruby) - Legacy Stream Chat API client for Ruby (deprecated). Use getstream-ruby instead.
 - [ryanjm/ruby-design-patterns](https://github.com/ryanjm/ruby-design-patterns) - Code for a Springs.rb presentation I gave
 - [piscolomo/ruby-patterns](https://github.com/piscolomo/ruby-patterns) - Examples of Patterns in Ruby
 - [emilsoman/design-patterns-ruby](https://github.com/emilsoman/design-patterns-ruby) - GOF design patterns in Ruby
@@ -3957,7 +3957,6 @@
 - [jpribyl/react-hook-dragula](https://github.com/jpribyl/react-hook-dragula) - Provides named parameters and strong typing + declarative usage to dragula within React.
 - [radix-ui/colors](https://github.com/radix-ui/colors) - A gorgeous, accessible color system.
 - [themesberg/glass-ui](https://github.com/themesberg/glass-ui) - CSS UI library based on the glassmorphism design specifications
-- [nhost/nhost](https://github.com/nhost/nhost) - The Open Source Firebase Alternative with GraphQL.
 - [jawj/zapatos](https://github.com/jawj/zapatos) - Zero-abstraction Postgres for TypeScript: a non-ORM database library
 - [andoshin11/sqlpture](https://github.com/andoshin11/sqlpture) - Type Level SQL interpreter & validator.
 - [codemix/ts-sql](https://github.com/codemix/ts-sql) - A SQL database implemented purely in TypeScript type annotations.
@@ -4240,6 +4239,7 @@
 - [ether/etherpad](https://github.com/ether/etherpad) - Etherpad: A modern really-real-time collaborative document editor.
 - [peers/peerjs](https://github.com/peers/peerjs) - Simple peer-to-peer with WebRTC.
 - [stutrek/scrollmonitor](https://github.com/stutrek/scrollmonitor) - A simple and fast API to monitor elements as you scroll
+- [ubuwaits/beautiful-web-type](https://github.com/ubuwaits/beautiful-web-type) - In-depth guide to the best open-source typefaces: https://www.beautifulwebtype.com
 - [fabricjs/fabric.js](https://github.com/fabricjs/fabric.js) - Javascript Canvas Library, SVG-to-Canvas (& canvas-to-SVG) Parser
 - [videojs/video.js](https://github.com/videojs/video.js) - Video.js v10 - open source media player framework for HTML and React.
 
