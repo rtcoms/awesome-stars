@@ -582,7 +582,6 @@
 - [go-martini/martini](https://github.com/go-martini/martini) - Classy web framework for Go
 - [progrium/localtunnel](https://github.com/progrium/localtunnel) - Expose localhost servers to the Internet
 - [fiorix/freegeoip](https://github.com/fiorix/freegeoip) - IP geolocation web server
-- [dokku/dokku](https://github.com/dokku/dokku) - A docker-powered PaaS that helps you build and manage the lifecycle of applications
 - [mislav/hub](https://github.com/mislav/hub) - A command-line tool that makes git easier to use with GitHub.
 - [mmcgrana/gobyexample](https://github.com/mmcgrana/gobyexample) - Go by Example
 - [astaxie/build-web-application-with-golang](https://github.com/astaxie/build-web-application-with-golang) - A golang ebook intro how to build a web with golang
@@ -1026,7 +1025,7 @@
 - [scottbez1/splitflap](https://github.com/scottbez1/splitflap) - DIY split-flap display
 - [diegohaz/awesome-react-context](https://github.com/diegohaz/awesome-react-context) - 😎 A curated list of stuff related to the new React Context API
 - [marko-js/marko](https://github.com/marko-js/marko) - A declarative, HTML-based language that makes building web apps fun
-- [unpoly/unpoly](https://github.com/unpoly/unpoly) - The missing application layer for HTML
+- [unpoly/unpoly](https://github.com/unpoly/unpoly) - Build a complete frontend in HTML
 - [learn-javascript-courses/composition-examples](https://github.com/learn-javascript-courses/composition-examples) - Examples for The Two Pillars of JavaScript: Prototypal OO
 - [kiprotect/klaro](https://github.com/kiprotect/klaro) - Klaro Privacy Manager. An open-source, privacy-friendly & compliant consent manager for your website.
 - [atlassian/react-sweet-state](https://github.com/atlassian/react-sweet-state) - Shared state management solution for React
@@ -1851,7 +1850,7 @@
 - [mafintosh/flat-file-db](https://github.com/mafintosh/flat-file-db) - Fast in-process flat file database that caches all data in memory
 - [alfajango/jquery-dynatable](https://github.com/alfajango/jquery-dynatable) - A more-fun, semantic, alternative to datatables
 - [briangonzalez/jquery.adaptive-backgrounds.js](https://github.com/briangonzalez/jquery.adaptive-backgrounds.js) - 🦎 A jQuery plugin for extracting the dominant color from images and applying the color to their parent.
-- [Leaflet/Leaflet](https://github.com/Leaflet/Leaflet) - 🍃 JavaScript library for mobile-friendly interactive maps 🇺🇦
+- [Leaflet/Leaflet](https://github.com/Leaflet/Leaflet) - 🍃 number one JavaScript library for interactive maps 🇺🇦
 - [apax637/wordsrotator](https://github.com/apax637/wordsrotator) - A simple text elements rotator plugin
 - [jellekralt/Responsive-Tabs](https://github.com/jellekralt/Responsive-Tabs) - Responsive Tabs is a jQuery plugin that provides responsive tab functionality. The tabs transform to an accordion when it reaches a CSS breakpoint. You can use this plugin as a solution for displaying
 - [filestack/filestack-rails](https://github.com/filestack/filestack-rails) - Official Ruby on Rails plugin for Filestack File Picker that makes it easy to add powerful file uploading and transformation capabilities to any web or mobile application.
@@ -2572,7 +2571,7 @@
 - [yeoman/yeoman](https://github.com/yeoman/yeoman) - Yeoman - a set of tools for automating development workflow
 - [rafikov/Simpliste](https://github.com/rafikov/Simpliste) - Simple responsive HTML5 template
 - [matheusfelipeog/beautiful-docs](https://github.com/matheusfelipeog/beautiful-docs) - Pointers to useful, well-written, and otherwise beautiful documentation.
-- [jsplumb/jsplumb](https://github.com/jsplumb/jsplumb) - Visual connectivity for webapps
+- [visuallyjs/visuallyjs](https://github.com/visuallyjs/visuallyjs) - VisuallyJs releases and issue tracking
 - [rtcoms/linkedin_on_rails](https://github.com/rtcoms/linkedin_on_rails) - Sample Ruby on Rails application that uses the LinkedIn API along with the Authlogic OAuth extension to create browseable resumes.
 - [rtcoms/InstructionstoPushongithub](https://github.com/rtcoms/InstructionstoPushongithub) - Instructions to Pushongithub
 - [rtcoms/JavascriptExercise](https://github.com/rtcoms/JavascriptExercise) - Solution of javascript exercise from VTAPP
@@ -2728,7 +2727,7 @@
 - [brettkromkamp/topic-db](https://github.com/brettkromkamp/topic-db) - TopicDB is a topic maps-based semantic graph store (using SQLite for persistence)
 - [maltize/sublime-text-2-ruby-tests](https://github.com/maltize/sublime-text-2-ruby-tests) - Ruby test runner for Sublime Text with Minitest, Test::Unit, RSpec, and Cucumber support, single-test execution, and code/test switching.
 - [nuno-faria/tiler](https://github.com/nuno-faria/tiler) - 👷 Build images with images
-- [Ichaelus/video-colorization](https://github.com/Ichaelus/video-colorization) - Applying the machine learning tool "DeOldify" on videos, frame by frame.
+- [panetun/video-colorization](https://github.com/panetun/video-colorization) - Applying the machine learning tool "DeOldify" on videos, frame by frame.
 - [jantic/DeOldify](https://github.com/jantic/DeOldify) - A Deep Learning based project for colorizing and restoring old images (and video!)
 - [seemoo-lab/opendrop](https://github.com/seemoo-lab/opendrop) - An open Apple AirDrop implementation written in Python
 - [sisyphean-labs/json-toolkit](https://github.com/sisyphean-labs/json-toolkit) - JSON Toolkit
@@ -3784,6 +3783,7 @@
 - [riobard/bash-powerline](https://github.com/riobard/bash-powerline) - Powerline-style Bash prompt in pure Bash script. See also https://github.com/riobard/zsh-powerline
 - [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,500+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
 - [Bash-it/bash-it](https://github.com/Bash-it/bash-it) - A community Bash framework.
+- [dokku/dokku](https://github.com/dokku/dokku) - A docker-powered PaaS that helps you build and manage the lifecycle of applications
 - [vlachoudis/DetectPhone](https://github.com/vlachoudis/DetectPhone) - 
 - [kvz/bash3boilerplate](https://github.com/kvz/bash3boilerplate) - Templates to write better Bash scripts
 - [gerhard/deliver](https://github.com/gerhard/deliver) - Pure bash deployment tool with customisable strategies.
