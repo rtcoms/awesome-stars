@@ -18,6 +18,7 @@
 - [algorithms](#algorithms)
 - [analytics](#analytics)
 - [android](#android)
+- [android-app](#android-app)
 - [angular](#angular)
 - [animation](#animation)
 - [ansible](#ansible)
@@ -476,6 +477,11 @@
 - [framework7io/framework7](https://github.com/framework7io/framework7) - Full featured HTML framework for building iOS & Android apps
 - [Bearded-Hen/Android-Bootstrap](https://github.com/Bearded-Hen/Android-Bootstrap) - Bootstrap style widgets for Android, with Glyph Icons
 
+## android-app 
+
+- [mrrfv/open-android-backup](https://github.com/mrrfv/open-android-backup) - Back up your device without vendor lock-ins, using insecure software or root. Supports encryption and compression out of the box. Works cross-platform.
+- [benoitvallon/react-native-nw-react-calculator](https://github.com/benoitvallon/react-native-nw-react-calculator) - Mobile, desktop and website Apps with the same code
+
 ## angular 
 
 - [sudheerj/javascript-interview-questions](https://github.com/sudheerj/javascript-interview-questions) - List of 1000 JavaScript Interview Questions
@@ -503,6 +509,7 @@
 - [ionic-team/ionic-framework](https://github.com/ionic-team/ionic-framework) - A powerful cross-platform UI toolkit for building native-quality iOS, Android, and Progressive Web Apps with HTML, CSS, and JavaScript.
 - [victorb/ngProgress](https://github.com/victorb/ngProgress) - ⏳ Angular provider for slim loading bar at the top of the page ( inspired by https://github.com/rstacruz/nprogress )
 - [linnovate/mean](https://github.com/linnovate/mean) - The MEAN stack uses Mongo, Express, Angular(6) and Node for simple and scalable fullstack js applications
+- [visuallyjs/visuallyjs](https://github.com/visuallyjs/visuallyjs) - VisuallyJs releases and issue tracking
 
 ## animation 
 
@@ -900,6 +907,7 @@
 - [RasaHQ/rasa](https://github.com/RasaHQ/rasa) - 💬   Open source machine learning framework to automate text- and voice-based conversations: NLU, dialogue management, connect to Slack, Facebook, and more - Create chatbots and voice assistants
 - [Viber/build-a-bot-with-zero-coding](https://github.com/Viber/build-a-bot-with-zero-coding) - An example of using Google Sheets to create a Viber survey chat bot without a backend server
 - [litaio/lita](https://github.com/litaio/lita) - ChatOps for Ruby.
+- [visuallyjs/visuallyjs](https://github.com/visuallyjs/visuallyjs) - VisuallyJs releases and issue tracking
 
 ## chatgpt 
 
@@ -2394,7 +2402,7 @@
 - [tsayen/dom-to-image](https://github.com/tsayen/dom-to-image) - Generates an image from a DOM node using HTML5 canvas
 - [WebReflection/viperHTML](https://github.com/WebReflection/viperHTML) - Isomorphic hyperHTML
 - [themesberg/glass-ui](https://github.com/themesberg/glass-ui) - CSS UI library based on the glassmorphism design specifications
-- [unpoly/unpoly](https://github.com/unpoly/unpoly) - The missing application layer for HTML
+- [unpoly/unpoly](https://github.com/unpoly/unpoly) - Build a complete frontend in HTML
 - [tabler/tabler](https://github.com/tabler/tabler) - Free and open source admin dashboard UI kit built on Bootstrap: 100+ pages, 6,000+ icons, dark mode, RTL.
 - [yegor256/tacit](https://github.com/yegor256/tacit) - CSS framework for dummies, without a single CSS class: nicely renders properly formatted HTML5 pages
 - [bigskysoftware/htmx](https://github.com/bigskysoftware/htmx) - &lt;/&gt; htmx - high power tools for HTML
@@ -2487,7 +2495,7 @@
 - [clientIO/joint](https://github.com/clientIO/joint) - A proven SVG-based JavaScript diagramming library powering exceptional UIs
 - [literallycanvas/literallycanvas](https://github.com/literallycanvas/literallycanvas) - A canvas in your browser. Literally.
 - [olton/metroui](https://github.com/olton/metroui) - A progressive front-end framework for creating high-performance responsive reactive web applications!
-- [jsplumb/jsplumb](https://github.com/jsplumb/jsplumb) - Visual connectivity for webapps
+- [visuallyjs/visuallyjs](https://github.com/visuallyjs/visuallyjs) - VisuallyJs releases and issue tracking
 - [videojs/video.js](https://github.com/videojs/video.js) - Video.js v10 - open source media player framework for HTML and React.
 - [mrdoob/three.js](https://github.com/mrdoob/three.js) - JavaScript 3D Library.
 - [h5bp/html5-boilerplate](https://github.com/h5bp/html5-boilerplate) - A professional front-end template for building fast, robust, and adaptable web apps or sites.
@@ -2948,7 +2956,7 @@
 - [BinaryMuse/planetary.js](https://github.com/BinaryMuse/planetary.js) - :earth_americas: Awesome interactive globes for the web
 - [browserify/sha.js](https://github.com/browserify/sha.js) - Streamable SHA hashes in pure javascript
 - [neilgupta/Sherlock](https://github.com/neilgupta/Sherlock) - Natural-language event parser for Javascript
-- [Leaflet/Leaflet](https://github.com/Leaflet/Leaflet) - 🍃 JavaScript library for mobile-friendly interactive maps 🇺🇦
+- [Leaflet/Leaflet](https://github.com/Leaflet/Leaflet) - 🍃 number one JavaScript library for interactive maps 🇺🇦
 - [jellekralt/Responsive-Tabs](https://github.com/jellekralt/Responsive-Tabs) - Responsive Tabs is a jQuery plugin that provides responsive tab functionality. The tabs transform to an accordion when it reaches a CSS breakpoint. You can use this plugin as a solution for displaying
 - [bookshelf/bookshelf](https://github.com/bookshelf/bookshelf) - A simple Node.js ORM for PostgreSQL, MySQL and SQLite3 built on top of Knex.js
 - [knex/knex](https://github.com/knex/knex) - A query builder for PostgreSQL, MySQL, CockroachDB, SQL Server, SQLite3 and Oracle, designed to be flexible, portable, and fun to use.
@@ -3001,6 +3009,7 @@
 - [enyo/dropzone](https://github.com/enyo/dropzone) - Dropzone is an easy to use drag'n'drop library. It supports image previews and shows nice progress bars.
 - [needim/noty](https://github.com/needim/noty) - ⛔️ DEPRECATED - Dependency-free notification library that makes it easy to create alert - success - error - warning - information - confirmation messages as an alternative the standard alert dialog.
 - [meteor/meteor](https://github.com/meteor/meteor) - Meteor, the JavaScript App Platform
+- [visuallyjs/visuallyjs](https://github.com/visuallyjs/visuallyjs) - VisuallyJs releases and issue tracking
 - [RobertWHurst/KeyboardJS](https://github.com/RobertWHurst/KeyboardJS) - A JavaScript library for binding keyboard combos without the pain of key codes and key combo conflicts.
 - [twbs/bootstrap](https://github.com/twbs/bootstrap) - The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.
 - [jejacks0n/mercury](https://github.com/jejacks0n/mercury) - Mercury Editor: The Rails WYSIWYG editor that allows embedding full page editing capabilities directly inline.
@@ -3332,7 +3341,7 @@
 - [vijishmadhavan/ArtLine](https://github.com/vijishmadhavan/ArtLine) - A Deep Learning based project for creating line art portraits.
 - [tradytics/eiten](https://github.com/tradytics/eiten) - Statistical and Algorithmic Investing Strategies for Everyone
 - [binhnguyennus/awesome-scalability](https://github.com/binhnguyennus/awesome-scalability) - The Patterns of Scalable, Reliable, and Performant Large-Scale Systems
-- [Ichaelus/video-colorization](https://github.com/Ichaelus/video-colorization) - Applying the machine learning tool "DeOldify" on videos, frame by frame.
+- [panetun/video-colorization](https://github.com/panetun/video-colorization) - Applying the machine learning tool "DeOldify" on videos, frame by frame.
 - [arbox/nlp-with-ruby](https://github.com/arbox/nlp-with-ruby) - Curated List: Practical Natural Language Processing done in Ruby
 - [arbox/machine-learning-with-ruby](https://github.com/arbox/machine-learning-with-ruby) - Curated list: Resources for machine learning in Ruby
 - [instillai/machine-learning-course](https://github.com/instillai/machine-learning-course) - :speech_balloon: Machine Learning Course with Python:
@@ -3585,7 +3594,6 @@
 - [wulkano/Kap](https://github.com/wulkano/Kap) - An open-source screen recorder built with web technology
 - [GeekyAnts/NativeBase](https://github.com/GeekyAnts/NativeBase) - Mobile-first, accessible components for React Native & Web to build consistent UI across Android, iOS and Web.
 - [este/este](https://github.com/este/este) - This repo is suspended.
-- [jsplumb/jsplumb](https://github.com/jsplumb/jsplumb) - Visual connectivity for webapps
 
 ## nlp 
 
@@ -5159,7 +5167,6 @@
 - [colszowka/phantomjs-gem](https://github.com/colszowka/phantomjs-gem) - Phantomjs via Rubygems: Auto-install phantomjs on demand for current platform. Comes with poltergeist integration.
 - [orlandotm/payment-webfont](https://github.com/orlandotm/payment-webfont) - An SVG webfont full of main payment system icons
 - [conveyal/transitive.js](https://github.com/conveyal/transitive.js) - Transit data visualization
-- [nathanyarnold/rHeight](https://github.com/nathanyarnold/rHeight) - A jQuery plugin that uses min-height to force DOM elements to the height of the viewport.
 - [ucnv/css-selection-art](https://github.com/ucnv/css-selection-art) - Generates css and html that contains a hidden image drawn with css selection
 - [csquared/IMGKit](https://github.com/csquared/IMGKit) - Uses wkhtmltoimage to create JPGs and PNGs from HTML
 - [julianshapiro/velocity](https://github.com/julianshapiro/velocity) - Accelerated JavaScript animation.
@@ -6859,7 +6866,7 @@
 - [ionic-team/ionic-framework](https://github.com/ionic-team/ionic-framework) - A powerful cross-platform UI toolkit for building native-quality iOS, Android, and Progressive Web Apps with HTML, CSS, and JavaScript.
 - [peric/GetCountries](https://github.com/peric/GetCountries) - MySQL, Firebird, XML, JSON, CSV or YAML generator for custom Countries data.
 - [meteor/meteor](https://github.com/meteor/meteor) - Meteor, the JavaScript App Platform
-- [jsplumb/jsplumb](https://github.com/jsplumb/jsplumb) - Visual connectivity for webapps
+- [visuallyjs/visuallyjs](https://github.com/visuallyjs/visuallyjs) - VisuallyJs releases and issue tracking
 - [videojs/video.js](https://github.com/videojs/video.js) - Video.js v10 - open source media player framework for HTML and React.
 
 ## react-native 
@@ -6960,7 +6967,7 @@
 - [bigardone/phoenix-trello](https://github.com/bigardone/phoenix-trello) - Trello tribute done in Elixir, Phoenix Framework, React and Redux.
 - [FormidableLabs/spectacle](https://github.com/FormidableLabs/spectacle) - A React-based library for creating sleek presentations using JSX syntax that gives you the ability to live demo your code.
 - [jackocnr/intl-tel-input](https://github.com/jackocnr/intl-tel-input) - For entering, formatting, and validating international telephone numbers. Available in vanilla JavaScript, or as React, Vue, Angular, and Svelte components.
-- [jsplumb/jsplumb](https://github.com/jsplumb/jsplumb) - Visual connectivity for webapps
+- [visuallyjs/visuallyjs](https://github.com/visuallyjs/visuallyjs) - VisuallyJs releases and issue tracking
 
 ## redteam 
 
@@ -7566,7 +7573,7 @@
 - [redux-zero/redux-zero](https://github.com/redux-zero/redux-zero) - A lightweight state container based on Redux
 - [jackocnr/intl-tel-input](https://github.com/jackocnr/intl-tel-input) - For entering, formatting, and validating international telephone numbers. Available in vanilla JavaScript, or as React, Vue, Angular, and Svelte components.
 - [vorillaz/devicons](https://github.com/vorillaz/devicons) - devicons - Crisp and clear logos & icons for developers.
-- [jsplumb/jsplumb](https://github.com/jsplumb/jsplumb) - Visual connectivity for webapps
+- [visuallyjs/visuallyjs](https://github.com/visuallyjs/visuallyjs) - VisuallyJs releases and issue tracking
 - [videojs/video.js](https://github.com/videojs/video.js) - Video.js v10 - open source media player framework for HTML and React.
 
 ## swift 
@@ -7863,6 +7870,7 @@
 - [ionic-team/ionic-framework](https://github.com/ionic-team/ionic-framework) - A powerful cross-platform UI toolkit for building native-quality iOS, Android, and Progressive Web Apps with HTML, CSS, and JavaScript.
 - [clientIO/joint](https://github.com/clientIO/joint) - A proven SVG-based JavaScript diagramming library powering exceptional UIs
 - [peers/peerjs](https://github.com/peers/peerjs) - Simple peer-to-peer with WebRTC.
+- [visuallyjs/visuallyjs](https://github.com/visuallyjs/visuallyjs) - VisuallyJs releases and issue tracking
 
 ## ubuntu 
 
@@ -8081,7 +8089,7 @@
 - [samtgarson/vueport](https://github.com/samtgarson/vueport) - [Deprecated] Single file components for Rails with Vue JS and Webpack
 - [jackocnr/intl-tel-input](https://github.com/jackocnr/intl-tel-input) - For entering, formatting, and validating international telephone numbers. Available in vanilla JavaScript, or as React, Vue, Angular, and Svelte components.
 - [HabitRPG/habitica](https://github.com/HabitRPG/habitica) - A habit tracker app which treats your goals like a Role Playing Game.
-- [jsplumb/jsplumb](https://github.com/jsplumb/jsplumb) - Visual connectivity for webapps
+- [visuallyjs/visuallyjs](https://github.com/visuallyjs/visuallyjs) - VisuallyJs releases and issue tracking
 
 ## web 
 
@@ -8250,6 +8258,7 @@
 - [ghostiam/vue-blocks](https://github.com/ghostiam/vue-blocks) - Vue2 dataflow graph editor
 - [DextApp/dext](https://github.com/DextApp/dext) - 🔍 A smart launcher. Powered by JavaScript.
 - [petervanderdoes/gitflow-avh](https://github.com/petervanderdoes/gitflow-avh) - AVH Edition of the git extensions to provide high-level repository operations for Vincent Driessen's branching model
+- [visuallyjs/visuallyjs](https://github.com/visuallyjs/visuallyjs) - VisuallyJs releases and issue tracking
 
 ## xml 
 
