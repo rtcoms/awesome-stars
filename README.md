@@ -758,7 +758,6 @@
 - [vadimsva/popModal](https://github.com/vadimsva/popModal) - jquery plugin for showing tooltips, titles, modal dialogs and etc
 - [bigskysoftware/intercooler-js](https://github.com/bigskysoftware/intercooler-js) - Making AJAX as easy as anchor tags
 - [superherojs/superherojs](https://github.com/superherojs/superherojs) - Superhero JavaScript
-- [Illyism/jquery.vibrate.js](https://github.com/Illyism/jquery.vibrate.js) - :heavy_dollar_sign: Vibration API Wrappers
 - [jxnblk/geomicons-open](https://github.com/jxnblk/geomicons-open) - Open Source Icons for the Web
 - [alfredxing/brick](https://github.com/alfredxing/brick) - Open-source webfont service
 - [nobilelucifero/UI-Feedbacks](https://github.com/nobilelucifero/UI-Feedbacks) - A bunch of feedback ideas for your buttons
@@ -2415,7 +2414,7 @@
 - [TrumpClone/ruby-rails-interview-questions](https://github.com/TrumpClone/ruby-rails-interview-questions) - Curated list of Ruby/Rails interview questions. Feel free to contribute! ⛏ 💎
 - [sreeharierk/datascience](https://github.com/sreeharierk/datascience) - This repository is a compilation of free resources for learning Data Science.
 - [smtlaissezfaire/git-shell-scripts](https://github.com/smtlaissezfaire/git-shell-scripts) - Homemade git shell scripts
-- [linsa-io/curated-lists](https://github.com/linsa-io/curated-lists) - Curated lists on various topics
+- [gendotnew/curated-lists](https://github.com/gendotnew/curated-lists) - Curated lists on various topics
 - [jasonelle-archive/jasonelle-v2](https://github.com/jasonelle-archive/jasonelle-v2) - 🛸 🏘️ Jasonelle issues, releases, discussions and wiki repository.
 - [PierBover/prosemirror-cookbook](https://github.com/PierBover/prosemirror-cookbook) - A series of examples for understanding ProseMirror
 - [open-source-ideas/ideas](https://github.com/open-source-ideas/ideas) - 💡 Looking for inspiration for your next open source project? Or perhaps you've got a brilliant idea you can't wait to share with others? Open Source Ideas is a community built specifically for this! 👋
@@ -2619,6 +2618,7 @@
 
 ## Pug 
 
+- [Illyism/jquery.vibrate.js](https://github.com/Illyism/jquery.vibrate.js) - :heavy_dollar_sign: Vibration API Wrappers
 - [Bttstrp/bootstrap-switch](https://github.com/Bttstrp/bootstrap-switch) - Turn checkboxes and radio buttons in toggle switches.
 
 ## PureScript 
