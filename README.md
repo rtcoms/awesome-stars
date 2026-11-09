@@ -2265,7 +2265,7 @@
 
 ## Jupyter Notebook 
 
-- [duemig/Stanford-Project-Predicting-stock-prices-using-a-LSTM-Network](https://github.com/duemig/Stanford-Project-Predicting-stock-prices-using-a-LSTM-Network) - Stanford Project: Artificial Intelligence is changing virtually every aspect of our lives. Today’s algorithms accomplish tasks that until recently only expert humans could perform. As it relates to fi
+- [duemig/Stanford-Project-Predicting-stock-prices-using-a-LSTM-Network](https://github.com/duemig/Stanford-Project-Predicting-stock-prices-using-a-LSTM-Network) - CS230 (Stanford) project: LSTM networks vs. regularised logistic regression for the monthly direction of the S&P 500, judged against the base rate
 - [nityansuman/warren](https://github.com/nityansuman/warren) - Web app to predict closing stock prices in real time using Facebook's Prophet time series algorithm with a multi-variate, single-step time series forecasting strategy.
 - [MubertAI/Mubert-Text-to-Music](https://github.com/MubertAI/Mubert-Text-to-Music) - A simple notebook demonstrating prompt-based music generation via Mubert API
 - [yongghongg/stock-screener](https://github.com/yongghongg/stock-screener) - A collection of notebooks I used in my Medium articles.
@@ -3840,7 +3840,7 @@
 - [outline/outline](https://github.com/outline/outline) - The fastest knowledge base for growing teams. Beautiful, realtime collaborative, feature packed, and markdown compatible.
 - [InboxSDK/InboxSDK](https://github.com/InboxSDK/InboxSDK) - The InboxSDK lets you build apps for Gmail.
 - [microsoft/azure-pipelines-tasks](https://github.com/microsoft/azure-pipelines-tasks) - Tasks for Azure Pipelines
-- [invoke-ai/InvokeAI](https://github.com/invoke-ai/InvokeAI) - Invoke is a leading creative engine for Stable Diffusion models, empowering professionals, artists, and enthusiasts to generate and create visual media using the latest AI-driven technologies. The sol
+- [invoke-ai/InvokeAI](https://github.com/invoke-ai/InvokeAI) - Invoke is a leading creative engine that uses image and video generation models to empower professionals, artists, and enthusiasts to generate and create visual media using the latest AI-driven techno
 - [vercel/satori](https://github.com/vercel/satori) - Enlightened library to convert HTML and CSS to SVG
 - [thibaultyou/tradingview-alerts-processor](https://github.com/thibaultyou/tradingview-alerts-processor) - Minimalist service designed to execute TradingView webhooks and process them to cryptocurrencies exchanges.
 - [gilbarbara/react-joyride](https://github.com/gilbarbara/react-joyride) - Create guided tours in your apps
