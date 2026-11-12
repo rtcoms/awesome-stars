@@ -1076,7 +1076,7 @@
 - [yusufnb/verify-json](https://github.com/yusufnb/verify-json) - verify-json
 - [localjo/react-tater](https://github.com/localjo/react-tater) - A React component to add annotations to any element on a page 🥔
 - [covid19india/covid19india.github.io](https://github.com/covid19india/covid19india.github.io) - Tracking the impact of COVID-19 in India
-- [haxtheweb/webcomponents](https://github.com/haxtheweb/webcomponents) - Monorepo of webcomponents and associated microservice apis
+- [haxtheweb/webcomponents](https://github.com/haxtheweb/webcomponents) - Monorepo of HAX web components built with Lit and the DDD design system, published to npm as @haxtheweb/*
 - [jxnblk/microicon](https://github.com/jxnblk/microicon) - SVG icon microservice
 - [tabler/tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 6200 free MIT-licensed high-quality SVG icons for you to use in your web projects.
 - [adrians5j/react-butterfiles](https://github.com/adrians5j/react-butterfiles) - 🦋 Component for building file fields - from basic file inputs to drag and drop image galleries.
@@ -1436,7 +1436,6 @@
 - [amperser/proselint](https://github.com/amperser/proselint) - [Mirror] A linter for prose.
 - [UDST/vizicities](https://github.com/UDST/vizicities) - A framework for 3D geospatial visualization in the browser
 - [uidotdev/react-course](https://github.com/uidotdev/react-course) - Code for ui.dev's "Classic React" course
-- [markedjs/marked](https://github.com/markedjs/marked) - A markdown parser and compiler. Built for speed.
 - [raphamorim/origami.js](https://github.com/raphamorim/origami.js) - Powerful and Lightweight Library to create using HTML5 Canvas
 - [fiduswriter/fiduswriter](https://github.com/fiduswriter/fiduswriter) - Fidus Writer is an online collaborative editor for academics.
 - [bringking/react-web-animation](https://github.com/bringking/react-web-animation) - React components for the Web Animations API - http://react-web-animation.surge.sh
@@ -2627,6 +2626,7 @@
 
 ## Python 
 
+- [Dongbumlee/ontosmith](https://github.com/Dongbumlee/ontosmith) - A decision-model-based ontology & knowledge-graph builder — builds governed knowledge graphs from your documents, every fact gated and traceable to its evidence.
 - [chrisworsey55/atlas-gic](https://github.com/chrisworsey55/atlas-gic) - ATLAS by General Intelligence Capital — Self-improving AI trading agents using Karpathy-style autoresearch
 - [timowhite88/Farnsworth](https://github.com/timowhite88/Farnsworth) - Farnsworth is an autonomous, infinitely-memorable, self-evolving companion AI built entirely with free open-source tools.
 - [gmickel/flow-next](https://github.com/gmickel/flow-next) - Faster than your agent alone. And better. A workflow plugin that takes a bug, idea or ticket to a verified pull request: specs, cross-model review by risk, live QA, receipts in your repo. Claude Code 
@@ -4183,6 +4183,7 @@
 - [floating-ui/floating-ui](https://github.com/floating-ui/floating-ui) - A JavaScript library to position floating elements and create interactions for them.
 - [este/este](https://github.com/este/este) - This repo is suspended.
 - [DKirwan/calendar-heatmap](https://github.com/DKirwan/calendar-heatmap) - A d3 heatmap for representing time series data similar to github's contribution chart
+- [markedjs/marked](https://github.com/markedjs/marked) - A markdown parser and compiler. Built for speed.
 - [JedWatson/react-select](https://github.com/JedWatson/react-select) - The Select Component for React.js
 - [ichub/tply](https://github.com/ichub/tply) - typewriter effect for your websites
 - [GrapesJS/grapesjs](https://github.com/GrapesJS/grapesjs) - Free and Open source Web Builder Framework. Next generation tool for building templates without coding
