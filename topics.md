@@ -4085,7 +4085,6 @@
 - [bradtraversy/design-resources-for-developers](https://github.com/bradtraversy/design-resources-for-developers) - Curated list of design and UI resources from stock photos, web templates, CSS frameworks, UI libraries, tools and much more
 - [adridipietro/silvermark](https://github.com/adridipietro/silvermark) - 
 - [jamby1100/rails-docker-project](https://github.com/jamby1100/rails-docker-project) - This is a Ruby on Rails app written to work on top of Docker and AWS ECS. It is a supplement to the article:
-- [mohitjain/api-integration-learning-react](https://github.com/mohitjain/api-integration-learning-react) - 
 - [testdouble/suture](https://github.com/testdouble/suture) - 🏥 A Ruby gem that helps you refactor your legacy code
 - [mgdm/htmlq](https://github.com/mgdm/htmlq) - Like jq, but for HTML.
 - [supabase/postgres](https://github.com/supabase/postgres) - Unmodified Postgres with some useful extensions
@@ -4201,7 +4200,6 @@
 - [jadjoubran/WebFundamentals](https://github.com/jadjoubran/WebFundamentals) - Best practices for modern web development
 - [barsoom/attr_extras](https://github.com/barsoom/attr_extras) - Takes some boilerplate out of Ruby with methods like attr_initialize.
 - [mohitjain/api_layers](https://github.com/mohitjain/api_layers) - This gem is inspired by Use Case Driven and Layered Architecture
-- [mohitjain/leetcode_solutions](https://github.com/mohitjain/leetcode_solutions) - 
 - [square/cubism](https://github.com/square/cubism) - Cubism.js: A JavaScript library for time series visualization.
 - [rishiip/ruby-on-rails-interview-questions](https://github.com/rishiip/ruby-on-rails-interview-questions) - A list of common questions with answers ask during interview of ruby on rails job.
 - [TrumpClone/ruby-rails-interview-questions](https://github.com/TrumpClone/ruby-rails-interview-questions) - Curated list of Ruby/Rails interview questions. Feel free to contribute! ⛏ 💎
@@ -4755,7 +4753,6 @@
 - [garbles/yolk](https://github.com/garbles/yolk) - :egg: A library for building asynchronous user interfaces.
 - [1wheel/graph-scroll](https://github.com/1wheel/graph-scroll) - scrollers &gt; steppers
 - [JSONAPI-Resources/jsonapi-resources](https://github.com/JSONAPI-Resources/jsonapi-resources) - A resource-focused Rails library for developing JSON:API compliant servers.
-- [mohitjain/social-login-in-rails](https://github.com/mohitjain/social-login-in-rails) - A small application with integrates with Devise + Twitter + Facebook + Linkedin + Google + Github.
 - [sparksuite/simplemde-markdown-editor](https://github.com/sparksuite/simplemde-markdown-editor) - A simple, beautiful, and embeddable JavaScript Markdown editor. Delightful editing for beginners and experts alike. Features built-in autosaving and spell checking.
 - [cheeaun/mooeditable](https://github.com/cheeaun/mooeditable) - [DISCONTINUED] A simple web-based WYSIWYG editor, written in MooTools.
 - [seven1m/30-days-of-elixir](https://github.com/seven1m/30-days-of-elixir) - A walk through the Elixir language in 30 exercises.
