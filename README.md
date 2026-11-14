@@ -638,7 +638,6 @@
 - [HoangTran0410/3DCarousel](https://github.com/HoangTran0410/3DCarousel) - 3D Carousel with mouse controls
 - [dwyl/learn-javascript](https://github.com/dwyl/learn-javascript) - A Series of Simple Steps in JavaScript :-)
 - [jadjoubran/WebFundamentals](https://github.com/jadjoubran/WebFundamentals) - Best practices for modern web development
-- [wilsonfreitas/awesome-quant](https://github.com/wilsonfreitas/awesome-quant) - A curated list of insanely awesome libraries, packages and resources for Quants (Quantitative Finance)
 - [ivankahl/drawio-notion-embed](https://github.com/ivankahl/drawio-notion-embed) - A super simple project that lets you embed draw.io diagrams directly into Notion.
 - [CodeGuppyPrograms/TurtleGFX](https://github.com/CodeGuppyPrograms/TurtleGFX) - Turtle Graphics for p5.js / JavaScript
 - [vladocar/Basic.css](https://github.com/vladocar/Basic.css) - Basic.css - Classless CSS Starter File
@@ -967,7 +966,6 @@
 - [humaans/react-machine](https://github.com/humaans/react-machine) - A state machine hook for React applications.
 - [bigskysoftware/_hyperscript](https://github.com/bigskysoftware/_hyperscript) - a small scripting language for the web
 - [konstaui/konsta](https://github.com/konstaui/konsta) - Mobile UI components made with Tailwind CSS
-- [mohitjain/api-integration-learning-react](https://github.com/mohitjain/api-integration-learning-react) - 
 - [EtherDream/web2img](https://github.com/EtherDream/web2img) - Bundle web files into a single image
 - [algolia/github-awesome-autocomplete](https://github.com/algolia/github-awesome-autocomplete) - :octocat: Add instant search capabilities to GitHub's search bar
 - [hihayk/matter](https://github.com/hihayk/matter) - 
@@ -2709,6 +2707,7 @@
 - [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python) - All Algorithms implemented in Python
 - [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - Hunt down social media accounts by username across social networks
 - [dividuum/xkcd-1110](https://github.com/dividuum/xkcd-1110) - Code for xkcd-map.rent-a-geek.de
+- [wilsonfreitas/awesome-quant](https://github.com/wilsonfreitas/awesome-quant) - A curated list of insanely awesome libraries, packages and resources for Quants (Quantitative Finance)
 - [tradytics/eiten](https://github.com/tradytics/eiten) - Statistical and Algorithmic Investing Strategies for Everyone
 - [vinissimus/jobs](https://github.com/vinissimus/jobs) - A PL/PGSQL based work queue, with an asyncio asyncpg python API
 - [aws/chalice](https://github.com/aws/chalice) - Python Serverless Microframework for AWS
@@ -3054,7 +3053,6 @@
 - [barsoom/attr_extras](https://github.com/barsoom/attr_extras) - Takes some boilerplate out of Ruby with methods like attr_initialize.
 - [mohitjain/api_layers](https://github.com/mohitjain/api_layers) - This gem is inspired by Use Case Driven and Layered Architecture
 - [mohammed-io/factory_bakery](https://github.com/mohammed-io/factory_bakery) - 
-- [mohitjain/leetcode_solutions](https://github.com/mohitjain/leetcode_solutions) - 
 - [alexrudall/ruby-openai](https://github.com/alexrudall/ruby-openai) - OpenAI API + Ruby! 🤖❤️ GPT-5 & Realtime WebRTC compatible!
 - [pawurb/rails-pg-extras](https://github.com/pawurb/rails-pg-extras) - Rails PostgreSQL database performance insights. Locks, index usage, buffer cache hit ratios, vacuum stats and more.
 - [teespring-labs/active_record_replica](https://github.com/teespring-labs/active_record_replica) - Redirect ActiveRecord (Rails) reads to replica databases while ensuring all writes go to the primary database.
@@ -3232,7 +3230,6 @@
 - [roo-rb/roo](https://github.com/roo-rb/roo) - Roo provides an interface to spreadsheets of several sorts.
 - [ruby/did_you_mean](https://github.com/ruby/did_you_mean) - The gem that has been saving people from typos since 2014
 - [JSONAPI-Resources/jsonapi-resources](https://github.com/JSONAPI-Resources/jsonapi-resources) - A resource-focused Rails library for developing JSON:API compliant servers.
-- [mohitjain/social-login-in-rails](https://github.com/mohitjain/social-login-in-rails) - A small application with integrates with Devise + Twitter + Facebook + Linkedin + Google + Github.
 - [typhoeus/typhoeus](https://github.com/typhoeus/typhoeus) - Typhoeus wraps libcurl in order to make fast and reliable requests.
 - [poise/application_ruby](https://github.com/poise/application_ruby) - Development repository for Opscode Cookbook application_ruby
 - [mojombo/chronic](https://github.com/mojombo/chronic) - Chronic is a pure Ruby natural language date parser.
