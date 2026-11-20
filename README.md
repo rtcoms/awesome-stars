@@ -83,7 +83,7 @@
 
 - [markmead/hyperui](https://github.com/markmead/hyperui) - Free Tailwind CSS v4 components for your next project, designed to enhance your web development with the latest features and styles 🚀
 - [nas5w/interview-guide](https://github.com/nas5w/interview-guide) - An opinionated, actionable guide for software engineering interviews.
-- [tabler/tabler](https://github.com/tabler/tabler) - Free and open source admin dashboard UI kit built on Bootstrap: 100+ pages, 6,000+ icons, dark mode, RTL.
+- [tabler/tabler](https://github.com/tabler/tabler) - Free and open source admin dashboard UI kit built on Bootstrap: 100+ pages, 6,500+ icons, dark mode, RTL.
 - [neiesc/awesome-minimalist](https://github.com/neiesc/awesome-minimalist) - A curated list of awesome minimalist frameworks (simple and lightweight).
 
 ## C 
@@ -2095,7 +2095,7 @@
 - [tildeio/rsvp.js](https://github.com/tildeio/rsvp.js) - A lightweight library that provides tools for organizing asynchronous code
 - [winmarkltd/BootstrapFormHelpers](https://github.com/winmarkltd/BootstrapFormHelpers) - Bootstrap Form Helpers
 - [ericleong/flipgrid.js](https://github.com/ericleong/flipgrid.js) - A simple, content-focused photo gallery inspired by Microsoft's Metro interface and CSS 3D transitions.
-- [8ARTEK/projector](https://github.com/8ARTEK/projector) - 📽 A simple HTML mockup presentation engine for projects
+- [byBARTEK/projector](https://github.com/byBARTEK/projector) - 📽 A simple HTML mockup presentation engine for projects
 - [cpolzer/jQDrawBootstrapGrid](https://github.com/cpolzer/jQDrawBootstrapGrid) - A simple jQuery plugin that draws grid columns to a twitter bootstrap enabled layout.
 - [codrops/Windy](https://github.com/codrops/Windy) - A jQuery Plugin for Swift Content Navigation
 - [badsyntax/jquery-spellchecker](https://github.com/badsyntax/jquery-spellchecker) - [not maintained] A lightweight jQuery plugin that can check the spelling of text within a form field or DOM tree.
@@ -2201,6 +2201,7 @@
 - [manuelbieh/geolib](https://github.com/manuelbieh/geolib) - Zero dependency library to provide some basic geo functions
 - [HumbleSoftware/Flotr2](https://github.com/HumbleSoftware/Flotr2) - Graphs and Charts for Canvas in JavaScript.
 - [andrewplummer/tooltip](https://github.com/andrewplummer/tooltip) - A simple jQuery tooltip plugin.
+- [twbs/bootstrap](https://github.com/twbs/bootstrap) - The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.
 - [jamescryer/grumble.js](https://github.com/jamescryer/grumble.js) - jQuery plugin to add 360 rotatable bubble style tooltips
 - [krisnoble/Portamento](https://github.com/krisnoble/Portamento) - jQuery plugin for easy sliding/floating panels.
 - [tiff/wysihtml5](https://github.com/tiff/wysihtml5) - Open source rich text editor based on HTML5 and the progressive-enhancement approach. Uses a sophisticated security concept and aims to generate fully valid HTML5 markup by preventing unmaintainable t
@@ -2318,7 +2319,6 @@
 - [wix/react-native-navigation](https://github.com/wix/react-native-navigation) - A complete native navigation solution for React Native
 - [react-native-elements/react-native-elements](https://github.com/react-native-elements/react-native-elements) - Cross-Platform React Native UI Toolkit
 - [vorillaz/devicons](https://github.com/vorillaz/devicons) - devicons - Crisp and clear logos & icons for developers.
-- [twbs/bootstrap](https://github.com/twbs/bootstrap) - The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.
 
 ## Makefile 
 
