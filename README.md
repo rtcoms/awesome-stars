@@ -580,6 +580,7 @@
 - [go-martini/martini](https://github.com/go-martini/martini) - Classy web framework for Go
 - [progrium/localtunnel](https://github.com/progrium/localtunnel) - Expose localhost servers to the Internet
 - [fiorix/freegeoip](https://github.com/fiorix/freegeoip) - IP geolocation web server
+- [dokku/dokku](https://github.com/dokku/dokku) - A docker-powered PaaS that helps you build and manage the lifecycle of applications
 - [mislav/hub](https://github.com/mislav/hub) - A command-line tool that makes git easier to use with GitHub.
 - [mmcgrana/gobyexample](https://github.com/mmcgrana/gobyexample) - Go by Example
 - [astaxie/build-web-application-with-golang](https://github.com/astaxie/build-web-application-with-golang) - A golang ebook intro how to build a web with golang
@@ -622,7 +623,6 @@
 - [justalever/kickoff_tailwind](https://github.com/justalever/kickoff_tailwind) - A rapid Rails 7 application template for personal use bundled with Tailwind CSS
 - [themesberg/flowbite](https://github.com/themesberg/flowbite) - Open-source UI component library and front-end development framework based on Tailwind CSS
 - [chr15m/DoodleCSS](https://github.com/chr15m/DoodleCSS) - A simple hand drawn HTML/CSS theme
-- [twf-nikhila/Awesome-Black-Friday-Cyber-Monday-deals](https://github.com/twf-nikhila/Awesome-Black-Friday-Cyber-Monday-deals) - 🟢 2026 Deals Live - Black Friday & Cyber Monday, Christmas & Holidays Deals for Developers, Techies & Entrepreneurs
 - [themesberg/tailwind-dashboard-windster](https://github.com/themesberg/tailwind-dashboard-windster) - Free and open-source admin dashboard interface built on top of Tailwind CSS and Flowbite
 - [gr2m/cloudflare-worker-github-oauth-login](https://github.com/gr2m/cloudflare-worker-github-oauth-login) - Use a Cloudflare worker for GitHub's OAuth login flow
 - [CanciuCostin/android-spyware](https://github.com/CanciuCostin/android-spyware) - Rails c&c web application for spying Android devices
@@ -2331,7 +2331,7 @@
 
 ## Nix 
 
-- [supabase/postgres](https://github.com/supabase/postgres) - Unmodified Postgres with some useful extensions
+- [supabase/postgres](https://github.com/supabase/postgres) - PostgreSQL with extensions and Supabase stuff
 
 ## Nunjucks 
 
@@ -2670,6 +2670,7 @@
 - [geldata/gel](https://github.com/geldata/gel) - Gel supercharges Postgres with a modern data model, graph queries, Auth & AI solutions, and much more.
 - [GAM-team/got-your-back](https://github.com/GAM-team/got-your-back) - Got Your Back (GYB) is a command line tool for backing up your Gmail messages to your computer using Gmail's API over HTTPS.
 - [quarkfin/qf-lib](https://github.com/quarkfin/qf-lib) - Modular Python library that provides an advanced event driven backtester and a set of high quality tools for quantitative finance. Integrated with various data vendors and brokers, supports Crypto, St
+- [twf-nikhila/Awesome-Black-Friday-Cyber-Monday-deals](https://github.com/twf-nikhila/Awesome-Black-Friday-Cyber-Monday-deals) - 🟢 2026 Deals Live - Black Friday & Cyber Monday, Christmas & Holidays Deals for Developers, Techies & Entrepreneurs
 - [python-eel/Eel](https://github.com/python-eel/Eel) - A little Python library for making simple Electron-like HTML/JS GUI apps
 - [jonaswinkler/paperless-ng](https://github.com/jonaswinkler/paperless-ng) - A supercharged version of paperless: scan, index and archive all your physical documents
 - [hummingbot/hummingbot](https://github.com/hummingbot/hummingbot) - Open source software that helps you create and deploy high-frequency crypto trading bots
@@ -3778,7 +3779,6 @@
 - [riobard/bash-powerline](https://github.com/riobard/bash-powerline) - Powerline-style Bash prompt in pure Bash script. See also https://github.com/riobard/zsh-powerline
 - [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,500+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
 - [Bash-it/bash-it](https://github.com/Bash-it/bash-it) - A community Bash framework.
-- [dokku/dokku](https://github.com/dokku/dokku) - A docker-powered PaaS that helps you build and manage the lifecycle of applications
 - [vlachoudis/DetectPhone](https://github.com/vlachoudis/DetectPhone) - 
 - [kvz/bash3boilerplate](https://github.com/kvz/bash3boilerplate) - Templates to write better Bash scripts
 - [gerhard/deliver](https://github.com/gerhard/deliver) - Pure bash deployment tool with customisable strategies.
@@ -3792,7 +3792,6 @@
 
 - [rossrobino/backtester](https://github.com/rossrobino/backtester) - Easily backtest simple volatility trading strategies online
 - [guyromm/svelte-postgrest-template](https://github.com/guyromm/svelte-postgrest-template) - Svelte/SvelteKit + PostgREST + EveryLayout + social auth starter template
-- [mathesar-foundation/mathesar](https://github.com/mathesar-foundation/mathesar) - An intuitive spreadsheet-like interface that lets users of all technical skill levels view, edit, query, and collaborate on Postgres data directly. 100% open source and self hosted, with native Postgr
 
 ## Swift 
 
@@ -3928,6 +3927,7 @@
 - [wpengine/faustjs](https://github.com/wpengine/faustjs) - Faust.js™ - The Headless WordPress Toolkit
 - [kotarella1110/use-custom-compare](https://github.com/kotarella1110/use-custom-compare) - It's React's useEffect/useMemo/useCallback hooks, except using custom comparison on the inputs, not reference equality
 - [juliencrn/usehooks-ts](https://github.com/juliencrn/usehooks-ts) - React hook library, ready to use, written in Typescript.
+- [mathesar-foundation/mathesar](https://github.com/mathesar-foundation/mathesar) - An intuitive spreadsheet-like interface that lets users of all technical skill levels view, edit, query, and collaborate on Postgres data directly. 100% open source and self hosted, with native Postgr
 - [Swizec/useAuth](https://github.com/Swizec/useAuth) - The simplest way to add authentication to your React app. Supports various providers.
 - [dai-shi/redux-in-worker](https://github.com/dai-shi/redux-in-worker) - Entire Redux in Web Worker
 - [dai-shi/reactive-react-redux](https://github.com/dai-shi/reactive-react-redux) - [NOT MAINTAINED] React Redux binding with React Hooks and Proxy
