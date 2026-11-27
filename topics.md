@@ -4091,7 +4091,7 @@
 - [jamby1100/rails-docker-project](https://github.com/jamby1100/rails-docker-project) - This is a Ruby on Rails app written to work on top of Docker and AWS ECS. It is a supplement to the article:
 - [testdouble/suture](https://github.com/testdouble/suture) - 🏥 A Ruby gem that helps you refactor your legacy code
 - [mgdm/htmlq](https://github.com/mgdm/htmlq) - Like jq, but for HTML.
-- [supabase/postgres](https://github.com/supabase/postgres) - Unmodified Postgres with some useful extensions
+- [supabase/postgres](https://github.com/supabase/postgres) - PostgreSQL with extensions and Supabase stuff
 - [karafka/example-apps](https://github.com/karafka/example-apps) - Karafka and WaterDrop example applications
 - [bensmithett/coexist](https://github.com/bensmithett/coexist) - Unobtrusively server-render JS pages from non-JS frameworks.
 - [ZilvinasKucinskas/FRP-EventSourcing](https://github.com/ZilvinasKucinskas/FRP-EventSourcing) - Functional Reactive Programming in Event Sourcing Systems
